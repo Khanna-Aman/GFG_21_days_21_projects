@@ -1,0 +1,166 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Titanic Dataset Profiling Report</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 40px; }
+            h1 { color: #333; }
+            h2 { color: #666; border-bottom: 1px solid #ccc; }
+            table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+            th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+            th { background-color: #f2f2f2; }
+        </style>
+    </head>
+    <body>
+        <h1>Titanic Dataset Profiling Report</h1>
+        
+        <h2>Dataset Overview</h2>
+        <p><strong>Shape:</strong> 891 rows, 15 columns</p>
+        <p><strong>Missing values:</strong> 0</p>
+        
+        <h2>Numerical Features Summary</h2>
+        <table>
+            <tr><th>Feature</th><th>Count</th><th>Mean</th><th>Std</th><th>Min</th><th>Max</th></tr>
+    
+            <tr>
+                <td>PassengerId</td>
+                <td>891</td>
+                <td>446.00</td>
+                <td>257.35</td>
+                <td>1.00</td>
+                <td>891.00</td>
+            </tr>
+        
+            <tr>
+                <td>Survived</td>
+                <td>891</td>
+                <td>0.38</td>
+                <td>0.49</td>
+                <td>0.00</td>
+                <td>1.00</td>
+            </tr>
+        
+            <tr>
+                <td>Pclass</td>
+                <td>891</td>
+                <td>2.31</td>
+                <td>0.84</td>
+                <td>1.00</td>
+                <td>3.00</td>
+            </tr>
+        
+            <tr>
+                <td>Age</td>
+                <td>891</td>
+                <td>29.36</td>
+                <td>13.02</td>
+                <td>0.42</td>
+                <td>80.00</td>
+            </tr>
+        
+            <tr>
+                <td>SibSp</td>
+                <td>891</td>
+                <td>0.52</td>
+                <td>1.10</td>
+                <td>0.00</td>
+                <td>8.00</td>
+            </tr>
+        
+            <tr>
+                <td>Parch</td>
+                <td>891</td>
+                <td>0.38</td>
+                <td>0.81</td>
+                <td>0.00</td>
+                <td>6.00</td>
+            </tr>
+        
+            <tr>
+                <td>Fare</td>
+                <td>891</td>
+                <td>32.20</td>
+                <td>49.69</td>
+                <td>0.00</td>
+                <td>512.33</td>
+            </tr>
+        
+            <tr>
+                <td>Has_Cabin</td>
+                <td>891</td>
+                <td>0.23</td>
+                <td>0.42</td>
+                <td>0.00</td>
+                <td>1.00</td>
+            </tr>
+        
+            <tr>
+                <td>FamilySize</td>
+                <td>891</td>
+                <td>1.90</td>
+                <td>1.61</td>
+                <td>1.00</td>
+                <td>11.00</td>
+            </tr>
+        
+            <tr>
+                <td>IsAlone</td>
+                <td>891</td>
+                <td>0.60</td>
+                <td>0.49</td>
+                <td>0.00</td>
+                <td>1.00</td>
+            </tr>
+        
+        </table>
+        
+        <h2>Categorical Features</h2>
+        <table>
+            <tr><th>Feature</th><th>Unique Values</th><th>Most Frequent</th></tr>
+    
+            <tr>
+                <td>Name</td>
+                <td>891</td>
+                <td>Abbing, Mr. Anthony</td>
+            </tr>
+        
+            <tr>
+                <td>Sex</td>
+                <td>2</td>
+                <td>male</td>
+            </tr>
+        
+            <tr>
+                <td>Ticket</td>
+                <td>681</td>
+                <td>1601</td>
+            </tr>
+        
+            <tr>
+                <td>Embarked</td>
+                <td>3</td>
+                <td>S</td>
+            </tr>
+        
+            <tr>
+                <td>Title</td>
+                <td>5</td>
+                <td>Mr</td>
+            </tr>
+        
+        </table>
+        
+        <h2>Key Insights</h2>
+        <ul>
+            <li>Overall survival rate: 38.4%</li>
+            <li>Female survival rate: 74.2%</li>
+            <li>Male survival rate: 18.9%</li>
+            <li>1st class survival rate: 63.0%</li>
+            <li>3rd class survival rate: 24.2%</li>
+        </ul>
+        
+        <p><em>This report was generated as part of Day 1 assignment for comprehensive Titanic dataset analysis.</em></p>
+    </body>
+    </html>
+    
