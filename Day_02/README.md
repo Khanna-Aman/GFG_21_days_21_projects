@@ -1,114 +1,97 @@
-# Day 2: Netflix Content Analysis
+# Day 2: Netflix Content Strategy Analysis
 
 ## Project Overview
 
-In-depth exploratory data analysis (EDA) of Netflix's content strategy, analyzing trends in content production, popular genres, content ratings, and distribution patterns.
+Professional analysis of Netflix's content library to understand their content acquisition and curation strategy. This project analyzes 7,770 Netflix titles to reveal insights about content ratings, acquisition patterns, production trends, and directorial choices.
 
-## Objectives
+## Analysis Files
 
-- Perform comprehensive EDA on Netflix dataset
-- Analyze content trends over time
-- Understand geographical distribution of content
-- Examine genre preferences and rating patterns
-- Extract insights about Netflix's content strategy
+### 📊 Netflix_Content_Analysis.ipynb
+**Main analysis notebook with comprehensive solutions**
+- All 5 submission questions answered with detailed visualizations
+- Professional presentation with 20+ charts and plots
+- Data-driven insights and strategic recommendations
+- Complete statistical analysis and trend identification
+
+### 📋 2_Cracking_the_Code_An_Inside_Look_at_Netflix's_Content_Strategy.ipynb
+**Original assignment questions with solutions summary**
+- Assignment questions as provided
+- Quick solutions summary for each question
+- References to detailed analysis in main notebook
 
 ## Dataset Information
 
-**Source**: Netflix Titles Dataset  
-**Records**: 7,787 titles (7,770 after cleaning)  
-**Features**: 12 columns  
-**Content Types**: Movies (69.1%) and TV Shows (30.9%)  
-**Time Range**: 2008-2021
+- **Source**: Netflix Titles Dataset from GeeksforGeeks 21-Days-21-Projects
+- **Size**: 7,770 titles after data cleaning
+- **Time Period**: 2008-2021
+- **Content Types**: Movies (69.1%) and TV Shows (30.9%)
+
+## Key Analysis Questions
+
+1. **Content Ratings Evolution**: How has the distribution of content ratings changed over time?
+2. **Content Age vs Type**: Is there a relationship between content age and its type?
+3. **Production Trends**: Can we identify trends in content production based on release year vs year added?
+4. **Content Themes**: What are the most common words in content descriptions?
+5. **Director Analysis**: Who are the top directors on Netflix?
 
 ## Key Findings
 
-### Content Distribution
-- **Movies**: 5,372 titles (69.1%)
-- **TV Shows**: 2,398 titles (30.9%)
-- **Peak Addition Year**: 2019 with 2,153 titles
-- **Peak Addition Month**: December with 832 titles
+### Strategic Insights
 
-### Geographic Analysis
-- **Top Producer**: United States (3,793 titles)
-- **International Presence**: Strong content from India (990), UK (722), Canada (412)
-- **Global Strategy**: Content from 681 different countries/regions
+- **Mature Audience Focus**: TV-MA consistently dominates (37-40%) showing Netflix's strategic focus on adult viewers
+- **Fresh TV Content**: TV shows are acquired 3.3 years fresher than movies (2.3 vs 5.6 years)
+- **Same-Year Releases**: 2020 showed peak with 42.4% same-year releases, indicating increasing focus on fresh content
+- **Female-Centric Narratives**: "woman" is the most common word in descriptions, showing emphasis on female protagonists
+- **Global Strategy**: Content from 681+ countries with US dominance but strong international presence
 
-### Content Characteristics
-- **Average Movie Duration**: 99.3 minutes
-- **Average TV Show Seasons**: 1.8 seasons
-- **Most Common Rating**: TV-MA (36.8% of content)
-- **Popular Genres**: International Movies, Dramas, Comedies
+### Netflix's Winning Formula
 
-### Content Strategy Insights
-- **International Focus**: Heavy emphasis on international content
-- **Mature Audience**: 36.8% rated TV-MA, targeting adult viewers
-- **Diverse Portfolio**: Content spanning multiple genres and countries
-- **Recent Content**: Strong focus on content from 2015 onwards
+1. **Mature, diverse, global content** targeting adult audiences
+2. **Fresh TV shows + established movie catalog** acquisition strategy
+3. **Female-driven narratives and relationship stories** as core themes
+4. **Mix of prolific directors and renowned filmmakers** for content creation
+5. **Increasing investment in same-year releases** for competitive advantage
 
-## Technical Implementation
-
-### Data Cleaning Process
-1. **Missing Value Treatment**:
-   - Director/Cast: Filled with "Unknown"
-   - Country: Filled with mode (United States)
-   - Date/Rating: Dropped rows with missing values
-
-2. **Feature Engineering**:
-   - Extracted year and month from date_added
-   - Parsed duration for movies and TV shows
-   - Split multi-value fields (countries, genres)
-
-3. **Data Validation**:
-   - Converted date_added to datetime format
-   - Ensured data type consistency
-   - Verified no missing values after cleaning
-
-## Files Structure
+## Repository Structure
 
 ```
 Day_02/
-├── README.md                                           # Project documentation
-├── 2_Cracking_the_Code_An_Inside_Look_at_Netflix's_Content_Strategy.ipynb  # Local notebook
-├── netflix_analysis_github.ipynb                      # GitHub version (with git clone)
-└── netflix_analysis_local.py                          # Local Python script
+├── README.md                                                                      # Project overview and findings
+├── Netflix_Content_Analysis.ipynb                                                # Main analysis with comprehensive solutions
+├── 2_Cracking_the_Code_An_Inside_Look_at_Netflix's_Content_Strategy.ipynb       # Assignment questions with solutions summary
+└── data/
+    └── README.md                                                                 # Dataset documentation
 ```
 
-## Usage
+## How to Run
 
-### Local Execution
-```bash
-# Run Python script
-python netflix_analysis_local.py
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Khanna-Aman/GFG_21_days_21_projects.git
+   cd GFG_21_days_21_projects/Day_02
+   ```
 
-# Or use Jupyter notebook
-jupyter notebook 2_Cracking_the_Code_An_Inside_Look_at_Netflix's_Content_Strategy.ipynb
-```
+2. **Install required packages**:
+   ```bash
+   pip install pandas numpy matplotlib seaborn wordcloud
+   ```
 
-### GitHub/Colab Execution
-```bash
-# Use the GitHub version which includes git clone
-jupyter notebook netflix_analysis_github.ipynb
-```
+3. **Run the analysis**:
+   - Open `Netflix_Content_Analysis.ipynb` for complete analysis
+   - Open `2_Cracking_the_Code_An_Inside_Look_at_Netflix's_Content_Strategy.ipynb` for assignment questions
+   - Execute all cells to reproduce the analysis
+   - The notebook will automatically clone the dataset repository
 
-## Key Insights Summary
+## Technical Implementation
 
-1. **Content Volume**: Netflix has significantly more movies than TV shows
-2. **Global Strategy**: Strong international content focus, especially from US and India
-3. **Target Audience**: Primarily mature content (TV-MA rating most common)
-4. **Genre Diversity**: Wide range of genres with emphasis on international and drama content
-5. **Growth Pattern**: Steady content addition with peak in 2019
-6. **Seasonal Trends**: Higher content additions in Q4 (October-December)
+- **Data Processing**: Comprehensive cleaning, feature engineering, text analysis
+- **Visualization**: 20+ professional plots across all analyses
+- **Statistical Analysis**: Descriptive statistics, trend analysis, distribution analysis
+- **Tools**: Python (pandas, numpy, matplotlib, seaborn, wordcloud)
 
-## Technical Skills Demonstrated
+## Results Summary
 
-- **Data Cleaning**: Handling missing values, data type conversion
-- **Time Series Analysis**: Analyzing trends over time
-- **Text Processing**: Parsing multi-value fields (genres, countries)
-- **Statistical Analysis**: Descriptive statistics and distributions
-- **Data Visualization**: Creating meaningful charts and graphs
-- **Feature Engineering**: Creating derived features for analysis
-
-## Assignment Status
+The analysis reveals Netflix's sophisticated content strategy focused on mature audiences, fresh TV content, global reach, female-driven narratives, and balanced talent acquisition. This data-driven analysis provides actionable insights into Netflix's evolution from a movie-focused platform to a comprehensive entertainment ecosystem.
 
 **Status**: Complete  
 **Analysis Type**: Comprehensive EDA  
