@@ -44,7 +44,7 @@ GFG_21_days_21_projects/
 | Day | Project Title | Status | Technologies |
 |-----|---------------|--------|--------------|
 | 01  | Titanic Dataset Analysis and Profiling | ✅ Complete | Pandas, ydata-profiling, EDA |
-| 02  | TBD | ⏳ Pending | TBD |
+| 02  | Netflix Content Strategy Analysis | ✅ Complete | Pandas, EDA, Text Analytics, Time Series |
 | 03  | TBD | ⏳ Pending | TBD |
 | ... | ... | ... | ... |
 
