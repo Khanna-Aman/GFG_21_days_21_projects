@@ -39,14 +39,6 @@ GFG_21_days_21_projects/
 - Jupyter Notebooks for analysis
 - Various ML libraries as required
 
-## Progress Tracker
-
-| Day | Project Title | Status | Technologies |
-|-----|---------------|--------|--------------|
-| 01  | Titanic Dataset Analysis and Profiling | ✅ Complete | Pandas, ydata-profiling, EDA |
-| 02  | Netflix Content Strategy Analysis | ✅ Complete | Pandas, EDA, Text Analytics, Time Series |
-| 03  | TBD | ⏳ Pending | TBD |
-| ... | ... | ... | ... |
 
 ## Getting Started
 
