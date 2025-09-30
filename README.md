@@ -208,83 +208,25 @@ A complete hands-on journey through modern AI and Machine Learning technologies,
 
 ## Repository Structure
 
+Each day contains:
+- Tutorial notebooks explaining concepts
+- Assignment notebooks with complete solutions
+- Dedicated README with project details
+- Data files and model weights where applicable
+
 ```
 21_days_21_projects/
-├── 21-Days-21-Projects-Dataset/
-│   └── Datasets/
-├── Day_01/
-│   ├── Assignment_titanic_analysis.ipynb
+├── README.md                           # This file
+├── .gitignore                          # Git ignore rules
+├── 21-Days-21-Projects-Dataset/        # Shared datasets
+├── Day_01/ ... Day_21/                 # 21 project folders
+│   ├── Tutorial notebooks
+│   ├── Assignment solutions
+│   ├── Data files
 │   └── README.md
-├── Day_02/
-│   ├── Assignment_Netflix_Content_Analysis.ipynb
-│   └── README.md
-├── Day_03/
-│   ├── Assignment_Housing_Market_Complete.ipynb
-│   ├── data/
-│   └── README.md
-├── Day_04/
-│   ├── Assignment_Heart_Disease.ipynb
-│   ├── data/
-│   └── README.md
-├── Day_05/
-│   ├── Assignment_Complete.ipynb
-│   ├── data/
-│   └── README.md
-├── Day_06/
-│   ├── Assignment_Complete.ipynb
-│   ├── data/
-│   └── README.md
-├── Day_07/
-│   ├── Assignment_Solution.ipynb
-│   ├── data/
-│   └── README.md
-├── Day_08/
-│   ├── Assignment_Solution_CIFAR_100.ipynb
-│   ├── Model weights (.h5 files)
-│   └── README.md
-├── Day_09/
-│   ├── Assignment_Oxford_Flowers_Transfer_Learning.ipynb
-│   └── README.md
-├── Day_10/
-│   ├── Assignment_Gender_Style_Transfer.ipynb
-│   └── README.md
-├── Day_11/
-│   ├── Assignment_Image_Generation_Diffusion_Models.ipynb
-│   └── README.md
-├── Day_12/
-│   ├── Assignment_Face_Super_Resolution.ipynb
-│   └── README.md
-├── Day_13/
-│   ├── Assignment_NIFTY_50_Stock_Prediction.ipynb
-│   └── README.md
-├── Day_14/
-│   ├── Assignment_Python_Code_Focused_GPT2_Inference.ipynb
-│   └── README.md
-├── Day_15/
-│   ├── Assignment_Employee_Dataset_Creation_Analysis.ipynb
-│   └── README.md
-├── Day_16/
-│   ├── Assignment_Resume_Dataset_Analysis_OCR.ipynb
-│   └── README.md
-├── Day_17/
-│   ├── run_and_save_output.py
-│   └── README.md
-├── Day_18/
-│   ├── Day_18_Assignment_RAG_Chatbot_WORKING.ipynb
-│   └── README.md
-├── Day_19/
-│   ├── Day_19_Assignment.ipynb
-│   └── README.md
-├── Day_20/
-│   ├── 20_Web_Automation_on_Autopilot_Building_an_AI_Browser_Agent.ipynb
-│   └── README.md
-├── Day_21/
-│   ├── AI Newsletter Automation v1.0.json
-│   ├── Your First AI Agent.json
-│   ├── Assignment_Screenshots/
-│   └── README.md
-└── README.md
 ```
+
+For detailed file structure, see [STRUCTURE.md](STRUCTURE.md)
 
 ## Getting Started
 
