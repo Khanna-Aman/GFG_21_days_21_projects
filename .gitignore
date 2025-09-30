@@ -7,3 +7,21 @@ desktop.ini
 .vscode/settings.json
 .idea/workspace.xml
 
+# Jupyter/VSCode temporary files
+.virtual_documents/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints (keep .ipynb_checkpoints as they may contain useful backups)
+# .ipynb_checkpoints/
+
+# Python virtual environments (if any)
+venv/
+env/
+ENV/
+
+# Large file placeholder (if we compress the CSV)
+# *.csv.gz
+
