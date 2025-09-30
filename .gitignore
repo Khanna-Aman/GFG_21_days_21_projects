@@ -22,6 +22,15 @@ venv/
 env/
 ENV/
 
+# Environment variables and secrets (CRITICAL - DO NOT COMMIT)
+.env
+*.env
+!.env.example
+*.key
+*.pem
+*_secret*
+*_token*
+
 # Large file placeholder (if we compress the CSV)
 # *.csv.gz
 
