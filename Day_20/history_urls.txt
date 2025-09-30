@@ -1,0 +1,71 @@
+================================================================================
+DAY 20 ASSIGNMENT OUTPUT: history.urls()
+================================================================================
+
+Total URLs visited: 8
+
+URLs visited during execution:
+--------------------------------------------------------------------------------
+1. about:blank
+2. https://www.google.com/search?q=what+is+browser+automation&udm=14
+3. https://www.browserstack.com/guide/what-is-browser-automation
+4. https://www.browserstack.com/guide/what-is-browser-automation
+5. https://www.google.com/search?q=what+is+browser+automation&udm=14&sei=Bg7baO3nL7-TseMPnNS7kQU
+6. https://www.lambdatest.com/learning-hub/browser-automation
+7. https://www.lambdatest.com/learning-hub/browser-automation
+8. https://www.lambdatest.com/learning-hub/browser-automation
+
+================================================================================
+EXECUTION DETAILS
+================================================================================
+
+Number of steps: 8
+Total duration: 61.83 seconds
+Task completed: True
+
+Actions performed:
+--------------------------------------------------------------------------------
+1. search
+2. click_element_by_index
+3. scroll
+4. extract_structured_data
+5. go_back
+6. click_element_by_index
+7. scroll
+8. extract_structured_data
+9. read_file
+10. done
+
+================================================================================
+FINAL RESULT
+================================================================================
+
+Based on the two search results, browser automation is the process of using software tools to simulate user interactions with web browsers for automated testing, data scraping, and repetitive tasks. It's needed to achieve wider test coverage across various browsers, devices, and platforms in a limited time. Some popular tools include Selenium, Cypress, BrowserStack Automate, Playwright, and Puppeteer. Challenges involved in browser automation include dynamic web elements, compatibility with multiple web browsers, handling asynchronous operations, Captcha and security measures, handling file uploads, and performance and stability.
+
+Attachments:
+
+extracted_content_0.md:
+<url>
+https://www.browserstack.com/guide/what-is-browser-automation
+</url>
+<query>
+main content of the page
+</query>
+<result>
+The main content of the page is about browser automation, and it includes the following:
+
+*   **What is Browser Automation?** Browser automation is the process of using software tools to simulate user interactions with web browsers for automated testing, data scraping, and repetitive tasks.
+*   **Why is Browser Automation needed?** Browser Automation is needed to achieve a wider test coverage across various browsers, devices, and platforms in a limited time period.
+*   **When to use Browser Automation?** Browser Automation is used when needing to execute the same set of test cases multiple times across different browsers or devices.
+*   **Top Browser Automation Tools:**
+    1.  Selenium
+    2.  Cypress
+    3.  BrowserStack Automate
+    4.  Playwright
+    5.  Puppeteer
+*   **Getting started with Browser Automation:** Using Selenium with the TestNG (Java) framework for Browser Automation.
+*   **How to launch a browser in Selenium:** Using WebDriverManager for setting up the ChromeDriver.
+*   **How to launch a browser in incognito mode using Selenium Browser Automation:** Use ChromeOptions class, which helps in sending the arguments. Here, sending **incognito** as an argument.
+*   **How to open a page in a browser using Selenium Browser Automation:** By using the **driver.get()** command, you can open any page in the launched browser.
+*   **Running Browser Tests on Real Devices Using Cloud Selenium Grid:** Using parallel testing can help run tests on different browser-device combinations simultaneously using BrowserStack’s Cloud Selenium Grid.
+</result>

@@ -1,0 +1,1001 @@
+employee_id,full_name,first_name,last_name,email,phone,age,gender,city,department,position,employment_type,hire_date,years_experience,education_level,salary,bonus,performance_rating,projects_completed,total_compensation
+EMP0001,Robert Brown,Robert,Brown,robert.brown@company.com,(543) 691-7949,50,Male,San Diego,Finance,Budget Analyst,Full-time,2024-05-17,26,Bachelor,79131,6217,4,2,85348
+EMP0002,Jane Lopez,Jane,Lopez,jane.lopez@company.com,(762) 766-2267,42,Female,Jacksonville,Engineering,Software Engineer,Full-time,2018-08-25,19,High School,37747,4653,3,15,42400
+EMP0003,William Williams,William,Williams,william.williams@company.com,(654) 627-1775,58,Female,Dallas,IT,System Admin,Contract,2019-03-08,35,Bachelor,58897,4095,4,15,62992
+EMP0004,Daniel Williams,Daniel,Williams,daniel.williams@company.com,(469) 470-8629,35,Male,Seattle,Legal,Contract Manager,Full-time,2016-03-05,12,Bachelor,88432,18130,5,4,106562
+EMP0005,Robert Lopez,Robert,Lopez,robert.lopez@company.com,(720) 543-3027,61,Female,Fort Worth,Sales,Sales Coordinator,Full-time,2019-06-15,36,Bachelor,140512,15351,2,7,155863
+EMP0006,Jessica Davis,Jessica,Davis,jessica.davis@company.com,(247) 702-3454,32,Male,San Diego,Marketing,Marketing Manager,Part-time,2020-09-25,9,Bachelor,270672,59549,3,1,330221
+EMP0007,Stephanie Davis,Stephanie,Davis,stephanie.davis@company.com,(406) 214-6977,58,Female,San Diego,Operations,Supply Chain,Full-time,2018-05-15,34,Master,133806,27322,3,9,161128
+EMP0008,Ashley Lopez,Ashley,Lopez,ashley.lopez@company.com,(898) 442-4157,34,Male,San Antonio,Engineering,Engineering Manager,Full-time,2020-05-21,8,Associate,152761,13842,5,7,166603
+EMP0009,Amanda Johnson,Amanda,Johnson,amanda.johnson@company.com,(584) 576-2306,63,Female,Philadelphia,HR,Training Coordinator,Full-time,2021-12-02,39,Bachelor,110766,25389,3,1,136155
+EMP0010,Stephanie Rodriguez,Stephanie,Rodriguez,stephanie.rodriguez@company.com,(891) 312-2853,34,Female,San Antonio,Operations,Supply Chain,Full-time,2016-08-17,10,Bachelor,101199,24144,3,9,125343
+EMP0011,John Martinez,John,Martinez,john.martinez@company.com,(935) 424-7528,33,Male,Los Angeles,Marketing,Marketing Specialist,Full-time,2017-06-10,11,Bachelor,129209,19450,2,5,148659
+EMP0012,Michael Wilson,Michael,Wilson,michael.wilson@company.com,(710) 951-7287,23,Female,Philadelphia,Legal,Contract Manager,Full-time,2016-09-27,0,Associate,112380,19830,4,11,132210
+EMP0013,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(839) 750-3385,27,Female,Chicago,HR,Training Coordinator,Full-time,2018-12-11,4,Bachelor,141642,16959,2,9,158601
+EMP0014,Jessica Smith,Jessica,Smith,jessica.smith@company.com,(453) 851-5548,32,Male,Seattle,IT,System Admin,Full-time,2020-10-04,9,PhD,51371,8010,3,16,59381
+EMP0015,David Hernandez,David,Hernandez,david.hernandez@company.com,(453) 426-3557,30,Male,San Francisco,Legal,Compliance Officer,Part-time,2019-11-25,8,Bachelor,47874,11352,4,8,59226
+EMP0016,William Williams,William,Williams,william.williams@company.com,(334) 394-5496,46,Male,Columbus,Sales,Account Manager,Full-time,2023-01-13,24,Associate,107708,12395,4,8,120103
+EMP0017,John Lopez,John,Lopez,john.lopez@company.com,(858) 715-5642,43,Male,Columbus,Operations,Project Manager,Full-time,2020-09-22,19,Bachelor,137770,22784,3,5,160554
+EMP0018,John Smith,John,Smith,john.smith@company.com,(455) 522-9319,49,Male,Columbus,Finance,Finance Manager,Full-time,2022-10-01,23,Bachelor,136449,33575,2,1,170024
+EMP0019,Jane Rodriguez,Jane,Rodriguez,jane.rodriguez@company.com,(592) 445-8343,63,Female,Chicago,Legal,Paralegal,Full-time,2017-09-16,40,Bachelor,45729,10310,4,1,56039
+EMP0020,Robert Gonzalez,Robert,Gonzalez,robert.gonzalez@company.com,(599) 853-7002,63,Female,Chicago,Sales,Sales Rep,Full-time,2017-10-12,40,High School,145627,30532,4,14,176159
+EMP0021,Robert Anderson,Robert,Anderson,robert.anderson@company.com,(204) 302-6315,49,Female,Indianapolis,HR,Recruiter,Part-time,2022-09-14,25,Associate,148632,32041,3,12,180673
+EMP0022,Emily Gonzalez,Emily,Gonzalez,emily.gonzalez@company.com,(673) 316-6949,53,Female,Charlotte,Marketing,Brand Manager,Full-time,2024-08-22,28,Master,235409,24521,3,5,259930
+EMP0023,Robert Anderson,Robert,Anderson,robert.anderson@company.com,(989) 446-9130,30,Female,New York,Sales,Account Manager,Full-time,2017-11-07,8,Bachelor,261228,40056,4,5,301284
+EMP0024,Amanda Martinez,Amanda,Martinez,amanda.martinez@company.com,(811) 488-8421,37,Male,Columbus,HR,Compensation Analyst,Full-time,2019-10-16,12,Associate,78919,5490,3,7,84409
+EMP0025,Stephanie Jones,Stephanie,Jones,stephanie.jones@company.com,(991) 535-6878,44,Male,Phoenix,HR,Recruiter,Full-time,2017-12-17,20,Bachelor,95160,15023,4,16,110183
+EMP0026,Jane Smith,Jane,Smith,jane.smith@company.com,(484) 596-5107,49,Female,Jacksonville,Sales,Sales Director,Full-time,2023-01-13,25,Master,217782,52755,5,12,270537
+EMP0027,Daniel Wilson,Daniel,Wilson,daniel.wilson@company.com,(700) 825-1412,23,Male,Seattle,Marketing,Marketing Specialist,Full-time,2018-05-23,0,Bachelor,111797,23800,3,4,135597
+EMP0028,Jessica Brown,Jessica,Brown,jessica.brown@company.com,(979) 568-4766,46,Female,Houston,Sales,Sales Coordinator,Part-time,2019-07-10,22,PhD,120999,9140,3,5,130139
+EMP0029,Christopher Miller,Christopher,Miller,christopher.miller@company.com,(654) 995-1717,46,Male,Indianapolis,Engineering,Engineering Manager,Part-time,2021-11-30,20,Master,110044,26598,4,9,136642
+EMP0030,Daniel Brown,Daniel,Brown,daniel.brown@company.com,(308) 892-6161,40,Male,San Francisco,Finance,Budget Analyst,Full-time,2017-03-05,15,Bachelor,140955,33721,4,7,174676
+EMP0031,Ashley Miller,Ashley,Miller,ashley.miller@company.com,(373) 852-2191,35,Female,Phoenix,Marketing,Digital Marketer,Full-time,2018-03-31,10,Bachelor,117873,20467,2,7,138340
+EMP0032,Ashley Rodriguez,Ashley,Rodriguez,ashley.rodriguez@company.com,(331) 269-8419,48,Female,Phoenix,Finance,Budget Analyst,Full-time,2021-06-29,22,Bachelor,141995,13821,5,13,155816
+EMP0033,Daniel Williams,Daniel,Williams,daniel.williams@company.com,(200) 586-1504,60,Male,San Antonio,Operations,Supply Chain,Full-time,2023-08-04,35,Bachelor,65355,4820,2,9,70175
+EMP0034,Daniel Lopez,Daniel,Lopez,daniel.lopez@company.com,(875) 426-7190,46,Female,Philadelphia,Finance,Accountant,Full-time,2018-03-17,20,High School,55559,8641,5,5,64200
+EMP0035,William Smith,William,Smith,william.smith@company.com,(321) 547-7819,35,Male,New York,Finance,Finance Manager,Contract,2017-05-22,10,PhD,88510,12491,4,8,101001
+EMP0036,Ashley Davis,Ashley,Davis,ashley.davis@company.com,(452) 589-6713,49,Male,Dallas,HR,HR Manager,Full-time,2016-11-05,27,Bachelor,158493,16513,2,3,175006
+EMP0037,Michael Jones,Michael,Jones,michael.jones@company.com,(660) 809-8266,46,Male,Seattle,Marketing,Digital Marketer,Full-time,2022-11-15,24,Master,135497,33529,2,17,169026
+EMP0038,Daniel Smith,Daniel,Smith,daniel.smith@company.com,(344) 284-8245,42,Male,Philadelphia,HR,HR Specialist,Full-time,2021-01-31,18,Bachelor,58524,11425,4,19,69949
+EMP0039,William Wilson,William,Wilson,william.wilson@company.com,(505) 467-2077,22,Female,Fort Worth,HR,HR Specialist,Full-time,2020-08-29,0,Bachelor,42239,2299,3,3,44538
+EMP0040,Amanda Jones,Amanda,Jones,amanda.jones@company.com,(297) 997-8002,51,Female,Indianapolis,Legal,Legal Assistant,Full-time,2024-01-27,27,Associate,116317,20175,5,18,136492
+EMP0041,Michael Anderson,Michael,Anderson,michael.anderson@company.com,(745) 973-6569,55,Male,Philadelphia,Engineering,Engineering Manager,Full-time,2016-12-14,31,Bachelor,193882,45623,3,5,239505
+EMP0042,Christopher Wilson,Christopher,Wilson,christopher.wilson@company.com,(394) 866-5188,64,Female,Austin,Marketing,Marketing Specialist,Full-time,2017-09-22,40,Associate,59071,5080,4,3,64151
+EMP0043,Jane Gonzalez,Jane,Gonzalez,jane.gonzalez@company.com,(929) 272-7937,40,Female,Seattle,HR,Recruiter,Full-time,2021-09-28,18,Bachelor,51907,4737,3,14,56644
+EMP0044,William Anderson,William,Anderson,william.anderson@company.com,(673) 227-9150,43,Male,Austin,IT,Security Analyst,Full-time,2017-11-05,21,High School,114714,9969,3,14,124683
+EMP0045,Stephanie Davis,Stephanie,Davis,stephanie.davis@company.com,(227) 913-2062,23,Female,Columbus,Marketing,Marketing Manager,Full-time,2021-02-22,0,Bachelor,269801,32599,3,5,302400
+EMP0046,William Smith,William,Smith,william.smith@company.com,(669) 233-8943,60,Male,Jacksonville,Engineering,Software Engineer,Full-time,2019-12-24,35,Bachelor,117152,17536,2,15,134688
+EMP0047,Jessica Smith,Jessica,Smith,jessica.smith@company.com,(781) 702-7767,40,Male,Phoenix,Operations,Quality Assurance,Full-time,2020-10-30,16,Bachelor,52260,6065,5,6,58325
+EMP0048,Sarah Wilson,Sarah,Wilson,sarah.wilson@company.com,(203) 845-1117,32,Male,Dallas,IT,Network Engineer,Full-time,2022-09-28,6,PhD,73110,16765,4,11,89875
+EMP0049,John Wilson,John,Wilson,john.wilson@company.com,(731) 312-7283,59,Female,Los Angeles,IT,Network Engineer,Full-time,2021-08-29,33,Master,41469,10101,4,1,51570
+EMP0050,Daniel Smith,Daniel,Smith,daniel.smith@company.com,(212) 367-2619,47,Female,Philadelphia,Finance,Finance Manager,Contract,2017-09-25,23,Bachelor,236680,37802,3,2,274482
+EMP0051,John Anderson,John,Anderson,john.anderson@company.com,(712) 495-4391,58,Male,Dallas,Marketing,Marketing Manager,Full-time,2021-04-05,33,PhD,185588,44108,2,3,229696
+EMP0052,Emily Lopez,Emily,Lopez,emily.lopez@company.com,(241) 288-7943,50,Male,Dallas,Finance,Controller,Full-time,2023-09-02,24,Master,58930,10415,5,13,69345
+EMP0053,Michael Gonzalez,Michael,Gonzalez,michael.gonzalez@company.com,(845) 778-2202,59,Female,Charlotte,Engineering,Software Engineer,Full-time,2017-04-16,36,Bachelor,71455,6845,3,6,78300
+EMP0054,Jessica Martinez,Jessica,Martinez,jessica.martinez@company.com,(721) 716-2865,36,Female,New York,HR,HR Manager,Part-time,2018-07-17,14,Bachelor,183548,14431,3,2,197979
+EMP0055,John Garcia,John,Garcia,john.garcia@company.com,(954) 491-1793,59,Female,Charlotte,HR,Compensation Analyst,Full-time,2020-01-03,33,Bachelor,49382,6508,4,19,55890
+EMP0056,James Hernandez,James,Hernandez,james.hernandez@company.com,(659) 555-4876,26,Female,San Jose,Legal,Paralegal,Contract,2018-12-18,3,Bachelor,144777,24943,1,11,169720
+EMP0057,Jessica Anderson,Jessica,Anderson,jessica.anderson@company.com,(619) 381-4030,63,Female,Dallas,Operations,Supply Chain,Full-time,2016-06-07,41,Master,48718,3632,3,14,52350
+EMP0058,William Smith,William,Smith,william.smith@company.com,(585) 409-9666,61,Female,Charlotte,Engineering,DevOps Engineer,Full-time,2016-01-19,39,High School,48224,3513,3,11,51737
+EMP0059,Jane Hernandez,Jane,Hernandez,jane.hernandez@company.com,(668) 248-1966,38,Female,Jacksonville,Marketing,Marketing Manager,Full-time,2025-08-02,13,Bachelor,186558,38449,3,18,225007
+EMP0060,John Brown,John,Brown,john.brown@company.com,(628) 676-9477,62,Male,San Diego,Engineering,Software Engineer,Full-time,2022-12-11,38,Associate,93066,11156,3,17,104222
+EMP0061,Jessica Williams,Jessica,Williams,jessica.williams@company.com,(842) 977-2481,39,Male,Charlotte,Sales,Account Manager,Full-time,2022-07-17,16,Bachelor,85255,7364,4,7,92619
+EMP0062,Michael Wilson,Michael,Wilson,michael.wilson@company.com,(428) 778-8218,55,Male,Seattle,IT,Security Analyst,Full-time,2024-10-18,31,Associate,111218,16805,4,15,128023
+EMP0063,John Lopez,John,Lopez,john.lopez@company.com,(529) 974-3198,29,Male,Columbus,Legal,Compliance Officer,Contract,2021-06-25,3,Associate,121925,13244,4,7,135169
+EMP0064,David Williams,David,Williams,david.williams@company.com,(455) 933-8083,40,Female,Seattle,Sales,Sales Rep,Part-time,2020-05-05,16,Bachelor,134713,16517,1,5,151230
+EMP0065,Michael Brown,Michael,Brown,michael.brown@company.com,(400) 957-2301,43,Female,Indianapolis,Sales,Sales Director,Part-time,2025-04-21,21,Bachelor,93534,14808,4,7,108342
+EMP0066,James Wilson,James,Wilson,james.wilson@company.com,(577) 787-2622,25,Male,Fort Worth,Sales,Sales Coordinator,Full-time,2016-11-04,0,Master,92384,9682,4,6,102066
+EMP0067,David Martinez,David,Martinez,david.martinez@company.com,(775) 329-4067,43,Male,Philadelphia,Marketing,Content Creator,Full-time,2020-01-25,17,Associate,94052,20467,3,14,114519
+EMP0068,Emily Hernandez,Emily,Hernandez,emily.hernandez@company.com,(254) 822-3711,22,Male,Houston,Marketing,Content Creator,Full-time,2022-01-15,0,Bachelor,126248,24530,4,2,150778
+EMP0069,Emily Garcia,Emily,Garcia,emily.garcia@company.com,(912) 495-6136,26,Male,Houston,IT,IT Manager,Full-time,2016-07-29,2,Master,101449,11854,4,9,113303
+EMP0070,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(216) 529-4640,64,Female,San Antonio,Marketing,Marketing Manager,Full-time,2025-05-11,39,PhD,95219,11635,2,17,106854
+EMP0071,Robert Smith,Robert,Smith,robert.smith@company.com,(487) 977-5806,33,Female,San Diego,IT,Security Analyst,Part-time,2021-07-10,11,Master,112454,21212,2,15,133666
+EMP0072,John Miller,John,Miller,john.miller@company.com,(642) 689-1614,47,Female,San Antonio,Operations,Project Manager,Full-time,2017-08-18,24,Bachelor,219993,48928,4,18,268921
+EMP0073,John Wilson,John,Wilson,john.wilson@company.com,(715) 548-1920,52,Male,Jacksonville,HR,Compensation Analyst,Full-time,2017-11-04,28,Bachelor,55662,7285,4,17,62947
+EMP0074,Christopher Johnson,Christopher,Johnson,christopher.johnson@company.com,(238) 228-3032,54,Female,San Jose,HR,Recruiter,Full-time,2016-10-11,31,High School,64430,5611,3,3,70041
+EMP0075,Christopher Wilson,Christopher,Wilson,christopher.wilson@company.com,(523) 345-5388,37,Female,Charlotte,Engineering,Senior Engineer,Full-time,2016-04-05,12,Master,67733,3431,3,18,71164
+EMP0076,William Smith,William,Smith,william.smith@company.com,(261) 425-8878,36,Male,Indianapolis,Engineering,Engineering Manager,Full-time,2020-01-24,10,Master,243845,60099,4,11,303944
+EMP0077,Sarah Brown,Sarah,Brown,sarah.brown@company.com,(253) 246-1726,29,Female,Fort Worth,Operations,Process Analyst,Full-time,2023-05-25,6,High School,144049,29662,3,5,173711
+EMP0078,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(288) 528-5675,56,Female,Indianapolis,Finance,Finance Manager,Full-time,2018-02-27,33,Bachelor,285094,40676,4,15,325770
+EMP0079,Stephanie Jones,Stephanie,Jones,stephanie.jones@company.com,(323) 237-6370,55,Male,Chicago,Marketing,Brand Manager,Full-time,2022-04-26,33,Master,241503,43723,4,2,285226
+EMP0080,David Martinez,David,Martinez,david.martinez@company.com,(767) 239-7183,39,Male,San Francisco,Finance,Controller,Full-time,2024-01-12,16,Bachelor,147863,22654,5,3,170517
+EMP0081,James Gonzalez,James,Gonzalez,james.gonzalez@company.com,(899) 206-1556,54,Female,San Francisco,Legal,Contract Manager,Part-time,2017-10-24,32,Bachelor,155139,28860,4,6,183999
+EMP0082,Ashley Rodriguez,Ashley,Rodriguez,ashley.rodriguez@company.com,(423) 724-2136,52,Female,San Jose,Legal,Compliance Officer,Full-time,2021-05-05,29,Master,83845,16880,3,2,100725
+EMP0083,William Smith,William,Smith,william.smith@company.com,(683) 441-8491,61,Male,Fort Worth,Marketing,Marketing Manager,Part-time,2024-01-19,39,PhD,151539,13017,4,4,164556
+EMP0084,James Smith,James,Smith,james.smith@company.com,(580) 659-6126,33,Male,San Jose,Operations,Operations Manager,Full-time,2016-11-30,9,Master,116550,28412,4,3,144962
+EMP0085,Christopher Hernandez,Christopher,Hernandez,christopher.hernandez@company.com,(688) 238-4342,54,Male,Charlotte,Legal,Compliance Officer,Full-time,2020-02-28,31,Associate,48025,11978,3,13,60003
+EMP0086,Robert Gonzalez,Robert,Gonzalez,robert.gonzalez@company.com,(283) 973-2682,50,Male,Los Angeles,IT,IT Manager,Full-time,2021-05-17,26,PhD,196154,38496,5,5,234650
+EMP0087,William Jones,William,Jones,william.jones@company.com,(259) 629-1984,24,Male,Philadelphia,IT,System Admin,Full-time,2020-07-28,2,Bachelor,149187,24250,3,8,173437
+EMP0088,John Gonzalez,John,Gonzalez,john.gonzalez@company.com,(352) 933-2875,29,Female,Columbus,Sales,Business Development,Full-time,2024-09-12,4,High School,79859,19445,2,15,99304
+EMP0089,Sarah Rodriguez,Sarah,Rodriguez,sarah.rodriguez@company.com,(743) 210-6420,59,Male,Los Angeles,Legal,Compliance Officer,Intern,2018-01-27,33,High School,65015,8394,5,6,73409
+EMP0090,William Smith,William,Smith,william.smith@company.com,(913) 441-9032,59,Female,Austin,Operations,Supply Chain,Full-time,2018-12-13,34,PhD,73559,3948,3,1,77507
+EMP0091,Jane Smith,Jane,Smith,jane.smith@company.com,(305) 627-2895,54,Female,New York,Finance,Controller,Full-time,2016-12-17,31,PhD,133393,25063,4,2,158456
+EMP0092,James Gonzalez,James,Gonzalez,james.gonzalez@company.com,(658) 283-1207,24,Female,Dallas,Operations,Operations Manager,Full-time,2021-09-17,2,Master,246967,51948,3,7,298915
+EMP0093,Sarah Garcia,Sarah,Garcia,sarah.garcia@company.com,(442) 321-4638,43,Male,Chicago,IT,IT Support,Full-time,2025-08-13,19,Master,107715,10709,2,13,118424
+EMP0094,Stephanie Brown,Stephanie,Brown,stephanie.brown@company.com,(552) 531-8005,29,Female,Jacksonville,Sales,Account Manager,Full-time,2024-02-25,7,Bachelor,137223,25529,2,15,162752
+EMP0095,David Anderson,David,Anderson,david.anderson@company.com,(711) 939-2394,45,Male,Houston,HR,Training Coordinator,Part-time,2023-01-14,22,Master,39703,6654,1,2,46357
+EMP0096,Ashley Garcia,Ashley,Garcia,ashley.garcia@company.com,(533) 201-1374,33,Male,Seattle,Legal,Legal Assistant,Full-time,2017-09-03,10,Master,58279,9929,4,14,68208
+EMP0097,David Jones,David,Jones,david.jones@company.com,(623) 659-8062,59,Male,Charlotte,Operations,Operations Manager,Full-time,2023-05-12,37,Bachelor,200815,44500,1,1,245315
+EMP0098,Daniel Anderson,Daniel,Anderson,daniel.anderson@company.com,(886) 403-4568,32,Female,Columbus,Legal,Paralegal,Full-time,2017-09-26,10,Bachelor,148939,24958,5,11,173897
+EMP0099,Jessica Lopez,Jessica,Lopez,jessica.lopez@company.com,(684) 956-6178,49,Female,Philadelphia,HR,HR Manager,Full-time,2019-02-18,26,Associate,247245,14307,2,6,261552
+EMP0100,David Smith,David,Smith,david.smith@company.com,(627) 493-7294,35,Female,Seattle,Legal,Compliance Officer,Full-time,2025-01-22,12,PhD,50398,7103,3,18,57501
+EMP0101,Stephanie Gonzalez,Stephanie,Gonzalez,stephanie.gonzalez@company.com,(510) 318-7089,37,Female,San Diego,Sales,Sales Coordinator,Full-time,2020-09-22,11,Bachelor,72380,17564,3,1,89944
+EMP0102,Stephanie Johnson,Stephanie,Johnson,stephanie.johnson@company.com,(268) 560-9125,39,Female,San Diego,IT,IT Support,Full-time,2020-07-20,17,Bachelor,136376,12701,4,16,149077
+EMP0103,Amanda Johnson,Amanda,Johnson,amanda.johnson@company.com,(693) 843-5114,27,Male,New York,Engineering,Software Engineer,Part-time,2018-06-12,1,Bachelor,101024,7255,4,6,108279
+EMP0104,Emily Johnson,Emily,Johnson,emily.johnson@company.com,(804) 672-2440,39,Female,Fort Worth,Marketing,Marketing Specialist,Full-time,2023-05-28,17,Bachelor,124152,15306,3,19,139458
+EMP0105,John Smith,John,Smith,john.smith@company.com,(332) 503-9234,56,Male,Austin,Marketing,Content Creator,Part-time,2022-11-04,30,Master,70631,15498,5,12,86129
+EMP0106,Robert Garcia,Robert,Garcia,robert.garcia@company.com,(533) 572-4610,64,Male,Austin,IT,Security Analyst,Part-time,2017-11-16,39,Master,145350,12998,3,19,158348
+EMP0107,Christopher Anderson,Christopher,Anderson,christopher.anderson@company.com,(785) 238-8052,49,Female,San Francisco,Sales,Business Development,Full-time,2025-08-25,27,PhD,135441,10073,2,12,145514
+EMP0108,Daniel Miller,Daniel,Miller,daniel.miller@company.com,(225) 720-1009,63,Male,Houston,HR,Training Coordinator,Full-time,2020-08-07,41,Bachelor,77668,13718,5,9,91386
+EMP0109,Jessica Martinez,Jessica,Martinez,jessica.martinez@company.com,(875) 638-1482,63,Female,San Francisco,Engineering,Senior Engineer,Full-time,2021-04-06,40,Master,71451,9627,4,18,81078
+EMP0110,Amanda Johnson,Amanda,Johnson,amanda.johnson@company.com,(462) 796-7780,54,Male,Indianapolis,Operations,Project Manager,Full-time,2022-12-13,30,Associate,108400,6687,2,3,115087
+EMP0111,Robert Rodriguez,Robert,Rodriguez,robert.rodriguez@company.com,(269) 624-1707,32,Female,Columbus,Marketing,Brand Manager,Full-time,2018-07-13,6,High School,256335,43359,3,1,299694
+EMP0112,Christopher Smith,Christopher,Smith,christopher.smith@company.com,(329) 926-6291,23,Female,Jacksonville,Marketing,Digital Marketer,Full-time,2020-11-25,0,Bachelor,141283,16228,3,6,157511
+EMP0113,Jane Garcia,Jane,Garcia,jane.garcia@company.com,(211) 856-4719,38,Female,San Diego,Operations,Quality Assurance,Full-time,2018-10-22,12,Bachelor,103910,9371,3,16,113281
+EMP0114,Sarah Williams,Sarah,Williams,sarah.williams@company.com,(360) 983-3785,37,Male,San Diego,Operations,Project Manager,Full-time,2022-03-04,12,Associate,195107,34088,2,7,229195
+EMP0115,Christopher Wilson,Christopher,Wilson,christopher.wilson@company.com,(665) 510-9453,57,Male,Seattle,Finance,Accountant,Full-time,2017-12-09,33,Associate,119416,13267,3,4,132683
+EMP0116,Michael Garcia,Michael,Garcia,michael.garcia@company.com,(333) 266-8693,64,Female,Phoenix,HR,Recruiter,Full-time,2024-02-13,41,Bachelor,122468,15446,4,14,137914
+EMP0117,William Anderson,William,Anderson,william.anderson@company.com,(309) 535-5917,42,Male,Los Angeles,Marketing,Content Creator,Contract,2020-03-04,19,Master,109520,15975,3,14,125495
+EMP0118,Stephanie Gonzalez,Stephanie,Gonzalez,stephanie.gonzalez@company.com,(327) 807-9734,24,Female,Philadelphia,Engineering,DevOps Engineer,Full-time,2016-03-03,0,High School,51920,5010,2,12,56930
+EMP0119,Stephanie Brown,Stephanie,Brown,stephanie.brown@company.com,(544) 841-7525,39,Male,Philadelphia,Legal,Legal Assistant,Full-time,2016-11-20,14,Bachelor,106966,6660,4,10,113626
+EMP0120,James Johnson,James,Johnson,james.johnson@company.com,(459) 971-2638,52,Female,Dallas,IT,Network Engineer,Full-time,2025-03-31,30,Master,63141,4433,4,1,67574
+EMP0121,Jessica Smith,Jessica,Smith,jessica.smith@company.com,(797) 844-5481,58,Female,Houston,HR,Recruiter,Full-time,2021-04-12,32,Bachelor,131410,17454,4,5,148864
+EMP0122,Stephanie Hernandez,Stephanie,Hernandez,stephanie.hernandez@company.com,(372) 871-1163,42,Male,Charlotte,Finance,Accountant,Full-time,2020-06-02,16,Associate,57740,12521,4,18,70261
+EMP0123,John Williams,John,Williams,john.williams@company.com,(596) 824-5200,32,Male,Houston,Sales,Business Development,Full-time,2024-01-11,8,Bachelor,61035,13544,3,10,74579
+EMP0124,John Davis,John,Davis,john.davis@company.com,(975) 925-3247,30,Female,Los Angeles,HR,Compensation Analyst,Full-time,2024-12-28,7,Bachelor,86431,12298,4,2,98729
+EMP0125,John Anderson,John,Anderson,john.anderson@company.com,(607) 682-3711,38,Male,Fort Worth,Marketing,Digital Marketer,Full-time,2018-10-26,12,High School,95920,19111,4,19,115031
+EMP0126,John Jones,John,Jones,john.jones@company.com,(519) 337-7511,41,Female,Columbus,HR,HR Manager,Contract,2022-04-10,17,Associate,100294,16039,4,8,116333
+EMP0127,Amanda Smith,Amanda,Smith,amanda.smith@company.com,(977) 348-4747,52,Female,San Diego,Engineering,Software Engineer,Full-time,2017-06-16,28,Associate,132661,13550,2,18,146211
+EMP0128,Amanda Hernandez,Amanda,Hernandez,amanda.hernandez@company.com,(323) 825-3461,61,Male,Fort Worth,Finance,Controller,Full-time,2024-03-23,39,Master,61806,4264,3,14,66070
+EMP0129,Sarah Jones,Sarah,Jones,sarah.jones@company.com,(501) 559-7381,53,Male,Indianapolis,Legal,Legal Assistant,Full-time,2021-05-12,31,Bachelor,78950,7930,4,8,86880
+EMP0130,Robert Miller,Robert,Miller,robert.miller@company.com,(660) 477-4754,53,Male,Austin,Engineering,Engineering Manager,Full-time,2015-12-20,30,Associate,169889,15749,3,12,185638
+EMP0131,David Gonzalez,David,Gonzalez,david.gonzalez@company.com,(303) 682-6343,54,Male,San Antonio,HR,HR Specialist,Part-time,2022-07-19,31,Bachelor,100095,9943,4,1,110038
+EMP0132,Ashley Johnson,Ashley,Johnson,ashley.johnson@company.com,(408) 213-4489,64,Male,Columbus,IT,Network Engineer,Full-time,2017-06-25,38,Bachelor,119899,6120,4,12,126019
+EMP0133,David Rodriguez,David,Rodriguez,david.rodriguez@company.com,(941) 668-3023,41,Male,Philadelphia,Legal,Compliance Officer,Intern,2019-09-08,15,Bachelor,53313,12114,4,5,65427
+EMP0134,Robert Jones,Robert,Jones,robert.jones@company.com,(965) 735-1161,31,Female,Houston,HR,HR Specialist,Full-time,2019-04-20,6,Bachelor,104122,6556,4,4,110678
+EMP0135,Stephanie Johnson,Stephanie,Johnson,stephanie.johnson@company.com,(631) 884-6469,40,Male,Indianapolis,IT,Network Engineer,Full-time,2022-07-21,15,Master,72861,6700,4,19,79561
+EMP0136,Robert Smith,Robert,Smith,robert.smith@company.com,(598) 909-3125,54,Male,Indianapolis,Marketing,Brand Manager,Full-time,2022-12-30,32,Master,157159,27897,3,15,185056
+EMP0137,Amanda Hernandez,Amanda,Hernandez,amanda.hernandez@company.com,(909) 762-7900,60,Female,San Francisco,Finance,Financial Analyst,Full-time,2025-04-11,37,Associate,147234,8074,4,13,155308
+EMP0138,Michael Martinez,Michael,Martinez,michael.martinez@company.com,(494) 840-3839,56,Male,Phoenix,Finance,Budget Analyst,Full-time,2017-07-15,33,Master,143899,11036,2,7,154935
+EMP0139,William Brown,William,Brown,william.brown@company.com,(613) 541-5998,27,Male,Columbus,HR,Training Coordinator,Full-time,2015-10-04,2,Bachelor,80603,4246,3,10,84849
+EMP0140,Michael Miller,Michael,Miller,michael.miller@company.com,(640) 732-1689,49,Female,San Jose,Legal,Paralegal,Part-time,2024-01-23,24,Associate,40347,2288,2,11,42635
+EMP0141,John Hernandez,John,Hernandez,john.hernandez@company.com,(780) 330-4670,28,Male,Charlotte,Sales,Sales Director,Contract,2023-01-26,2,High School,69499,12154,3,18,81653
+EMP0142,Ashley Jones,Ashley,Jones,ashley.jones@company.com,(792) 863-1572,45,Male,Jacksonville,Engineering,DevOps Engineer,Full-time,2016-10-03,19,Associate,123553,8372,4,1,131925
+EMP0143,Jane Lopez,Jane,Lopez,jane.lopez@company.com,(297) 343-4750,64,Male,Indianapolis,Engineering,Senior Engineer,Full-time,2025-02-10,41,Bachelor,48140,3764,4,2,51904
+EMP0144,Emily Lopez,Emily,Lopez,emily.lopez@company.com,(413) 854-7519,45,Female,Philadelphia,HR,HR Manager,Full-time,2020-12-03,21,Master,111990,25133,3,4,137123
+EMP0145,Jessica Jones,Jessica,Jones,jessica.jones@company.com,(243) 296-2577,36,Female,Columbus,Marketing,Digital Marketer,Full-time,2019-11-21,11,Master,64118,10291,2,3,74409
+EMP0146,Sarah Williams,Sarah,Williams,sarah.williams@company.com,(758) 437-6223,27,Male,Seattle,Marketing,Marketing Manager,Full-time,2023-07-10,2,Bachelor,160841,26622,4,9,187463
+EMP0147,Jane Martinez,Jane,Martinez,jane.martinez@company.com,(812) 887-4690,41,Female,Los Angeles,IT,Network Engineer,Full-time,2024-11-17,18,Associate,41629,3252,3,8,44881
+EMP0148,David Brown,David,Brown,david.brown@company.com,(705) 934-9438,51,Female,Dallas,HR,HR Manager,Full-time,2017-03-14,29,Bachelor,107904,21045,3,6,128949
+EMP0149,James Jones,James,Jones,james.jones@company.com,(771) 576-6569,46,Male,Houston,Engineering,Engineering Manager,Part-time,2016-03-13,20,PhD,213403,45628,3,19,259031
+EMP0150,Daniel Lopez,Daniel,Lopez,daniel.lopez@company.com,(891) 745-7450,30,Male,Los Angeles,Operations,Supply Chain,Part-time,2020-08-31,7,Associate,120751,8142,4,3,128893
+EMP0151,Daniel Johnson,Daniel,Johnson,daniel.johnson@company.com,(447) 355-2958,32,Female,San Francisco,Legal,Legal Counsel,Part-time,2021-01-25,8,Bachelor,93067,18414,2,3,111481
+EMP0152,Emily Rodriguez,Emily,Rodriguez,emily.rodriguez@company.com,(659) 600-5646,41,Male,San Diego,IT,Network Engineer,Full-time,2020-04-30,15,High School,128812,16959,4,4,145771
+EMP0153,William Williams,William,Williams,william.williams@company.com,(901) 746-6661,34,Female,New York,Operations,Supply Chain,Full-time,2021-08-21,10,Bachelor,107237,15235,4,8,122472
+EMP0154,Daniel Wilson,Daniel,Wilson,daniel.wilson@company.com,(526) 917-8230,41,Male,San Diego,Legal,Paralegal,Contract,2023-11-04,19,Bachelor,50282,10821,4,13,61103
+EMP0155,William Hernandez,William,Hernandez,william.hernandez@company.com,(402) 938-1040,40,Female,Columbus,Legal,Legal Assistant,Full-time,2017-06-26,18,Associate,94711,15479,3,14,110190
+EMP0156,Sarah Hernandez,Sarah,Hernandez,sarah.hernandez@company.com,(761) 668-1660,25,Female,Los Angeles,Engineering,DevOps Engineer,Full-time,2021-02-13,0,Master,86631,4932,4,14,91563
+EMP0157,David Brown,David,Brown,david.brown@company.com,(542) 630-2447,58,Female,New York,Finance,Budget Analyst,Full-time,2020-05-16,33,Master,121497,27433,4,13,148930
+EMP0158,Amanda Garcia,Amanda,Garcia,amanda.garcia@company.com,(605) 275-9770,33,Male,Charlotte,Engineering,Tech Lead,Part-time,2018-05-23,7,Bachelor,242668,43175,4,4,285843
+EMP0159,Emily Lopez,Emily,Lopez,emily.lopez@company.com,(640) 292-3800,23,Male,Dallas,Engineering,Software Engineer,Full-time,2018-06-24,0,Bachelor,39378,3071,3,1,42449
+EMP0160,Michael Davis,Michael,Davis,michael.davis@company.com,(801) 540-4828,35,Female,Fort Worth,HR,HR Specialist,Full-time,2022-12-03,13,High School,93557,20270,4,1,113827
+EMP0161,John Wilson,John,Wilson,john.wilson@company.com,(693) 858-6002,63,Male,Dallas,Engineering,DevOps Engineer,Full-time,2015-10-18,37,Bachelor,149598,24677,1,11,174275
+EMP0162,Christopher Anderson,Christopher,Anderson,christopher.anderson@company.com,(352) 373-4741,22,Male,Jacksonville,Legal,Legal Assistant,Full-time,2016-07-05,0,Bachelor,99089,23881,4,8,122970
+EMP0163,Christopher Anderson,Christopher,Anderson,christopher.anderson@company.com,(577) 954-3702,44,Male,Seattle,Sales,Account Manager,Full-time,2018-04-19,19,Bachelor,228311,36510,5,12,264821
+EMP0164,William Miller,William,Miller,william.miller@company.com,(866) 828-2628,23,Female,Dallas,Sales,Account Manager,Part-time,2020-03-09,0,Bachelor,204002,35193,4,6,239195
+EMP0165,Emily Williams,Emily,Williams,emily.williams@company.com,(326) 422-8064,37,Female,Los Angeles,Engineering,Software Engineer,Full-time,2018-11-25,13,Bachelor,124900,16221,5,17,141121
+EMP0166,Robert Davis,Robert,Davis,robert.davis@company.com,(394) 355-4243,59,Female,Austin,Sales,Business Development,Full-time,2024-08-17,37,Bachelor,96049,16141,3,3,112190
+EMP0167,Daniel Rodriguez,Daniel,Rodriguez,daniel.rodriguez@company.com,(206) 395-7564,44,Male,San Francisco,Legal,Paralegal,Full-time,2022-07-12,19,Bachelor,143439,17917,2,5,161356
+EMP0168,Jessica Smith,Jessica,Smith,jessica.smith@company.com,(887) 827-2054,22,Female,San Jose,HR,Recruiter,Full-time,2021-09-06,0,Bachelor,46120,8551,4,2,54671
+EMP0169,Sarah Smith,Sarah,Smith,sarah.smith@company.com,(444) 741-5009,26,Male,Chicago,Marketing,Digital Marketer,Full-time,2022-06-05,2,Bachelor,126369,16312,3,15,142681
+EMP0170,David Martinez,David,Martinez,david.martinez@company.com,(477) 267-4236,58,Female,Phoenix,Marketing,Brand Manager,Intern,2019-07-01,36,High School,109565,14012,3,16,123577
+EMP0171,William Smith,William,Smith,william.smith@company.com,(584) 803-7626,34,Female,Chicago,Sales,Account Manager,Full-time,2023-07-27,12,Bachelor,174683,42497,4,19,217180
+EMP0172,Christopher Anderson,Christopher,Anderson,christopher.anderson@company.com,(812) 363-4730,55,Male,Indianapolis,Marketing,Brand Manager,Full-time,2022-04-07,33,Master,172555,22264,1,17,194819
+EMP0173,Daniel Hernandez,Daniel,Hernandez,daniel.hernandez@company.com,(346) 865-6867,55,Female,Fort Worth,IT,IT Manager,Full-time,2018-12-19,30,High School,54058,12185,5,17,66243
+EMP0174,Sarah Garcia,Sarah,Garcia,sarah.garcia@company.com,(886) 950-3819,57,Male,New York,Operations,Supply Chain,Full-time,2017-12-18,33,Bachelor,65386,14966,3,19,80352
+EMP0175,Robert Gonzalez,Robert,Gonzalez,robert.gonzalez@company.com,(693) 900-9182,56,Male,Dallas,Legal,Contract Manager,Full-time,2019-02-15,34,Bachelor,196762,44604,3,13,241366
+EMP0176,Jane Garcia,Jane,Garcia,jane.garcia@company.com,(362) 218-8537,50,Male,Chicago,Operations,Process Analyst,Full-time,2025-04-23,24,Bachelor,139641,16293,4,15,155934
+EMP0177,Jessica Martinez,Jessica,Martinez,jessica.martinez@company.com,(326) 456-4747,61,Male,San Antonio,Marketing,Marketing Specialist,Full-time,2021-05-07,39,High School,121156,24314,4,9,145470
+EMP0178,Michael Johnson,Michael,Johnson,michael.johnson@company.com,(244) 772-3130,61,Male,Los Angeles,Operations,Quality Assurance,Full-time,2021-11-14,37,Bachelor,59322,10465,4,2,69787
+EMP0179,James Garcia,James,Garcia,james.garcia@company.com,(494) 650-3951,37,Female,Indianapolis,IT,System Admin,Part-time,2016-04-06,12,Associate,81092,14869,3,2,95961
+EMP0180,Robert Wilson,Robert,Wilson,robert.wilson@company.com,(382) 222-7687,48,Male,San Antonio,Finance,Financial Analyst,Full-time,2021-01-06,22,High School,146668,19539,4,17,166207
+EMP0181,Stephanie Martinez,Stephanie,Martinez,stephanie.martinez@company.com,(665) 211-7046,31,Female,Seattle,Operations,Process Analyst,Full-time,2022-11-19,5,Master,81101,13191,2,8,94292
+EMP0182,Stephanie Johnson,Stephanie,Johnson,stephanie.johnson@company.com,(975) 589-7468,39,Female,Austin,Engineering,Engineering Manager,Full-time,2021-08-23,17,Bachelor,120449,20319,4,18,140768
+EMP0183,Amanda Rodriguez,Amanda,Rodriguez,amanda.rodriguez@company.com,(767) 890-9662,50,Female,New York,Marketing,Marketing Manager,Full-time,2021-01-02,25,Bachelor,98542,13476,5,16,112018
+EMP0184,Ashley Gonzalez,Ashley,Gonzalez,ashley.gonzalez@company.com,(732) 922-2316,54,Female,San Jose,IT,Security Analyst,Full-time,2017-03-17,28,PhD,124963,9487,4,9,134450
+EMP0185,Ashley Smith,Ashley,Smith,ashley.smith@company.com,(409) 940-9588,58,Male,San Antonio,HR,HR Specialist,Full-time,2021-06-29,35,Bachelor,40355,2041,4,13,42396
+EMP0186,Sarah Anderson,Sarah,Anderson,sarah.anderson@company.com,(462) 473-8170,23,Male,Dallas,Operations,Supply Chain,Full-time,2020-02-29,1,Master,143374,24595,3,8,167969
+EMP0187,Amanda Garcia,Amanda,Garcia,amanda.garcia@company.com,(252) 785-4748,42,Female,New York,HR,Compensation Analyst,Full-time,2019-06-05,16,High School,39213,8093,3,15,47306
+EMP0188,Emily Davis,Emily,Davis,emily.davis@company.com,(577) 387-4923,23,Male,Houston,Operations,Process Analyst,Full-time,2024-08-05,1,Master,89131,4633,3,4,93764
+EMP0189,Robert Lopez,Robert,Lopez,robert.lopez@company.com,(590) 935-2524,37,Female,San Diego,HR,Recruiter,Part-time,2015-11-14,11,High School,86374,18262,2,6,104636
+EMP0190,William Smith,William,Smith,william.smith@company.com,(244) 413-9835,28,Male,Jacksonville,Legal,Compliance Officer,Full-time,2022-12-28,3,Master,55936,8915,4,8,64851
+EMP0191,Jessica Williams,Jessica,Williams,jessica.williams@company.com,(530) 342-7683,50,Male,Los Angeles,Sales,Business Development,Full-time,2022-07-06,25,High School,147217,36515,3,18,183732
+EMP0192,Emily Rodriguez,Emily,Rodriguez,emily.rodriguez@company.com,(267) 611-2994,38,Male,Jacksonville,IT,System Admin,Part-time,2017-03-05,15,Bachelor,132618,10528,4,8,143146
+EMP0193,James Smith,James,Smith,james.smith@company.com,(621) 937-3783,59,Male,Charlotte,IT,IT Support,Full-time,2017-11-15,37,Master,40939,3932,1,1,44871
+EMP0194,Christopher Martinez,Christopher,Martinez,christopher.martinez@company.com,(692) 434-9811,42,Female,Philadelphia,Operations,Process Analyst,Full-time,2019-03-22,16,Bachelor,131258,10914,3,12,142172
+EMP0195,John Smith,John,Smith,john.smith@company.com,(338) 556-8186,32,Female,Austin,IT,IT Manager,Full-time,2019-04-21,7,PhD,105030,25270,3,12,130300
+EMP0196,Robert Miller,Robert,Miller,robert.miller@company.com,(340) 561-9199,59,Female,Philadelphia,HR,Training Coordinator,Part-time,2019-09-15,36,Bachelor,49122,7579,5,8,56701
+EMP0197,Stephanie Brown,Stephanie,Brown,stephanie.brown@company.com,(454) 370-9148,51,Female,San Antonio,Engineering,Tech Lead,Contract,2017-12-25,25,Bachelor,212905,44046,3,10,256951
+EMP0198,Jessica Martinez,Jessica,Martinez,jessica.martinez@company.com,(637) 959-4318,61,Female,San Diego,Legal,Compliance Officer,Full-time,2016-10-26,39,Bachelor,120867,22056,2,9,142923
+EMP0199,James Johnson,James,Johnson,james.johnson@company.com,(523) 313-9345,22,Male,San Antonio,Engineering,Tech Lead,Full-time,2023-12-07,0,High School,82195,14335,5,18,96530
+EMP0200,Christopher Brown,Christopher,Brown,christopher.brown@company.com,(455) 850-3871,44,Male,Austin,Engineering,Software Engineer,Full-time,2022-04-28,22,Associate,99503,10596,5,5,110099
+EMP0201,Michael Jones,Michael,Jones,michael.jones@company.com,(752) 567-1614,56,Male,Fort Worth,HR,Recruiter,Part-time,2024-07-18,31,Master,43275,6469,3,8,49744
+EMP0202,Stephanie Lopez,Stephanie,Lopez,stephanie.lopez@company.com,(203) 489-9120,48,Male,Charlotte,Marketing,Digital Marketer,Full-time,2021-11-05,24,Master,65908,12875,4,10,78783
+EMP0203,John Miller,John,Miller,john.miller@company.com,(583) 890-9533,44,Female,Dallas,Engineering,DevOps Engineer,Full-time,2018-07-01,18,Master,123454,11199,1,3,134653
+EMP0204,Daniel Brown,Daniel,Brown,daniel.brown@company.com,(405) 384-5591,49,Male,Houston,IT,IT Support,Part-time,2016-04-21,26,Bachelor,70517,15062,3,19,85579
+EMP0205,James Anderson,James,Anderson,james.anderson@company.com,(925) 704-3832,57,Female,San Diego,Engineering,Tech Lead,Full-time,2017-06-24,34,High School,121645,20284,5,10,141929
+EMP0206,Sarah Brown,Sarah,Brown,sarah.brown@company.com,(397) 200-1406,46,Male,Phoenix,Operations,Operations Manager,Full-time,2020-11-08,22,Bachelor,73812,6038,2,7,79850
+EMP0207,Ashley Miller,Ashley,Miller,ashley.miller@company.com,(374) 308-3230,38,Male,Dallas,Finance,Financial Analyst,Full-time,2024-12-08,13,PhD,36538,2695,4,16,39233
+EMP0208,John Smith,John,Smith,john.smith@company.com,(927) 514-3972,24,Male,Houston,Legal,Contract Manager,Full-time,2023-04-29,0,Master,100196,17352,4,4,117548
+EMP0209,Michael Garcia,Michael,Garcia,michael.garcia@company.com,(288) 859-8262,54,Female,New York,Finance,Finance Manager,Full-time,2022-12-01,28,PhD,238575,30850,2,10,269425
+EMP0210,Sarah Lopez,Sarah,Lopez,sarah.lopez@company.com,(211) 325-1139,44,Male,Phoenix,Legal,Compliance Officer,Part-time,2017-04-08,20,Bachelor,88747,16400,2,17,105147
+EMP0211,John Garcia,John,Garcia,john.garcia@company.com,(790) 414-7358,54,Male,Columbus,Finance,Finance Manager,Full-time,2025-07-08,32,Bachelor,88141,11131,5,7,99272
+EMP0212,Michael Garcia,Michael,Garcia,michael.garcia@company.com,(611) 517-2988,50,Male,Seattle,IT,System Admin,Contract,2021-10-11,27,Bachelor,133505,11464,5,5,144969
+EMP0213,Jane Martinez,Jane,Martinez,jane.martinez@company.com,(638) 494-2518,41,Male,Indianapolis,HR,HR Manager,Full-time,2019-10-12,19,Master,208575,37825,5,11,246400
+EMP0214,Emily Brown,Emily,Brown,emily.brown@company.com,(525) 944-5195,48,Male,Jacksonville,Marketing,Brand Manager,Full-time,2021-09-19,22,High School,182248,29657,3,16,211905
+EMP0215,James Lopez,James,Lopez,james.lopez@company.com,(483) 648-5396,23,Female,New York,Marketing,Content Creator,Full-time,2023-05-29,0,Master,148530,30368,4,13,178898
+EMP0216,Sarah Miller,Sarah,Miller,sarah.miller@company.com,(994) 253-4490,30,Male,New York,Sales,Business Development,Full-time,2019-12-03,7,Master,65981,16191,2,18,82172
+EMP0217,Sarah Hernandez,Sarah,Hernandez,sarah.hernandez@company.com,(411) 692-9560,42,Female,Charlotte,IT,IT Manager,Full-time,2025-06-15,18,High School,94844,15115,4,18,109959
+EMP0218,David Miller,David,Miller,david.miller@company.com,(537) 805-2526,53,Female,New York,Engineering,DevOps Engineer,Full-time,2023-06-17,29,Bachelor,62586,5824,4,16,68410
+EMP0219,Ashley Johnson,Ashley,Johnson,ashley.johnson@company.com,(693) 689-7864,59,Male,Houston,Marketing,Digital Marketer,Part-time,2018-12-27,36,Bachelor,36014,7115,3,19,43129
+EMP0220,William Gonzalez,William,Gonzalez,william.gonzalez@company.com,(879) 619-6738,27,Female,San Antonio,Engineering,Engineering Manager,Full-time,2020-12-13,1,Bachelor,88587,11717,4,6,100304
+EMP0221,David Anderson,David,Anderson,david.anderson@company.com,(953) 320-8552,49,Male,Austin,Sales,Sales Rep,Full-time,2016-08-28,23,Bachelor,127247,29956,2,3,157203
+EMP0222,Emily Garcia,Emily,Garcia,emily.garcia@company.com,(395) 339-3330,42,Male,Phoenix,Engineering,Senior Engineer,Contract,2024-12-28,18,Master,98059,13653,4,1,111712
+EMP0223,Jessica Martinez,Jessica,Martinez,jessica.martinez@company.com,(205) 308-3594,44,Male,Fort Worth,IT,Security Analyst,Full-time,2020-02-09,22,Bachelor,119774,11541,3,9,131315
+EMP0224,Robert Garcia,Robert,Garcia,robert.garcia@company.com,(871) 757-2647,62,Female,San Jose,IT,IT Support,Full-time,2018-11-30,40,High School,94848,7784,4,13,102632
+EMP0225,Robert Gonzalez,Robert,Gonzalez,robert.gonzalez@company.com,(833) 849-9306,38,Female,Los Angeles,Finance,Controller,Full-time,2023-11-04,16,Bachelor,105269,8753,4,14,114022
+EMP0226,Sarah Johnson,Sarah,Johnson,sarah.johnson@company.com,(218) 394-7318,30,Male,Austin,Operations,Supply Chain,Full-time,2016-03-13,5,Bachelor,78370,12647,3,1,91017
+EMP0227,Ashley Smith,Ashley,Smith,ashley.smith@company.com,(270) 468-6126,50,Male,Fort Worth,Operations,Operations Manager,Full-time,2024-12-31,24,Bachelor,88334,10374,2,17,98708
+EMP0228,Ashley Smith,Ashley,Smith,ashley.smith@company.com,(831) 292-1504,60,Male,Indianapolis,Operations,Operations Manager,Part-time,2024-12-19,34,Bachelor,104009,20066,4,9,124075
+EMP0229,Emily Rodriguez,Emily,Rodriguez,emily.rodriguez@company.com,(393) 935-4719,62,Female,Los Angeles,Engineering,DevOps Engineer,Full-time,2025-04-10,36,Bachelor,69872,14722,5,16,84594
+EMP0230,Emily Garcia,Emily,Garcia,emily.garcia@company.com,(932) 522-1002,33,Male,San Diego,HR,Training Coordinator,Full-time,2017-02-09,7,Bachelor,41476,8741,3,10,50217
+EMP0231,Emily Wilson,Emily,Wilson,emily.wilson@company.com,(516) 703-6167,61,Male,Houston,Marketing,Brand Manager,Full-time,2016-11-28,37,Master,145127,26462,3,2,171589
+EMP0232,William Brown,William,Brown,william.brown@company.com,(291) 464-3942,29,Male,Phoenix,Legal,Legal Assistant,Full-time,2021-07-15,6,Master,79386,14625,4,7,94011
+EMP0233,Amanda Garcia,Amanda,Garcia,amanda.garcia@company.com,(644) 468-7410,50,Male,San Francisco,IT,Network Engineer,Full-time,2023-04-22,25,Master,122796,21670,2,10,144466
+EMP0234,Emily Davis,Emily,Davis,emily.davis@company.com,(570) 990-8485,61,Male,San Diego,Finance,Finance Manager,Part-time,2018-01-14,36,Master,208985,13666,4,12,222651
+EMP0235,John Wilson,John,Wilson,john.wilson@company.com,(989) 785-4046,59,Female,Chicago,Operations,Supply Chain,Full-time,2022-07-01,33,Master,79948,15104,3,4,95052
+EMP0236,David Anderson,David,Anderson,david.anderson@company.com,(790) 716-3875,36,Female,Philadelphia,Legal,Contract Manager,Part-time,2019-02-12,11,Associate,84678,8629,1,3,93307
+EMP0237,Jessica Wilson,Jessica,Wilson,jessica.wilson@company.com,(887) 226-9490,27,Male,Columbus,Marketing,Digital Marketer,Full-time,2025-06-11,4,Master,102914,21873,4,6,124787
+EMP0238,Christopher Anderson,Christopher,Anderson,christopher.anderson@company.com,(707) 503-7644,48,Female,San Jose,Marketing,Digital Marketer,Full-time,2024-09-10,22,Bachelor,70618,3847,3,19,74465
+EMP0239,Michael Garcia,Michael,Garcia,michael.garcia@company.com,(772) 740-5478,59,Male,Seattle,Engineering,Engineering Manager,Full-time,2019-06-25,35,High School,129276,16866,3,4,146142
+EMP0240,Michael Hernandez,Michael,Hernandez,michael.hernandez@company.com,(761) 957-6232,23,Female,Austin,Engineering,Engineering Manager,Full-time,2017-09-15,0,Master,186075,32863,3,12,218938
+EMP0241,Ashley Brown,Ashley,Brown,ashley.brown@company.com,(381) 657-1917,59,Female,Austin,Legal,Compliance Officer,Part-time,2016-10-26,36,Associate,126051,18916,4,9,144967
+EMP0242,Michael Smith,Michael,Smith,michael.smith@company.com,(406) 979-2319,28,Female,Charlotte,Legal,Contract Manager,Full-time,2017-06-19,6,Master,163331,30555,1,11,193886
+EMP0243,Emily Brown,Emily,Brown,emily.brown@company.com,(228) 495-8129,51,Female,Fort Worth,Finance,Accountant,Full-time,2018-01-06,28,Master,143106,24123,3,8,167229
+EMP0244,Stephanie Smith,Stephanie,Smith,stephanie.smith@company.com,(378) 411-2257,41,Female,San Francisco,Operations,Supply Chain,Full-time,2017-02-13,17,Master,94546,18671,3,9,113217
+EMP0245,John Anderson,John,Anderson,john.anderson@company.com,(549) 693-2546,52,Female,San Diego,IT,Security Analyst,Full-time,2019-04-17,27,High School,40750,5264,4,10,46014
+EMP0246,Jane Johnson,Jane,Johnson,jane.johnson@company.com,(783) 495-5331,28,Male,Los Angeles,Marketing,Brand Manager,Full-time,2018-01-20,5,High School,113423,27745,4,8,141168
+EMP0247,Jessica Miller,Jessica,Miller,jessica.miller@company.com,(422) 537-7079,61,Male,San Diego,Finance,Controller,Part-time,2015-10-07,39,Bachelor,117956,7373,3,4,125329
+EMP0248,Emily Anderson,Emily,Anderson,emily.anderson@company.com,(311) 645-6462,45,Male,Los Angeles,IT,Network Engineer,Full-time,2019-10-14,19,Bachelor,69057,10434,2,3,79491
+EMP0249,John Smith,John,Smith,john.smith@company.com,(702) 878-8692,52,Male,San Jose,Finance,Accountant,Full-time,2022-08-10,29,Bachelor,80991,14808,2,15,95799
+EMP0250,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(907) 386-3535,61,Male,Seattle,Finance,Financial Analyst,Full-time,2016-01-27,37,Bachelor,66480,14755,3,7,81235
+EMP0251,Christopher Gonzalez,Christopher,Gonzalez,christopher.gonzalez@company.com,(390) 621-7263,38,Female,Philadelphia,Marketing,Digital Marketer,Full-time,2020-07-02,13,PhD,81151,10097,4,6,91248
+EMP0252,Amanda Jones,Amanda,Jones,amanda.jones@company.com,(743) 810-5482,51,Female,Chicago,Finance,Accountant,Contract,2018-05-20,25,Bachelor,119214,19581,2,14,138795
+EMP0253,James Lopez,James,Lopez,james.lopez@company.com,(838) 825-9112,52,Female,Phoenix,Operations,Quality Assurance,Full-time,2020-04-14,26,Master,54942,9218,4,13,64160
+EMP0254,Sarah Brown,Sarah,Brown,sarah.brown@company.com,(514) 673-2134,34,Male,Houston,Engineering,Software Engineer,Full-time,2016-06-30,11,Associate,106386,6171,3,8,112557
+EMP0255,James Gonzalez,James,Gonzalez,james.gonzalez@company.com,(980) 370-2647,60,Male,San Francisco,IT,System Admin,Part-time,2015-11-05,38,Master,129220,26346,3,18,155566
+EMP0256,Robert Smith,Robert,Smith,robert.smith@company.com,(938) 297-4791,61,Male,Charlotte,Engineering,Engineering Manager,Full-time,2018-09-26,35,High School,168203,39641,5,12,207844
+EMP0257,William Anderson,William,Anderson,william.anderson@company.com,(882) 472-2504,33,Female,Columbus,Engineering,Software Engineer,Full-time,2021-01-09,8,Bachelor,136607,12290,2,7,148897
+EMP0258,Ashley Gonzalez,Ashley,Gonzalez,ashley.gonzalez@company.com,(348) 314-2874,42,Female,Philadelphia,Operations,Process Analyst,Full-time,2024-04-21,18,Bachelor,60832,6482,3,17,67314
+EMP0259,Robert Lopez,Robert,Lopez,robert.lopez@company.com,(507) 769-4359,38,Female,Philadelphia,HR,Recruiter,Full-time,2024-11-07,14,Bachelor,79757,8413,3,13,88170
+EMP0260,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(671) 919-7513,57,Female,Columbus,Marketing,Content Creator,Full-time,2020-10-18,33,Master,36961,4386,4,12,41347
+EMP0261,Sarah Garcia,Sarah,Garcia,sarah.garcia@company.com,(481) 559-9002,48,Male,San Francisco,Legal,Contract Manager,Full-time,2021-10-28,22,Bachelor,189181,9649,2,9,198830
+EMP0262,Jessica Jones,Jessica,Jones,jessica.jones@company.com,(328) 445-4672,24,Female,San Francisco,Engineering,Tech Lead,Full-time,2016-06-21,1,Master,218234,50594,3,16,268828
+EMP0263,Jane Wilson,Jane,Wilson,jane.wilson@company.com,(501) 224-3672,24,Male,Indianapolis,HR,Compensation Analyst,Full-time,2015-12-05,0,Bachelor,128326,30795,2,15,159121
+EMP0264,James Lopez,James,Lopez,james.lopez@company.com,(772) 391-3052,44,Female,Seattle,Finance,Controller,Part-time,2023-04-08,20,Bachelor,45377,5234,1,11,50611
+EMP0265,Ashley Gonzalez,Ashley,Gonzalez,ashley.gonzalez@company.com,(801) 916-1890,58,Male,Fort Worth,Operations,Project Manager,Full-time,2021-04-15,35,Master,84880,18902,3,7,103782
+EMP0266,Jessica Anderson,Jessica,Anderson,jessica.anderson@company.com,(812) 310-3432,49,Female,Dallas,IT,System Admin,Full-time,2015-11-21,26,High School,36587,2028,3,8,38615
+EMP0267,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(973) 362-7509,63,Male,Charlotte,Engineering,Tech Lead,Full-time,2020-01-10,41,Bachelor,133866,29037,3,13,162903
+EMP0268,Stephanie Anderson,Stephanie,Anderson,stephanie.anderson@company.com,(731) 589-9901,29,Female,Fort Worth,Engineering,DevOps Engineer,Full-time,2022-09-08,3,Master,100942,15778,1,5,116720
+EMP0269,James Johnson,James,Johnson,james.johnson@company.com,(874) 321-2895,39,Male,Columbus,Operations,Project Manager,Full-time,2024-02-18,15,Master,88313,5772,3,4,94085
+EMP0270,Jessica Gonzalez,Jessica,Gonzalez,jessica.gonzalez@company.com,(931) 389-5524,38,Female,Seattle,Engineering,Tech Lead,Full-time,2016-11-09,15,Bachelor,182475,23548,2,16,206023
+EMP0271,Ashley Lopez,Ashley,Lopez,ashley.lopez@company.com,(324) 512-8119,53,Female,Chicago,Operations,Supply Chain,Full-time,2015-11-29,27,Master,90878,21525,5,10,112403
+EMP0272,Michael Wilson,Michael,Wilson,michael.wilson@company.com,(819) 203-4164,31,Male,Seattle,Finance,Budget Analyst,Full-time,2018-06-25,8,Master,90468,16429,1,14,106897
+EMP0273,Robert Garcia,Robert,Garcia,robert.garcia@company.com,(850) 600-8263,53,Male,Charlotte,Legal,Paralegal,Full-time,2020-10-27,30,Bachelor,103207,23414,4,10,126621
+EMP0274,Sarah Anderson,Sarah,Anderson,sarah.anderson@company.com,(424) 729-2814,25,Male,Phoenix,Legal,Compliance Officer,Contract,2019-08-21,1,Bachelor,66721,3679,4,14,70400
+EMP0275,Ashley Williams,Ashley,Williams,ashley.williams@company.com,(315) 247-8905,26,Male,Los Angeles,Finance,Financial Analyst,Part-time,2015-11-26,4,Bachelor,145966,30797,2,3,176763
+EMP0276,Ashley Williams,Ashley,Williams,ashley.williams@company.com,(440) 954-2553,32,Male,Fort Worth,IT,IT Support,Full-time,2021-04-10,9,Master,80865,19034,3,16,99899
+EMP0277,Michael Jones,Michael,Jones,michael.jones@company.com,(271) 462-2902,47,Female,Jacksonville,Marketing,Content Creator,Full-time,2021-12-09,22,PhD,74553,4650,3,15,79203
+EMP0278,Robert Wilson,Robert,Wilson,robert.wilson@company.com,(995) 829-7543,61,Male,Fort Worth,Operations,Supply Chain,Part-time,2024-12-17,39,Associate,95372,6439,2,4,101811
+EMP0279,Stephanie Martinez,Stephanie,Martinez,stephanie.martinez@company.com,(363) 423-9975,28,Male,Phoenix,Finance,Finance Manager,Full-time,2016-01-24,3,Associate,81116,8864,5,6,89980
+EMP0280,Jane Jones,Jane,Jones,jane.jones@company.com,(315) 438-4406,57,Female,Los Angeles,Finance,Finance Manager,Full-time,2019-06-11,32,Master,196954,18907,3,6,215861
+EMP0281,William Brown,William,Brown,william.brown@company.com,(848) 817-5675,30,Female,Seattle,Sales,Sales Coordinator,Full-time,2018-04-20,6,Bachelor,61553,3507,5,13,65060
+EMP0282,Michael Martinez,Michael,Martinez,michael.martinez@company.com,(343) 215-8469,51,Male,Chicago,Engineering,DevOps Engineer,Part-time,2021-12-03,25,Master,55666,7361,3,17,63027
+EMP0283,Robert Jones,Robert,Jones,robert.jones@company.com,(758) 380-7761,52,Female,New York,Marketing,Digital Marketer,Part-time,2021-09-23,29,Bachelor,46984,10711,5,1,57695
+EMP0284,Robert Johnson,Robert,Johnson,robert.johnson@company.com,(381) 855-3077,63,Female,Jacksonville,Marketing,Content Creator,Full-time,2023-06-01,39,PhD,75130,8629,4,17,83759
+EMP0285,Sarah Garcia,Sarah,Garcia,sarah.garcia@company.com,(562) 482-6672,49,Female,San Jose,HR,Recruiter,Full-time,2023-05-05,27,Bachelor,86502,5362,2,18,91864
+EMP0286,Jane Martinez,Jane,Martinez,jane.martinez@company.com,(607) 585-6197,46,Female,San Diego,Engineering,Engineering Manager,Full-time,2024-03-23,24,Bachelor,199501,40995,4,4,240496
+EMP0287,Jane Gonzalez,Jane,Gonzalez,jane.gonzalez@company.com,(235) 884-8189,36,Female,San Antonio,Legal,Legal Assistant,Full-time,2017-09-24,10,Bachelor,104517,21952,4,6,126469
+EMP0288,Stephanie Anderson,Stephanie,Anderson,stephanie.anderson@company.com,(860) 303-6874,37,Female,New York,Finance,Controller,Full-time,2019-03-30,13,Bachelor,108580,11334,3,4,119914
+EMP0289,Stephanie Miller,Stephanie,Miller,stephanie.miller@company.com,(755) 809-8940,52,Male,Jacksonville,Legal,Legal Counsel,Full-time,2016-11-08,26,Bachelor,139223,29610,5,15,168833
+EMP0290,Christopher Hernandez,Christopher,Hernandez,christopher.hernandez@company.com,(450) 923-1325,44,Female,Columbus,IT,Network Engineer,Full-time,2016-06-16,20,Bachelor,145674,11601,2,8,157275
+EMP0291,Daniel Rodriguez,Daniel,Rodriguez,daniel.rodriguez@company.com,(253) 929-3575,52,Male,Fort Worth,Finance,Controller,Full-time,2019-11-07,30,Bachelor,147470,9763,4,11,157233
+EMP0292,Michael Brown,Michael,Brown,michael.brown@company.com,(403) 411-2644,24,Female,Charlotte,Engineering,Software Engineer,Full-time,2023-04-28,0,Bachelor,104280,18403,2,12,122683
+EMP0293,Sarah Rodriguez,Sarah,Rodriguez,sarah.rodriguez@company.com,(410) 399-8977,60,Female,Philadelphia,Marketing,Digital Marketer,Part-time,2020-05-12,35,Master,52883,7329,4,11,60212
+EMP0294,Ashley Williams,Ashley,Williams,ashley.williams@company.com,(610) 722-3657,47,Male,Fort Worth,HR,HR Specialist,Full-time,2025-01-28,23,Bachelor,47254,2993,1,10,50247
+EMP0295,James Williams,James,Williams,james.williams@company.com,(865) 851-9106,27,Male,Philadelphia,Engineering,Senior Engineer,Full-time,2022-03-20,3,Associate,118886,14618,4,4,133504
+EMP0296,Michael Jones,Michael,Jones,michael.jones@company.com,(833) 722-8382,58,Male,San Francisco,Engineering,DevOps Engineer,Part-time,2025-05-01,36,PhD,63931,8259,4,14,72190
+EMP0297,Christopher Miller,Christopher,Miller,christopher.miller@company.com,(557) 817-1506,49,Female,New York,HR,HR Manager,Full-time,2024-11-27,25,Bachelor,259910,58357,3,19,318267
+EMP0298,Daniel Jones,Daniel,Jones,daniel.jones@company.com,(712) 947-2211,59,Male,San Jose,IT,IT Support,Contract,2022-05-22,36,Bachelor,35390,5487,2,1,40877
+EMP0299,Jane Brown,Jane,Brown,jane.brown@company.com,(576) 857-6275,38,Female,Houston,Engineering,Senior Engineer,Part-time,2024-11-09,12,Bachelor,147561,23018,4,14,170579
+EMP0300,Amanda Gonzalez,Amanda,Gonzalez,amanda.gonzalez@company.com,(265) 307-7411,37,Female,Houston,Finance,Financial Analyst,Full-time,2023-01-28,14,Bachelor,116384,25102,2,11,141486
+EMP0301,Stephanie Brown,Stephanie,Brown,stephanie.brown@company.com,(300) 806-8933,39,Male,San Antonio,Finance,Financial Analyst,Full-time,2020-07-02,16,Associate,121597,20752,4,19,142349
+EMP0302,David Wilson,David,Wilson,david.wilson@company.com,(371) 473-3306,63,Male,Phoenix,HR,HR Manager,Full-time,2022-03-06,37,High School,91479,6992,3,7,98471
+EMP0303,Robert Hernandez,Robert,Hernandez,robert.hernandez@company.com,(371) 582-3181,39,Male,Phoenix,Sales,Sales Rep,Part-time,2019-01-05,15,Master,113545,11683,3,2,125228
+EMP0304,Ashley Rodriguez,Ashley,Rodriguez,ashley.rodriguez@company.com,(450) 982-9134,42,Male,San Francisco,IT,IT Manager,Full-time,2025-03-01,20,Bachelor,258252,55516,4,10,313768
+EMP0305,Christopher Hernandez,Christopher,Hernandez,christopher.hernandez@company.com,(796) 650-1556,24,Male,Charlotte,Marketing,Brand Manager,Full-time,2024-01-16,0,Bachelor,65676,5834,3,19,71510
+EMP0306,Jessica Miller,Jessica,Miller,jessica.miller@company.com,(821) 911-3999,37,Female,San Francisco,Engineering,Engineering Manager,Full-time,2022-11-14,14,Associate,132458,18575,3,16,151033
+EMP0307,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(514) 643-2342,33,Female,Columbus,Legal,Legal Counsel,Full-time,2019-07-31,7,Master,73417,17297,2,18,90714
+EMP0308,William Lopez,William,Lopez,william.lopez@company.com,(805) 628-4340,48,Female,Dallas,Legal,Contract Manager,Full-time,2017-01-21,26,High School,280439,44862,5,7,325301
+EMP0309,David Rodriguez,David,Rodriguez,david.rodriguez@company.com,(346) 234-6428,41,Male,Charlotte,Sales,Account Manager,Full-time,2017-10-27,18,Bachelor,142141,15084,3,11,157225
+EMP0310,Ashley Wilson,Ashley,Wilson,ashley.wilson@company.com,(739) 891-4197,35,Female,Jacksonville,Legal,Legal Counsel,Full-time,2017-06-23,11,Bachelor,55918,5845,4,1,61763
+EMP0311,John Jones,John,Jones,john.jones@company.com,(284) 688-5758,47,Female,Chicago,Legal,Legal Assistant,Full-time,2022-11-11,22,Bachelor,55923,13914,1,8,69837
+EMP0312,Michael Miller,Michael,Miller,michael.miller@company.com,(502) 879-5530,64,Female,Fort Worth,Marketing,Content Creator,Full-time,2016-08-17,38,Bachelor,56398,6373,3,19,62771
+EMP0313,Ashley Miller,Ashley,Miller,ashley.miller@company.com,(957) 828-2627,41,Female,Dallas,Finance,Budget Analyst,Full-time,2018-08-03,18,Bachelor,83940,12392,2,5,96332
+EMP0314,John Lopez,John,Lopez,john.lopez@company.com,(345) 440-8036,62,Male,Seattle,Engineering,Tech Lead,Full-time,2018-07-17,36,Bachelor,74210,6299,3,19,80509
+EMP0315,Jessica Gonzalez,Jessica,Gonzalez,jessica.gonzalez@company.com,(224) 727-8349,56,Female,Houston,Engineering,DevOps Engineer,Full-time,2016-11-24,32,Bachelor,65607,11113,4,19,76720
+EMP0316,Michael Rodriguez,Michael,Rodriguez,michael.rodriguez@company.com,(247) 690-3598,22,Male,New York,Sales,Business Development,Part-time,2021-10-01,0,Bachelor,141540,23721,3,9,165261
+EMP0317,Daniel Martinez,Daniel,Martinez,daniel.martinez@company.com,(471) 342-8778,31,Male,Seattle,HR,Training Coordinator,Full-time,2024-05-05,6,Bachelor,132800,14841,3,17,147641
+EMP0318,William Brown,William,Brown,william.brown@company.com,(967) 720-2140,26,Male,Charlotte,Sales,Account Manager,Part-time,2017-12-07,3,Master,217286,49095,1,14,266381
+EMP0319,James Williams,James,Williams,james.williams@company.com,(686) 350-1178,58,Male,Fort Worth,HR,Compensation Analyst,Full-time,2022-08-25,33,Master,147947,22553,4,7,170500
+EMP0320,David Miller,David,Miller,david.miller@company.com,(906) 897-3933,52,Female,Seattle,HR,Training Coordinator,Full-time,2024-04-21,29,PhD,130865,21594,3,6,152459
+EMP0321,Sarah Jones,Sarah,Jones,sarah.jones@company.com,(504) 343-9302,40,Male,Charlotte,Operations,Operations Manager,Full-time,2025-01-22,15,Master,195511,35493,4,19,231004
+EMP0322,Emily Davis,Emily,Davis,emily.davis@company.com,(484) 325-7040,29,Male,San Francisco,HR,HR Manager,Part-time,2019-07-29,3,Master,213654,16951,4,6,230605
+EMP0323,Robert Smith,Robert,Smith,robert.smith@company.com,(987) 311-4797,45,Male,Los Angeles,HR,HR Manager,Full-time,2022-05-02,21,PhD,262518,25496,5,19,288014
+EMP0324,James Miller,James,Miller,james.miller@company.com,(497) 889-6603,30,Female,San Diego,Legal,Contract Manager,Full-time,2024-08-05,4,High School,124769,8438,2,11,133207
+EMP0325,David Rodriguez,David,Rodriguez,david.rodriguez@company.com,(223) 827-6969,38,Male,Phoenix,Legal,Compliance Officer,Full-time,2021-08-18,14,Master,133750,25563,5,17,159313
+EMP0326,Jane Garcia,Jane,Garcia,jane.garcia@company.com,(980) 200-9737,35,Male,Charlotte,Operations,Supply Chain,Full-time,2017-11-05,11,Bachelor,121988,13376,4,17,135364
+EMP0327,Stephanie Anderson,Stephanie,Anderson,stephanie.anderson@company.com,(800) 767-5435,35,Male,Los Angeles,Sales,Sales Coordinator,Full-time,2017-12-14,13,Associate,88639,11465,3,5,100104
+EMP0328,David Gonzalez,David,Gonzalez,david.gonzalez@company.com,(792) 524-8236,43,Male,San Francisco,Sales,Account Manager,Full-time,2023-01-31,21,Bachelor,158359,24161,3,6,182520
+EMP0329,Sarah Williams,Sarah,Williams,sarah.williams@company.com,(450) 808-8104,62,Female,Dallas,Finance,Accountant,Full-time,2024-12-05,38,Master,66551,7072,4,6,73623
+EMP0330,Daniel Smith,Daniel,Smith,daniel.smith@company.com,(798) 671-3741,22,Male,Houston,Finance,Accountant,Full-time,2019-11-20,0,Master,68896,13770,5,16,82666
+EMP0331,Christopher Smith,Christopher,Smith,christopher.smith@company.com,(974) 495-5565,58,Female,San Jose,Engineering,Senior Engineer,Part-time,2024-04-15,35,Bachelor,71547,17727,3,10,89274
+EMP0332,Ashley Smith,Ashley,Smith,ashley.smith@company.com,(327) 731-7103,25,Female,Seattle,Marketing,Digital Marketer,Full-time,2020-07-14,3,High School,69635,16768,2,6,86403
+EMP0333,James Garcia,James,Garcia,james.garcia@company.com,(624) 753-3657,29,Male,Indianapolis,Engineering,Tech Lead,Full-time,2023-01-19,4,Bachelor,92908,22808,4,19,115716
+EMP0334,John Anderson,John,Anderson,john.anderson@company.com,(676) 909-7464,51,Male,Indianapolis,Operations,Operations Manager,Part-time,2016-01-15,27,Bachelor,90887,4921,4,1,95808
+EMP0335,Michael Smith,Michael,Smith,michael.smith@company.com,(892) 526-3155,48,Female,San Francisco,HR,HR Manager,Part-time,2020-12-27,25,Bachelor,89281,13436,1,7,102717
+EMP0336,Daniel Johnson,Daniel,Johnson,daniel.johnson@company.com,(637) 950-4129,25,Female,San Francisco,IT,Network Engineer,Full-time,2018-11-10,0,Bachelor,111427,23320,4,1,134747
+EMP0337,Emily Williams,Emily,Williams,emily.williams@company.com,(329) 766-8776,39,Male,New York,IT,System Admin,Full-time,2022-09-24,15,Bachelor,74886,14222,4,5,89108
+EMP0338,Robert Garcia,Robert,Garcia,robert.garcia@company.com,(242) 816-4644,37,Female,Chicago,IT,Network Engineer,Full-time,2024-02-28,15,Master,96078,19133,4,18,115211
+EMP0339,Stephanie Brown,Stephanie,Brown,stephanie.brown@company.com,(881) 915-5151,53,Female,San Jose,IT,System Admin,Full-time,2020-10-28,27,Bachelor,58760,7944,5,15,66704
+EMP0340,William Anderson,William,Anderson,william.anderson@company.com,(914) 273-3223,48,Female,Columbus,Marketing,Content Creator,Full-time,2023-11-27,23,Bachelor,127172,15080,4,1,142252
+EMP0341,James Jones,James,Jones,james.jones@company.com,(316) 567-4001,59,Male,San Diego,Operations,Operations Manager,Full-time,2019-06-03,37,High School,76938,16346,3,17,93284
+EMP0342,James Jones,James,Jones,james.jones@company.com,(537) 603-8543,42,Male,San Jose,Finance,Financial Analyst,Full-time,2024-04-18,17,Master,113929,10282,4,4,124211
+EMP0343,Jessica Anderson,Jessica,Anderson,jessica.anderson@company.com,(537) 679-2716,64,Male,Fort Worth,IT,Network Engineer,Full-time,2022-12-04,40,High School,115409,15551,3,17,130960
+EMP0344,Michael Johnson,Michael,Johnson,michael.johnson@company.com,(829) 974-3349,54,Female,Indianapolis,HR,HR Specialist,Full-time,2017-10-09,30,Bachelor,129774,28107,5,4,157881
+EMP0345,Sarah Davis,Sarah,Davis,sarah.davis@company.com,(865) 289-8328,22,Male,San Jose,Operations,Process Analyst,Full-time,2024-04-27,0,Bachelor,72011,6285,4,11,78296
+EMP0346,Ashley Rodriguez,Ashley,Rodriguez,ashley.rodriguez@company.com,(927) 809-8067,41,Male,Houston,Finance,Accountant,Contract,2024-07-25,16,Bachelor,60739,14724,3,14,75463
+EMP0347,Sarah Davis,Sarah,Davis,sarah.davis@company.com,(711) 811-9269,23,Male,Charlotte,Finance,Financial Analyst,Part-time,2021-10-23,0,Associate,140005,23807,4,2,163812
+EMP0348,Michael Johnson,Michael,Johnson,michael.johnson@company.com,(556) 846-9634,27,Male,Houston,Operations,Process Analyst,Full-time,2025-04-26,1,Bachelor,105726,17032,4,11,122758
+EMP0349,David Hernandez,David,Hernandez,david.hernandez@company.com,(621) 817-1471,36,Male,Phoenix,IT,Security Analyst,Full-time,2016-07-02,12,Associate,99016,15210,4,11,114226
+EMP0350,Christopher Williams,Christopher,Williams,christopher.williams@company.com,(968) 979-5611,35,Male,San Jose,HR,Training Coordinator,Full-time,2024-02-28,13,Master,36936,2742,3,19,39678
+EMP0351,Ashley Gonzalez,Ashley,Gonzalez,ashley.gonzalez@company.com,(201) 719-2674,55,Male,Houston,Sales,Sales Coordinator,Full-time,2017-03-18,33,Master,68541,6059,4,12,74600
+EMP0352,Amanda Jones,Amanda,Jones,amanda.jones@company.com,(219) 415-7998,57,Male,San Francisco,Legal,Contract Manager,Full-time,2024-05-24,31,Bachelor,88965,18773,2,7,107738
+EMP0353,Robert Rodriguez,Robert,Rodriguez,robert.rodriguez@company.com,(465) 319-9084,22,Female,Philadelphia,Operations,Project Manager,Full-time,2018-07-11,0,Master,101891,17800,2,19,119691
+EMP0354,Jessica Garcia,Jessica,Garcia,jessica.garcia@company.com,(379) 743-9216,42,Male,San Antonio,Legal,Legal Counsel,Full-time,2018-01-16,20,Bachelor,143491,14056,2,14,157547
+EMP0355,James Miller,James,Miller,james.miller@company.com,(957) 601-8933,55,Male,San Diego,Operations,Project Manager,Full-time,2024-05-29,33,Master,155338,19984,4,19,175322
+EMP0356,Jessica Davis,Jessica,Davis,jessica.davis@company.com,(409) 940-5957,51,Male,San Jose,IT,IT Manager,Intern,2025-02-14,28,Bachelor,252536,48025,3,19,300561
+EMP0357,Michael Martinez,Michael,Martinez,michael.martinez@company.com,(996) 458-7233,44,Male,San Francisco,Engineering,Engineering Manager,Contract,2020-08-08,22,Bachelor,203779,16897,2,19,220676
+EMP0358,Jessica Hernandez,Jessica,Hernandez,jessica.hernandez@company.com,(215) 350-9445,33,Female,Jacksonville,HR,Recruiter,Full-time,2017-05-11,8,High School,72860,9385,4,12,82245
+EMP0359,Amanda Rodriguez,Amanda,Rodriguez,amanda.rodriguez@company.com,(454) 342-4823,53,Male,Fort Worth,Finance,Finance Manager,Part-time,2017-09-25,31,Associate,51386,11909,4,3,63295
+EMP0360,Sarah Jones,Sarah,Jones,sarah.jones@company.com,(862) 834-8311,27,Male,Austin,HR,Recruiter,Contract,2022-03-31,1,Bachelor,74148,10274,4,13,84422
+EMP0361,Stephanie Gonzalez,Stephanie,Gonzalez,stephanie.gonzalez@company.com,(396) 681-1877,25,Female,San Jose,Engineering,Engineering Manager,Full-time,2024-09-04,3,High School,72402,12808,4,3,85210
+EMP0362,Jane Gonzalez,Jane,Gonzalez,jane.gonzalez@company.com,(576) 854-7821,60,Female,San Francisco,Sales,Sales Director,Contract,2017-10-04,34,Bachelor,81449,19118,5,11,100567
+EMP0363,Daniel Jones,Daniel,Jones,daniel.jones@company.com,(772) 508-5753,50,Male,San Jose,HR,Training Coordinator,Contract,2023-05-02,25,PhD,54403,5320,4,9,59723
+EMP0364,James Williams,James,Williams,james.williams@company.com,(366) 929-8952,55,Female,Houston,Finance,Financial Analyst,Full-time,2024-06-19,30,Associate,107267,10305,3,1,117572
+EMP0365,James Hernandez,James,Hernandez,james.hernandez@company.com,(671) 943-1246,45,Female,San Jose,Operations,Process Analyst,Full-time,2019-03-30,20,Master,146560,24484,3,17,171044
+EMP0366,Stephanie Anderson,Stephanie,Anderson,stephanie.anderson@company.com,(619) 906-7997,52,Female,San Francisco,Marketing,Marketing Manager,Full-time,2023-10-08,27,Bachelor,245227,54654,3,12,299881
+EMP0367,Jane Rodriguez,Jane,Rodriguez,jane.rodriguez@company.com,(236) 532-1402,33,Female,Houston,IT,IT Manager,Full-time,2016-07-27,7,High School,154775,23606,3,18,178381
+EMP0368,Stephanie Gonzalez,Stephanie,Gonzalez,stephanie.gonzalez@company.com,(524) 254-4039,39,Male,Houston,HR,Training Coordinator,Part-time,2024-08-27,14,Associate,107107,6968,3,2,114075
+EMP0369,Ashley Rodriguez,Ashley,Rodriguez,ashley.rodriguez@company.com,(344) 268-4129,34,Male,San Jose,Sales,Sales Director,Intern,2018-02-26,8,High School,176379,15320,1,9,191699
+EMP0370,William Wilson,William,Wilson,william.wilson@company.com,(577) 819-7238,52,Male,San Diego,Operations,Supply Chain,Full-time,2015-12-02,29,High School,114693,19715,4,11,134408
+EMP0371,Emily Rodriguez,Emily,Rodriguez,emily.rodriguez@company.com,(583) 392-2410,22,Female,San Francisco,Legal,Contract Manager,Full-time,2023-10-03,0,PhD,215051,24701,5,19,239752
+EMP0372,Ashley Jones,Ashley,Jones,ashley.jones@company.com,(397) 570-9564,56,Male,Chicago,Engineering,DevOps Engineer,Full-time,2019-11-24,31,Bachelor,131364,29417,3,16,160781
+EMP0373,Christopher Smith,Christopher,Smith,christopher.smith@company.com,(218) 728-6585,44,Female,Los Angeles,Marketing,Marketing Manager,Full-time,2016-12-02,21,PhD,92814,5086,3,4,97900
+EMP0374,David Garcia,David,Garcia,david.garcia@company.com,(256) 922-9971,28,Female,Houston,Legal,Legal Assistant,Full-time,2025-02-04,3,Bachelor,141802,10032,3,10,151834
+EMP0375,Jane Smith,Jane,Smith,jane.smith@company.com,(564) 275-4392,51,Female,Chicago,IT,IT Support,Part-time,2022-01-23,26,Associate,77907,11439,4,19,89346
+EMP0376,David Smith,David,Smith,david.smith@company.com,(678) 965-6281,22,Male,San Antonio,HR,Recruiter,Part-time,2017-03-03,0,Master,101214,22722,3,8,123936
+EMP0377,Robert Brown,Robert,Brown,robert.brown@company.com,(667) 608-4483,39,Male,Dallas,Marketing,Marketing Specialist,Full-time,2022-02-25,15,PhD,86588,13229,4,7,99817
+EMP0378,Amanda Johnson,Amanda,Johnson,amanda.johnson@company.com,(377) 557-7523,64,Male,San Francisco,HR,Compensation Analyst,Full-time,2025-06-20,42,Bachelor,122736,7312,5,12,130048
+EMP0379,Amanda Miller,Amanda,Miller,amanda.miller@company.com,(909) 697-4557,39,Female,Charlotte,Operations,Quality Assurance,Intern,2022-04-25,17,Master,140723,17756,3,2,158479
+EMP0380,Christopher Martinez,Christopher,Martinez,christopher.martinez@company.com,(292) 887-5752,55,Female,Columbus,Operations,Process Analyst,Full-time,2021-09-17,31,Master,124941,30068,2,12,155009
+EMP0381,Robert Gonzalez,Robert,Gonzalez,robert.gonzalez@company.com,(351) 682-5354,23,Male,San Antonio,Legal,Legal Counsel,Full-time,2024-10-06,0,High School,80772,9962,3,4,90734
+EMP0382,Sarah Rodriguez,Sarah,Rodriguez,sarah.rodriguez@company.com,(969) 960-9257,58,Male,Chicago,IT,IT Manager,Full-time,2018-10-14,33,Master,208663,39113,3,3,247776
+EMP0383,Sarah Lopez,Sarah,Lopez,sarah.lopez@company.com,(467) 724-6065,64,Female,Charlotte,Marketing,Marketing Manager,Full-time,2024-06-11,39,Master,217983,13191,2,13,231174
+EMP0384,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(742) 786-5934,61,Male,Fort Worth,Marketing,Marketing Manager,Full-time,2018-01-18,37,Master,230094,40575,3,8,270669
+EMP0385,Christopher Johnson,Christopher,Johnson,christopher.johnson@company.com,(365) 841-5095,27,Male,Los Angeles,Sales,Sales Rep,Full-time,2021-05-05,5,Bachelor,78333,15002,2,6,93335
+EMP0386,Emily Brown,Emily,Brown,emily.brown@company.com,(677) 954-5777,46,Male,Indianapolis,Finance,Budget Analyst,Part-time,2022-01-22,23,Bachelor,95390,20484,2,5,115874
+EMP0387,James Lopez,James,Lopez,james.lopez@company.com,(500) 859-8959,39,Male,San Francisco,Operations,Supply Chain,Full-time,2018-08-22,13,Bachelor,131058,30422,3,7,161480
+EMP0388,Christopher Hernandez,Christopher,Hernandez,christopher.hernandez@company.com,(775) 548-5732,51,Male,San Antonio,Sales,Sales Coordinator,Full-time,2018-10-22,26,Bachelor,90182,12696,3,19,102878
+EMP0389,Ashley Williams,Ashley,Williams,ashley.williams@company.com,(265) 802-5042,60,Female,Chicago,Legal,Legal Assistant,Contract,2019-10-13,37,High School,111768,24284,5,14,136052
+EMP0390,Daniel Johnson,Daniel,Johnson,daniel.johnson@company.com,(780) 976-2211,22,Male,Chicago,IT,IT Manager,Intern,2024-11-19,0,Bachelor,53587,3719,2,10,57306
+EMP0391,Emily Gonzalez,Emily,Gonzalez,emily.gonzalez@company.com,(545) 429-3302,52,Female,Jacksonville,HR,Compensation Analyst,Full-time,2017-10-02,30,PhD,63036,7630,4,13,70666
+EMP0392,Amanda Martinez,Amanda,Martinez,amanda.martinez@company.com,(637) 354-4749,29,Male,Charlotte,Marketing,Marketing Specialist,Full-time,2024-12-11,4,Master,101060,14128,3,2,115188
+EMP0393,Ashley Martinez,Ashley,Martinez,ashley.martinez@company.com,(257) 501-1604,59,Female,Austin,Legal,Legal Counsel,Full-time,2017-10-08,33,Bachelor,64685,13849,4,8,78534
+EMP0394,William Anderson,William,Anderson,william.anderson@company.com,(572) 424-6192,51,Female,San Francisco,HR,Training Coordinator,Full-time,2024-02-25,29,Master,84999,13182,2,14,98181
+EMP0395,William Anderson,William,Anderson,william.anderson@company.com,(736) 272-3970,48,Male,Indianapolis,Marketing,Brand Manager,Full-time,2023-08-31,22,Bachelor,142033,15163,4,2,157196
+EMP0396,John Miller,John,Miller,john.miller@company.com,(735) 567-2235,31,Male,Chicago,Operations,Project Manager,Full-time,2024-02-09,8,High School,214655,13146,4,7,227801
+EMP0397,John Smith,John,Smith,john.smith@company.com,(746) 735-7683,38,Male,Fort Worth,Operations,Operations Manager,Full-time,2025-07-12,14,Associate,133355,31067,3,10,164422
+EMP0398,Sarah Davis,Sarah,Davis,sarah.davis@company.com,(681) 302-9488,37,Female,Charlotte,Legal,Legal Counsel,Full-time,2018-02-12,14,Bachelor,52706,12417,2,11,65123
+EMP0399,Ashley Johnson,Ashley,Johnson,ashley.johnson@company.com,(828) 875-2823,44,Female,San Antonio,Marketing,Brand Manager,Full-time,2015-10-09,22,Associate,97225,16794,3,18,114019
+EMP0400,Amanda Gonzalez,Amanda,Gonzalez,amanda.gonzalez@company.com,(380) 555-6795,22,Male,Chicago,Legal,Contract Manager,Full-time,2020-11-08,0,Bachelor,133937,10187,4,5,144124
+EMP0401,Sarah Brown,Sarah,Brown,sarah.brown@company.com,(272) 678-7093,39,Male,Dallas,Sales,Account Manager,Full-time,2018-12-30,14,Bachelor,157649,13311,3,19,170960
+EMP0402,John Jones,John,Jones,john.jones@company.com,(793) 855-6507,23,Female,Columbus,Operations,Supply Chain,Full-time,2017-08-30,0,Associate,45195,4745,3,5,49940
+EMP0403,Amanda Gonzalez,Amanda,Gonzalez,amanda.gonzalez@company.com,(299) 857-8281,28,Male,Jacksonville,Marketing,Digital Marketer,Part-time,2022-07-24,5,Master,97532,21939,4,1,119471
+EMP0404,Stephanie Rodriguez,Stephanie,Rodriguez,stephanie.rodriguez@company.com,(825) 261-9511,36,Male,San Jose,Finance,Budget Analyst,Full-time,2023-08-04,14,High School,95646,9278,4,19,104924
+EMP0405,Emily Gonzalez,Emily,Gonzalez,emily.gonzalez@company.com,(573) 780-5652,63,Female,San Francisco,Engineering,Software Engineer,Full-time,2018-02-09,41,PhD,88028,5879,4,5,93907
+EMP0406,William Martinez,William,Martinez,william.martinez@company.com,(629) 779-2560,53,Female,Chicago,Operations,Process Analyst,Full-time,2018-04-15,30,Bachelor,112597,7713,3,3,120310
+EMP0407,Michael Gonzalez,Michael,Gonzalez,michael.gonzalez@company.com,(529) 967-4895,60,Female,Dallas,Sales,Sales Coordinator,Full-time,2025-03-08,35,Master,143895,21490,4,10,165385
+EMP0408,James Anderson,James,Anderson,james.anderson@company.com,(915) 683-8129,46,Female,San Antonio,IT,Network Engineer,Intern,2019-12-23,24,Master,89469,18723,4,10,108192
+EMP0409,Jane Jones,Jane,Jones,jane.jones@company.com,(475) 687-5376,57,Male,Columbus,HR,Compensation Analyst,Full-time,2024-04-23,31,Bachelor,44479,10069,5,19,54548
+EMP0410,Michael Jones,Michael,Jones,michael.jones@company.com,(428) 808-9558,32,Female,San Diego,Marketing,Marketing Manager,Full-time,2019-12-23,8,Bachelor,112125,22437,4,1,134562
+EMP0411,Robert Miller,Robert,Miller,robert.miller@company.com,(946) 217-9989,47,Male,San Diego,Finance,Accountant,Full-time,2017-05-28,25,Bachelor,70790,15814,4,1,86604
+EMP0412,Ashley Gonzalez,Ashley,Gonzalez,ashley.gonzalez@company.com,(984) 958-5541,60,Male,San Francisco,Engineering,Software Engineer,Full-time,2021-11-03,37,Bachelor,79247,13379,4,10,92626
+EMP0413,Christopher Martinez,Christopher,Martinez,christopher.martinez@company.com,(593) 700-4766,27,Female,Philadelphia,Sales,Business Development,Full-time,2022-02-02,3,Associate,130335,9101,4,9,139436
+EMP0414,James Rodriguez,James,Rodriguez,james.rodriguez@company.com,(522) 409-5710,36,Male,Fort Worth,Sales,Sales Director,Contract,2023-06-16,12,High School,211519,25752,4,19,237271
+EMP0415,William Brown,William,Brown,william.brown@company.com,(223) 298-1355,33,Female,Austin,Engineering,Engineering Manager,Part-time,2016-12-29,8,Bachelor,124722,18936,1,16,143658
+EMP0416,James Miller,James,Miller,james.miller@company.com,(365) 742-2906,50,Male,Charlotte,HR,Recruiter,Contract,2020-11-17,27,Associate,89943,10641,3,2,100584
+EMP0417,Jessica Martinez,Jessica,Martinez,jessica.martinez@company.com,(604) 482-8529,50,Male,Columbus,Legal,Legal Counsel,Full-time,2021-08-27,26,Bachelor,63561,7865,4,1,71426
+EMP0418,James Garcia,James,Garcia,james.garcia@company.com,(592) 284-5362,57,Male,Indianapolis,IT,Network Engineer,Full-time,2020-10-12,33,Master,122755,11467,3,5,134222
+EMP0419,David Williams,David,Williams,david.williams@company.com,(300) 732-3739,48,Male,New York,IT,Security Analyst,Intern,2025-07-27,24,Associate,64825,12334,1,2,77159
+EMP0420,Christopher Jones,Christopher,Jones,christopher.jones@company.com,(759) 570-7475,50,Female,Philadelphia,HR,Recruiter,Full-time,2021-02-12,27,Bachelor,122362,21982,2,13,144344
+EMP0421,Stephanie Jones,Stephanie,Jones,stephanie.jones@company.com,(531) 916-9044,55,Female,Fort Worth,Engineering,Tech Lead,Full-time,2018-10-07,29,Bachelor,207271,33035,3,18,240306
+EMP0422,Ashley Miller,Ashley,Miller,ashley.miller@company.com,(413) 407-4401,46,Male,San Francisco,IT,IT Manager,Full-time,2021-06-27,23,Bachelor,222911,42208,2,5,265119
+EMP0423,Jessica Johnson,Jessica,Johnson,jessica.johnson@company.com,(385) 597-5700,39,Female,Phoenix,HR,HR Manager,Full-time,2021-05-15,13,Associate,81325,7183,3,11,88508
+EMP0424,Sarah Wilson,Sarah,Wilson,sarah.wilson@company.com,(831) 812-1595,40,Female,Fort Worth,Sales,Sales Rep,Part-time,2021-05-26,18,Bachelor,100212,19562,5,6,119774
+EMP0425,William Brown,William,Brown,william.brown@company.com,(952) 220-9106,31,Male,Austin,Marketing,Content Creator,Full-time,2025-01-17,9,High School,142791,32193,3,12,174984
+EMP0426,Sarah Smith,Sarah,Smith,sarah.smith@company.com,(662) 436-4253,53,Male,Los Angeles,Engineering,Engineering Manager,Full-time,2017-06-28,29,Bachelor,173580,28249,3,2,201829
+EMP0427,Robert Wilson,Robert,Wilson,robert.wilson@company.com,(236) 993-9328,52,Male,San Jose,Legal,Legal Counsel,Full-time,2016-02-04,29,Associate,79140,13189,4,18,92329
+EMP0428,Amanda Williams,Amanda,Williams,amanda.williams@company.com,(798) 602-1395,29,Male,San Jose,Operations,Supply Chain,Full-time,2017-09-10,5,Bachelor,51138,10762,4,4,61900
+EMP0429,Daniel Anderson,Daniel,Anderson,daniel.anderson@company.com,(703) 905-9314,64,Male,Charlotte,Finance,Accountant,Full-time,2016-03-31,41,Bachelor,94635,12501,5,19,107136
+EMP0430,Jessica Gonzalez,Jessica,Gonzalez,jessica.gonzalez@company.com,(494) 992-9212,32,Female,Seattle,Operations,Process Analyst,Full-time,2015-12-03,8,Bachelor,145027,12280,4,11,157307
+EMP0431,Ashley Hernandez,Ashley,Hernandez,ashley.hernandez@company.com,(860) 857-8111,36,Male,Jacksonville,Legal,Paralegal,Full-time,2022-08-30,11,High School,127103,16711,5,5,143814
+EMP0432,Michael Smith,Michael,Smith,michael.smith@company.com,(421) 355-5749,38,Female,Los Angeles,Operations,Supply Chain,Part-time,2017-03-18,12,Bachelor,52806,8908,3,7,61714
+EMP0433,Amanda Wilson,Amanda,Wilson,amanda.wilson@company.com,(512) 562-5763,38,Male,Philadelphia,Marketing,Marketing Manager,Full-time,2025-01-10,15,PhD,195746,15888,3,12,211634
+EMP0434,Jessica Lopez,Jessica,Lopez,jessica.lopez@company.com,(817) 317-4308,28,Male,Los Angeles,Marketing,Content Creator,Full-time,2018-05-23,5,Bachelor,137097,15507,4,8,152604
+EMP0435,David Davis,David,Davis,david.davis@company.com,(389) 675-5581,25,Male,Phoenix,Engineering,Software Engineer,Full-time,2019-02-24,2,Associate,129945,15895,3,7,145840
+EMP0436,Sarah Martinez,Sarah,Martinez,sarah.martinez@company.com,(670) 974-2724,39,Male,San Antonio,Operations,Quality Assurance,Full-time,2023-04-04,16,PhD,77578,13874,4,3,91452
+EMP0437,Robert Wilson,Robert,Wilson,robert.wilson@company.com,(318) 534-6193,55,Female,Dallas,Legal,Compliance Officer,Full-time,2023-06-03,29,Master,114731,7834,4,7,122565
+EMP0438,Daniel Brown,Daniel,Brown,daniel.brown@company.com,(962) 420-1378,40,Female,Charlotte,Operations,Operations Manager,Part-time,2019-02-13,16,Associate,92177,13842,5,11,106019
+EMP0439,Stephanie Johnson,Stephanie,Johnson,stephanie.johnson@company.com,(679) 354-7400,30,Female,New York,Sales,Account Manager,Contract,2023-09-15,4,Bachelor,162665,14475,4,19,177140
+EMP0440,James Brown,James,Brown,james.brown@company.com,(963) 901-9118,54,Male,Phoenix,Engineering,Software Engineer,Full-time,2025-04-12,30,PhD,59014,6724,4,3,65738
+EMP0441,Stephanie Davis,Stephanie,Davis,stephanie.davis@company.com,(360) 886-6997,55,Male,Austin,Legal,Compliance Officer,Full-time,2022-01-09,29,Bachelor,36831,4514,4,17,41345
+EMP0442,Sarah Garcia,Sarah,Garcia,sarah.garcia@company.com,(264) 475-7382,37,Male,New York,HR,HR Specialist,Full-time,2024-07-18,14,Bachelor,46017,8605,4,13,54622
+EMP0443,Stephanie Davis,Stephanie,Davis,stephanie.davis@company.com,(559) 584-5151,31,Female,Dallas,Marketing,Marketing Manager,Full-time,2023-02-18,9,High School,178809,18498,3,14,197307
+EMP0444,Emily Brown,Emily,Brown,emily.brown@company.com,(769) 292-1191,51,Female,Chicago,Finance,Controller,Full-time,2016-08-07,26,Master,71486,7486,5,1,78972
+EMP0445,James Miller,James,Miller,james.miller@company.com,(340) 614-9817,33,Male,San Antonio,Sales,Account Manager,Full-time,2019-05-30,10,Master,211209,46401,5,2,257610
+EMP0446,Amanda Lopez,Amanda,Lopez,amanda.lopez@company.com,(284) 820-2054,48,Female,San Diego,IT,IT Support,Part-time,2022-06-20,22,Bachelor,63615,10895,4,13,74510
+EMP0447,David Martinez,David,Martinez,david.martinez@company.com,(251) 802-3384,64,Male,Fort Worth,HR,HR Manager,Full-time,2025-05-20,40,PhD,214200,34912,2,17,249112
+EMP0448,Ashley Lopez,Ashley,Lopez,ashley.lopez@company.com,(365) 749-3908,48,Male,San Jose,Finance,Financial Analyst,Full-time,2024-12-16,22,Bachelor,90823,5626,4,8,96449
+EMP0449,William Brown,William,Brown,william.brown@company.com,(833) 435-5211,47,Male,Jacksonville,IT,IT Support,Full-time,2020-04-16,24,Master,147223,34315,4,6,181538
+EMP0450,Michael Johnson,Michael,Johnson,michael.johnson@company.com,(332) 990-4385,59,Female,Phoenix,Sales,Sales Rep,Full-time,2020-07-02,34,Master,143522,14413,3,6,157935
+EMP0451,James Gonzalez,James,Gonzalez,james.gonzalez@company.com,(233) 441-1966,37,Female,San Diego,Marketing,Brand Manager,Full-time,2025-07-19,11,Bachelor,87980,11982,3,12,99962
+EMP0452,Ashley Smith,Ashley,Smith,ashley.smith@company.com,(711) 244-4179,44,Female,San Antonio,Operations,Operations Manager,Full-time,2017-04-04,19,Bachelor,64335,14580,5,3,78915
+EMP0453,James Hernandez,James,Hernandez,james.hernandez@company.com,(380) 698-4391,57,Female,San Jose,Marketing,Marketing Manager,Full-time,2023-10-10,34,Master,128286,9669,4,18,137955
+EMP0454,Michael Anderson,Michael,Anderson,michael.anderson@company.com,(248) 875-1292,27,Male,San Francisco,Sales,Business Development,Full-time,2022-01-16,5,Bachelor,44964,4936,3,1,49900
+EMP0455,Sarah Davis,Sarah,Davis,sarah.davis@company.com,(419) 640-2558,46,Male,San Jose,Engineering,DevOps Engineer,Full-time,2019-06-07,23,Master,103936,6958,4,4,110894
+EMP0456,Michael Martinez,Michael,Martinez,michael.martinez@company.com,(228) 905-8756,58,Male,San Francisco,Engineering,Engineering Manager,Full-time,2017-05-04,32,Master,121095,9825,3,11,130920
+EMP0457,David Smith,David,Smith,david.smith@company.com,(868) 558-4777,42,Male,San Antonio,Operations,Project Manager,Part-time,2016-06-06,18,Master,75559,17760,4,11,93319
+EMP0458,Michael Brown,Michael,Brown,michael.brown@company.com,(680) 648-9128,27,Female,Phoenix,Finance,Controller,Full-time,2022-06-07,5,Bachelor,62250,6108,4,11,68358
+EMP0459,Sarah Williams,Sarah,Williams,sarah.williams@company.com,(971) 875-6780,39,Male,Indianapolis,IT,Security Analyst,Full-time,2017-07-10,13,Bachelor,93876,8144,4,5,102020
+EMP0460,Christopher Garcia,Christopher,Garcia,christopher.garcia@company.com,(543) 586-8233,58,Male,San Antonio,HR,HR Specialist,Full-time,2025-01-11,36,High School,105799,22759,2,8,128558
+EMP0461,Daniel Garcia,Daniel,Garcia,daniel.garcia@company.com,(805) 759-5798,31,Female,Columbus,Engineering,Tech Lead,Full-time,2020-05-20,8,Associate,183131,20205,3,17,203336
+EMP0462,Stephanie Lopez,Stephanie,Lopez,stephanie.lopez@company.com,(555) 415-3934,49,Female,Austin,Engineering,Software Engineer,Full-time,2020-07-08,25,Bachelor,121753,8930,2,6,130683
+EMP0463,Robert Hernandez,Robert,Hernandez,robert.hernandez@company.com,(305) 392-6435,58,Male,Philadelphia,Sales,Sales Rep,Full-time,2016-11-25,35,Associate,67471,4901,3,3,72372
+EMP0464,Stephanie Brown,Stephanie,Brown,stephanie.brown@company.com,(977) 899-3433,33,Male,Jacksonville,Sales,Account Manager,Full-time,2022-01-19,8,Bachelor,149074,26516,3,9,175590
+EMP0465,Emily Anderson,Emily,Anderson,emily.anderson@company.com,(571) 816-9791,24,Female,Philadelphia,Marketing,Marketing Manager,Full-time,2023-12-08,0,Master,177318,24148,2,18,201466
+EMP0466,Jane Davis,Jane,Davis,jane.davis@company.com,(595) 989-4475,41,Male,San Antonio,Operations,Process Analyst,Full-time,2022-09-03,18,Bachelor,70282,8387,4,4,78669
+EMP0467,Jane Smith,Jane,Smith,jane.smith@company.com,(621) 949-1946,51,Male,Columbus,HR,Compensation Analyst,Full-time,2017-06-06,25,Bachelor,145284,14621,4,16,159905
+EMP0468,Michael Hernandez,Michael,Hernandez,michael.hernandez@company.com,(615) 225-5480,50,Female,San Antonio,Sales,Business Development,Full-time,2024-08-05,25,Master,66629,8865,3,10,75494
+EMP0469,Jessica Gonzalez,Jessica,Gonzalez,jessica.gonzalez@company.com,(756) 651-1104,63,Male,San Antonio,IT,IT Manager,Full-time,2015-10-13,40,Master,255324,40600,4,8,295924
+EMP0470,Emily Johnson,Emily,Johnson,emily.johnson@company.com,(391) 929-3261,33,Male,San Antonio,Engineering,Tech Lead,Full-time,2019-05-24,7,Bachelor,47850,10312,3,17,58162
+EMP0471,Stephanie Davis,Stephanie,Davis,stephanie.davis@company.com,(601) 964-9023,54,Female,Charlotte,HR,Training Coordinator,Full-time,2018-08-31,31,Bachelor,53051,9702,4,13,62753
+EMP0472,Jane Smith,Jane,Smith,jane.smith@company.com,(705) 519-7696,40,Female,Chicago,Engineering,DevOps Engineer,Full-time,2017-02-16,14,Bachelor,69414,17253,3,9,86667
+EMP0473,Robert Miller,Robert,Miller,robert.miller@company.com,(368) 261-2465,44,Female,Dallas,Operations,Process Analyst,Intern,2019-11-19,18,Bachelor,122858,20930,2,2,143788
+EMP0474,Stephanie Brown,Stephanie,Brown,stephanie.brown@company.com,(300) 740-6641,57,Female,San Diego,Sales,Business Development,Full-time,2022-10-10,32,Bachelor,80771,10982,3,10,91753
+EMP0475,Ashley Miller,Ashley,Miller,ashley.miller@company.com,(893) 264-9974,39,Male,New York,IT,IT Manager,Full-time,2020-05-05,16,Master,241803,53224,4,10,295027
+EMP0476,John Lopez,John,Lopez,john.lopez@company.com,(694) 656-7458,52,Female,Fort Worth,Marketing,Marketing Specialist,Full-time,2017-07-23,28,Bachelor,138391,19771,3,17,158162
+EMP0477,Jane Jones,Jane,Jones,jane.jones@company.com,(657) 242-4349,27,Male,Indianapolis,Marketing,Brand Manager,Part-time,2016-11-20,1,High School,145025,32181,4,12,177206
+EMP0478,Emily Johnson,Emily,Johnson,emily.johnson@company.com,(365) 578-7772,23,Male,San Jose,Legal,Contract Manager,Contract,2024-01-21,0,High School,187904,44539,3,19,232443
+EMP0479,James Brown,James,Brown,james.brown@company.com,(558) 344-3322,41,Female,Seattle,Sales,Account Manager,Full-time,2016-09-10,17,Master,199872,33938,2,15,233810
+EMP0480,Christopher Williams,Christopher,Williams,christopher.williams@company.com,(222) 246-7668,27,Male,Austin,Legal,Legal Counsel,Contract,2022-07-02,4,Associate,47818,10181,3,4,57999
+EMP0481,William Johnson,William,Johnson,william.johnson@company.com,(577) 355-7564,23,Female,Fort Worth,Marketing,Marketing Specialist,Full-time,2019-10-25,0,Master,104928,15283,2,8,120211
+EMP0482,William Smith,William,Smith,william.smith@company.com,(484) 473-2293,62,Male,Houston,Marketing,Content Creator,Full-time,2019-04-23,37,Bachelor,103047,15103,4,9,118150
+EMP0483,Jane Smith,Jane,Smith,jane.smith@company.com,(853) 698-3568,52,Female,San Jose,Sales,Account Manager,Full-time,2024-12-17,28,Master,51934,3140,3,17,55074
+EMP0484,Stephanie Wilson,Stephanie,Wilson,stephanie.wilson@company.com,(759) 951-9627,42,Male,Austin,HR,HR Manager,Full-time,2016-12-10,18,Master,272182,47106,3,12,319288
+EMP0485,Sarah Lopez,Sarah,Lopez,sarah.lopez@company.com,(276) 276-1244,25,Female,Dallas,HR,Training Coordinator,Full-time,2023-06-03,2,Bachelor,96260,14662,2,19,110922
+EMP0486,Jane Martinez,Jane,Martinez,jane.martinez@company.com,(855) 649-9234,43,Male,Dallas,Engineering,DevOps Engineer,Full-time,2016-11-07,21,Master,85621,8196,4,16,93817
+EMP0487,Jessica Brown,Jessica,Brown,jessica.brown@company.com,(454) 803-5701,24,Male,San Francisco,Operations,Supply Chain,Full-time,2019-11-16,0,Bachelor,91565,11898,5,15,103463
+EMP0488,John Gonzalez,John,Gonzalez,john.gonzalez@company.com,(992) 757-6985,36,Male,San Jose,Operations,Operations Manager,Full-time,2021-03-30,10,Master,144425,11047,4,1,155472
+EMP0489,William Miller,William,Miller,william.miller@company.com,(560) 537-7722,26,Male,San Diego,Legal,Legal Assistant,Contract,2020-09-15,4,Associate,56605,4637,4,15,61242
+EMP0490,Ashley Smith,Ashley,Smith,ashley.smith@company.com,(842) 528-7265,60,Female,Austin,Engineering,DevOps Engineer,Part-time,2019-11-22,34,Bachelor,86310,4319,3,5,90629
+EMP0491,William Miller,William,Miller,william.miller@company.com,(879) 820-4790,47,Male,San Francisco,Engineering,DevOps Engineer,Full-time,2020-08-10,22,Associate,124792,13970,4,13,138762
+EMP0492,James Lopez,James,Lopez,james.lopez@company.com,(428) 774-4923,25,Male,Houston,Marketing,Marketing Specialist,Full-time,2025-04-01,3,Bachelor,149634,32504,3,12,182138
+EMP0493,William Lopez,William,Lopez,william.lopez@company.com,(588) 816-9338,42,Male,Dallas,Operations,Process Analyst,Contract,2022-08-10,18,Master,105320,22017,2,8,127337
+EMP0494,Robert Rodriguez,Robert,Rodriguez,robert.rodriguez@company.com,(271) 617-2306,51,Male,New York,Sales,Sales Rep,Full-time,2016-04-19,28,Bachelor,88517,15646,3,15,104163
+EMP0495,Ashley Williams,Ashley,Williams,ashley.williams@company.com,(980) 393-2403,44,Male,Houston,Operations,Project Manager,Full-time,2021-12-21,19,Bachelor,185807,30512,1,15,216319
+EMP0496,Michael Davis,Michael,Davis,michael.davis@company.com,(965) 409-8598,45,Female,Charlotte,Sales,Sales Rep,Intern,2024-01-20,20,Master,90872,6853,3,5,97725
+EMP0497,Emily Miller,Emily,Miller,emily.miller@company.com,(830) 266-6873,27,Male,Columbus,HR,Recruiter,Full-time,2016-04-29,4,Bachelor,42689,9660,3,5,52349
+EMP0498,James Anderson,James,Anderson,james.anderson@company.com,(641) 417-2245,42,Male,Jacksonville,HR,HR Specialist,Full-time,2019-01-02,17,Associate,133412,9938,3,19,143350
+EMP0499,John Garcia,John,Garcia,john.garcia@company.com,(679) 362-1773,64,Female,Seattle,Sales,Account Manager,Contract,2024-08-27,42,PhD,152212,36402,2,2,188614
+EMP0500,Stephanie Gonzalez,Stephanie,Gonzalez,stephanie.gonzalez@company.com,(737) 409-1603,42,Female,New York,HR,Compensation Analyst,Part-time,2025-02-16,18,Bachelor,97222,19073,3,2,116295
+EMP0501,Christopher Miller,Christopher,Miller,christopher.miller@company.com,(479) 737-4756,30,Female,Philadelphia,Operations,Quality Assurance,Full-time,2022-02-27,4,Master,93418,11739,4,19,105157
+EMP0502,Amanda Wilson,Amanda,Wilson,amanda.wilson@company.com,(969) 288-7576,39,Male,San Jose,Finance,Financial Analyst,Intern,2017-04-18,13,Bachelor,138107,13205,5,15,151312
+EMP0503,Emily Martinez,Emily,Martinez,emily.martinez@company.com,(767) 558-6769,29,Female,Seattle,Operations,Operations Manager,Full-time,2023-04-09,5,Bachelor,93959,13445,3,19,107404
+EMP0504,Emily Wilson,Emily,Wilson,emily.wilson@company.com,(524) 984-1986,62,Male,Phoenix,IT,Network Engineer,Full-time,2020-10-06,39,Associate,117215,25887,4,11,143102
+EMP0505,Daniel Rodriguez,Daniel,Rodriguez,daniel.rodriguez@company.com,(814) 323-4081,36,Male,Austin,HR,Compensation Analyst,Contract,2022-03-31,14,Bachelor,114472,27414,3,16,141886
+EMP0506,William Hernandez,William,Hernandez,william.hernandez@company.com,(481) 264-7007,52,Male,Chicago,Operations,Process Analyst,Part-time,2022-11-05,27,Bachelor,116060,6895,4,15,122955
+EMP0507,Sarah Gonzalez,Sarah,Gonzalez,sarah.gonzalez@company.com,(658) 269-5725,22,Female,Columbus,Operations,Supply Chain,Full-time,2021-04-12,0,High School,113553,22037,3,11,135590
+EMP0508,Emily Gonzalez,Emily,Gonzalez,emily.gonzalez@company.com,(759) 913-5593,43,Female,Phoenix,IT,Network Engineer,Full-time,2022-12-27,20,Bachelor,113627,8483,2,10,122110
+EMP0509,John Wilson,John,Wilson,john.wilson@company.com,(247) 527-1432,42,Male,New York,Engineering,Software Engineer,Full-time,2024-07-13,16,Associate,126552,19678,4,17,146230
+EMP0510,Daniel Davis,Daniel,Davis,daniel.davis@company.com,(201) 344-5515,22,Male,Philadelphia,Engineering,Software Engineer,Full-time,2023-10-25,0,PhD,86248,15579,3,18,101827
+EMP0511,Christopher Smith,Christopher,Smith,christopher.smith@company.com,(991) 836-4775,33,Male,Seattle,Marketing,Marketing Manager,Full-time,2023-01-06,11,High School,109131,22277,3,6,131408
+EMP0512,Emily Wilson,Emily,Wilson,emily.wilson@company.com,(614) 231-6279,55,Male,Dallas,Operations,Quality Assurance,Full-time,2024-01-04,30,Master,108309,23035,4,12,131344
+EMP0513,William Hernandez,William,Hernandez,william.hernandez@company.com,(692) 530-8069,56,Male,Columbus,Finance,Accountant,Part-time,2017-05-06,31,Bachelor,108374,8510,3,17,116884
+EMP0514,Michael Rodriguez,Michael,Rodriguez,michael.rodriguez@company.com,(346) 321-1080,59,Male,Austin,Legal,Compliance Officer,Full-time,2017-10-26,37,High School,36359,5777,2,4,42136
+EMP0515,Christopher Martinez,Christopher,Martinez,christopher.martinez@company.com,(578) 201-8785,43,Female,New York,HR,Training Coordinator,Full-time,2021-12-20,21,Master,48908,7270,4,16,56178
+EMP0516,Amanda Davis,Amanda,Davis,amanda.davis@company.com,(772) 798-5865,64,Male,Fort Worth,Engineering,Software Engineer,Full-time,2019-07-07,39,Bachelor,137406,9322,3,8,146728
+EMP0517,Jane Johnson,Jane,Johnson,jane.johnson@company.com,(663) 986-6968,32,Male,Columbus,Legal,Compliance Officer,Full-time,2024-08-08,6,Associate,128677,20242,3,11,148919
+EMP0518,James Martinez,James,Martinez,james.martinez@company.com,(289) 510-1556,27,Female,Dallas,Sales,Sales Rep,Full-time,2025-08-04,1,Bachelor,107762,19819,5,17,127581
+EMP0519,Amanda Smith,Amanda,Smith,amanda.smith@company.com,(892) 459-7763,42,Male,Seattle,Marketing,Brand Manager,Full-time,2021-02-20,17,Associate,128038,24073,3,19,152111
+EMP0520,Michael Martinez,Michael,Martinez,michael.martinez@company.com,(388) 587-6901,63,Female,Seattle,Engineering,Tech Lead,Full-time,2019-07-16,39,High School,187139,41575,1,4,228714
+EMP0521,Jane Hernandez,Jane,Hernandez,jane.hernandez@company.com,(493) 799-3588,54,Male,Chicago,IT,Security Analyst,Part-time,2024-06-01,28,Master,77718,12223,3,3,89941
+EMP0522,Daniel Miller,Daniel,Miller,daniel.miller@company.com,(622) 616-7468,24,Male,Columbus,Engineering,Software Engineer,Contract,2016-11-08,0,Bachelor,121348,27144,4,19,148492
+EMP0523,Emily Anderson,Emily,Anderson,emily.anderson@company.com,(798) 820-4041,37,Male,San Francisco,Operations,Operations Manager,Full-time,2024-05-12,14,Bachelor,143267,16990,2,19,160257
+EMP0524,John Davis,John,Davis,john.davis@company.com,(662) 331-1929,26,Female,San Antonio,Legal,Legal Assistant,Full-time,2019-04-07,1,Master,74220,4788,4,8,79008
+EMP0525,David Smith,David,Smith,david.smith@company.com,(261) 998-2523,26,Female,New York,HR,Recruiter,Full-time,2019-07-02,1,Associate,94052,5127,2,18,99179
+EMP0526,Ashley Lopez,Ashley,Lopez,ashley.lopez@company.com,(852) 910-4695,22,Female,Chicago,HR,HR Manager,Full-time,2019-10-04,0,PhD,206785,40256,3,9,247041
+EMP0527,Daniel Jones,Daniel,Jones,daniel.jones@company.com,(219) 689-4816,40,Female,Austin,Engineering,DevOps Engineer,Part-time,2018-10-07,17,Master,147408,13027,2,14,160435
+EMP0528,Ashley Gonzalez,Ashley,Gonzalez,ashley.gonzalez@company.com,(692) 832-5268,27,Male,Philadelphia,HR,Training Coordinator,Full-time,2019-03-17,4,Bachelor,91035,20129,3,5,111164
+EMP0529,Sarah Garcia,Sarah,Garcia,sarah.garcia@company.com,(218) 827-1544,47,Female,Columbus,Marketing,Digital Marketer,Full-time,2022-10-07,21,Master,78351,16958,3,2,95309
+EMP0530,Ashley Wilson,Ashley,Wilson,ashley.wilson@company.com,(207) 407-2937,25,Female,Austin,Legal,Compliance Officer,Full-time,2018-09-09,1,Bachelor,46528,8616,4,12,55144
+EMP0531,Christopher Hernandez,Christopher,Hernandez,christopher.hernandez@company.com,(894) 879-4409,54,Male,Philadelphia,Engineering,DevOps Engineer,Full-time,2023-10-08,31,Master,85613,7866,1,5,93479
+EMP0532,Jane Jones,Jane,Jones,jane.jones@company.com,(861) 740-1656,52,Female,Seattle,Finance,Financial Analyst,Part-time,2020-01-19,30,Associate,80802,8820,4,6,89622
+EMP0533,David Hernandez,David,Hernandez,david.hernandez@company.com,(228) 238-9026,46,Male,Phoenix,HR,HR Specialist,Full-time,2019-12-16,24,Bachelor,89711,20448,3,18,110159
+EMP0534,Sarah Gonzalez,Sarah,Gonzalez,sarah.gonzalez@company.com,(809) 894-8807,38,Female,Columbus,Marketing,Digital Marketer,Full-time,2017-03-07,15,Bachelor,118509,27114,5,9,145623
+EMP0535,David Gonzalez,David,Gonzalez,david.gonzalez@company.com,(664) 979-7403,43,Female,Houston,Engineering,Software Engineer,Full-time,2021-07-15,20,Associate,49677,8139,4,1,57816
+EMP0536,David Gonzalez,David,Gonzalez,david.gonzalez@company.com,(492) 406-7476,52,Male,San Antonio,IT,Security Analyst,Full-time,2024-03-03,30,Bachelor,90186,16103,4,16,106289
+EMP0537,Christopher Gonzalez,Christopher,Gonzalez,christopher.gonzalez@company.com,(394) 741-1358,29,Female,Houston,Sales,Account Manager,Full-time,2022-06-03,3,High School,79438,12390,4,8,91828
+EMP0538,Jane Hernandez,Jane,Hernandez,jane.hernandez@company.com,(946) 826-2388,64,Male,Philadelphia,Legal,Legal Counsel,Full-time,2020-11-05,42,Associate,137658,23208,5,9,160866
+EMP0539,Ashley Brown,Ashley,Brown,ashley.brown@company.com,(806) 422-4080,54,Male,New York,Finance,Budget Analyst,Full-time,2023-07-07,29,Master,61962,9965,4,19,71927
+EMP0540,David Gonzalez,David,Gonzalez,david.gonzalez@company.com,(323) 218-4367,35,Male,Columbus,Operations,Process Analyst,Full-time,2019-08-06,11,Bachelor,123001,16627,5,18,139628
+EMP0541,Emily Gonzalez,Emily,Gonzalez,emily.gonzalez@company.com,(535) 806-6876,23,Male,San Francisco,IT,Network Engineer,Full-time,2021-08-29,0,Master,115981,9072,1,2,125053
+EMP0542,David Martinez,David,Martinez,david.martinez@company.com,(619) 448-4659,40,Female,Columbus,Legal,Contract Manager,Full-time,2022-12-15,16,Bachelor,85954,5095,1,10,91049
+EMP0543,William Brown,William,Brown,william.brown@company.com,(655) 468-2654,62,Female,Philadelphia,Engineering,Senior Engineer,Full-time,2018-10-05,40,Master,56573,9158,1,16,65731
+EMP0544,James Lopez,James,Lopez,james.lopez@company.com,(874) 884-5233,28,Female,Fort Worth,IT,Security Analyst,Part-time,2023-06-22,2,Bachelor,104110,20811,4,14,124921
+EMP0545,Jane Garcia,Jane,Garcia,jane.garcia@company.com,(938) 995-9261,29,Male,Jacksonville,HR,HR Manager,Part-time,2021-10-06,3,Bachelor,133883,32256,4,9,166139
+EMP0546,Emily Miller,Emily,Miller,emily.miller@company.com,(354) 576-5080,44,Male,San Francisco,IT,Security Analyst,Intern,2017-09-25,19,Bachelor,122710,23792,4,12,146502
+EMP0547,Michael Lopez,Michael,Lopez,michael.lopez@company.com,(765) 444-3018,39,Male,Phoenix,Marketing,Brand Manager,Full-time,2017-06-27,13,High School,201905,25486,3,10,227391
+EMP0548,Stephanie Lopez,Stephanie,Lopez,stephanie.lopez@company.com,(940) 285-6520,56,Male,Jacksonville,Engineering,Engineering Manager,Full-time,2025-03-20,31,Bachelor,194105,30211,4,3,224316
+EMP0549,Stephanie Wilson,Stephanie,Wilson,stephanie.wilson@company.com,(470) 259-8634,62,Female,Fort Worth,Marketing,Marketing Manager,Full-time,2023-09-10,38,Master,259226,19097,4,7,278323
+EMP0550,James Jones,James,Jones,james.jones@company.com,(931) 563-8025,23,Female,Fort Worth,Legal,Legal Counsel,Part-time,2018-09-02,0,Bachelor,117665,6099,4,6,123764
+EMP0551,Jane Brown,Jane,Brown,jane.brown@company.com,(443) 365-6145,30,Male,San Diego,Legal,Compliance Officer,Full-time,2016-06-07,6,Bachelor,113798,18061,4,4,131859
+EMP0552,James Martinez,James,Martinez,james.martinez@company.com,(958) 362-9051,38,Male,Chicago,IT,Security Analyst,Part-time,2018-12-14,14,Master,131356,17080,2,9,148436
+EMP0553,Christopher Garcia,Christopher,Garcia,christopher.garcia@company.com,(799) 608-7747,56,Female,Philadelphia,Engineering,Engineering Manager,Full-time,2016-10-18,33,Bachelor,115084,24239,1,19,139323
+EMP0554,Daniel Hernandez,Daniel,Hernandez,daniel.hernandez@company.com,(595) 550-2909,59,Female,Charlotte,Engineering,Software Engineer,Full-time,2023-09-14,33,Bachelor,107108,7792,3,1,114900
+EMP0555,Sarah Miller,Sarah,Miller,sarah.miller@company.com,(638) 730-1444,38,Male,New York,Sales,Sales Director,Full-time,2015-12-05,13,Master,214003,52534,1,1,266537
+EMP0556,Emily Anderson,Emily,Anderson,emily.anderson@company.com,(868) 969-3723,37,Male,San Francisco,Sales,Sales Rep,Full-time,2023-02-26,15,Master,58212,10186,4,19,68398
+EMP0557,Michael Miller,Michael,Miller,michael.miller@company.com,(839) 804-5150,47,Female,Philadelphia,Marketing,Content Creator,Part-time,2017-10-01,23,High School,58238,9742,3,7,67980
+EMP0558,Christopher Wilson,Christopher,Wilson,christopher.wilson@company.com,(788) 662-2461,51,Female,Phoenix,Marketing,Marketing Manager,Full-time,2024-12-11,27,High School,60446,14165,4,10,74611
+EMP0559,Daniel Jones,Daniel,Jones,daniel.jones@company.com,(978) 713-9104,50,Female,San Diego,Legal,Contract Manager,Full-time,2019-04-24,24,Bachelor,172485,13349,4,12,185834
+EMP0560,Jane Johnson,Jane,Johnson,jane.johnson@company.com,(475) 713-8255,24,Male,Houston,IT,IT Support,Full-time,2023-11-01,1,Bachelor,123284,30600,2,16,153884
+EMP0561,Daniel Hernandez,Daniel,Hernandez,daniel.hernandez@company.com,(615) 347-7172,23,Female,Houston,Engineering,DevOps Engineer,Full-time,2022-03-16,0,Master,88739,20305,3,3,109044
+EMP0562,William Brown,William,Brown,william.brown@company.com,(281) 721-3970,55,Female,San Diego,IT,Network Engineer,Full-time,2018-10-09,31,Associate,148884,33481,4,3,182365
+EMP0563,Amanda Miller,Amanda,Miller,amanda.miller@company.com,(224) 768-2055,38,Male,Seattle,Sales,Sales Director,Full-time,2025-06-26,12,Master,172288,33113,3,19,205401
+EMP0564,Daniel Lopez,Daniel,Lopez,daniel.lopez@company.com,(304) 777-4514,34,Female,Philadelphia,Legal,Contract Manager,Full-time,2025-06-02,9,Master,105320,25248,2,5,130568
+EMP0565,Robert Smith,Robert,Smith,robert.smith@company.com,(982) 241-2116,37,Male,Los Angeles,Marketing,Content Creator,Full-time,2021-04-08,11,Bachelor,120973,19480,4,10,140453
+EMP0566,William Miller,William,Miller,william.miller@company.com,(407) 965-2285,38,Female,Seattle,HR,HR Specialist,Full-time,2020-08-10,16,Bachelor,54781,3309,4,13,58090
+EMP0567,Ashley Hernandez,Ashley,Hernandez,ashley.hernandez@company.com,(867) 654-7025,45,Female,San Jose,Finance,Controller,Full-time,2023-05-30,21,Master,133635,17074,1,4,150709
+EMP0568,Michael Rodriguez,Michael,Rodriguez,michael.rodriguez@company.com,(602) 608-7255,57,Female,Seattle,Operations,Process Analyst,Full-time,2024-06-26,34,Bachelor,51661,6003,4,9,57664
+EMP0569,Jane Miller,Jane,Miller,jane.miller@company.com,(403) 457-7629,42,Male,Dallas,HR,HR Specialist,Full-time,2021-09-19,16,Bachelor,123952,27699,3,9,151651
+EMP0570,David Wilson,David,Wilson,david.wilson@company.com,(577) 653-7334,26,Female,Phoenix,Marketing,Brand Manager,Full-time,2025-05-26,2,Bachelor,63788,8327,1,17,72115
+EMP0571,James Davis,James,Davis,james.davis@company.com,(983) 258-5276,46,Male,Seattle,Finance,Controller,Full-time,2021-10-27,22,Associate,45057,10092,2,14,55149
+EMP0572,Michael Johnson,Michael,Johnson,michael.johnson@company.com,(840) 207-1562,46,Male,Dallas,Engineering,Tech Lead,Full-time,2019-02-03,22,Bachelor,209151,30803,3,6,239954
+EMP0573,James Jones,James,Jones,james.jones@company.com,(998) 515-7981,45,Male,Austin,Marketing,Digital Marketer,Intern,2023-05-26,20,Associate,43720,10371,3,10,54091
+EMP0574,John Johnson,John,Johnson,john.johnson@company.com,(545) 565-3000,58,Male,Indianapolis,Operations,Project Manager,Full-time,2016-08-26,34,Bachelor,82863,19670,3,5,102533
+EMP0575,John Anderson,John,Anderson,john.anderson@company.com,(467) 497-1569,46,Male,San Jose,Legal,Contract Manager,Intern,2017-01-09,20,Master,98100,14843,4,15,112943
+EMP0576,Christopher Garcia,Christopher,Garcia,christopher.garcia@company.com,(348) 782-1120,55,Male,Chicago,IT,IT Support,Full-time,2018-07-30,32,PhD,98310,16502,3,15,114812
+EMP0577,Christopher Gonzalez,Christopher,Gonzalez,christopher.gonzalez@company.com,(908) 492-7436,53,Female,Phoenix,Operations,Quality Assurance,Full-time,2022-03-25,31,Bachelor,107887,5921,3,15,113808
+EMP0578,David Williams,David,Williams,david.williams@company.com,(375) 819-9402,56,Female,Seattle,Sales,Business Development,Full-time,2017-06-02,33,Associate,84063,6389,3,12,90452
+EMP0579,Daniel Martinez,Daniel,Martinez,daniel.martinez@company.com,(887) 529-2746,60,Female,Phoenix,Legal,Legal Counsel,Full-time,2022-05-09,37,Associate,55422,4253,4,4,59675
+EMP0580,Jessica Anderson,Jessica,Anderson,jessica.anderson@company.com,(724) 454-8252,38,Male,New York,Sales,Sales Coordinator,Full-time,2021-01-20,14,Bachelor,50858,11161,3,10,62019
+EMP0581,Ashley Brown,Ashley,Brown,ashley.brown@company.com,(336) 389-6759,57,Male,Phoenix,Finance,Budget Analyst,Part-time,2017-09-03,31,Bachelor,108601,9942,1,10,118543
+EMP0582,Emily Anderson,Emily,Anderson,emily.anderson@company.com,(522) 321-2878,26,Male,Jacksonville,Operations,Supply Chain,Full-time,2024-07-08,2,Bachelor,70497,17425,4,18,87922
+EMP0583,Michael Miller,Michael,Miller,michael.miller@company.com,(239) 558-6373,46,Female,Jacksonville,IT,Network Engineer,Full-time,2015-12-13,24,Bachelor,122412,26326,2,12,148738
+EMP0584,Emily Jones,Emily,Jones,emily.jones@company.com,(884) 930-3511,35,Male,San Jose,Sales,Sales Coordinator,Full-time,2024-01-21,11,Bachelor,115212,23850,4,12,139062
+EMP0585,Robert Martinez,Robert,Martinez,robert.martinez@company.com,(979) 327-3962,54,Female,Charlotte,Operations,Quality Assurance,Part-time,2024-07-05,29,Bachelor,132551,7933,4,17,140484
+EMP0586,James Rodriguez,James,Rodriguez,james.rodriguez@company.com,(776) 420-4038,50,Male,San Francisco,HR,Compensation Analyst,Full-time,2018-09-23,25,Bachelor,72211,16073,3,19,88284
+EMP0587,Stephanie Rodriguez,Stephanie,Rodriguez,stephanie.rodriguez@company.com,(851) 888-5829,36,Female,Seattle,Operations,Process Analyst,Full-time,2017-07-12,12,Associate,111018,16984,2,19,128002
+EMP0588,Daniel Lopez,Daniel,Lopez,daniel.lopez@company.com,(879) 420-8063,43,Female,Fort Worth,Engineering,Engineering Manager,Full-time,2016-11-15,17,High School,117933,10038,2,4,127971
+EMP0589,Daniel Jones,Daniel,Jones,daniel.jones@company.com,(954) 499-1726,63,Female,Columbus,IT,Security Analyst,Full-time,2021-10-12,37,Associate,114830,5777,3,4,120607
+EMP0590,James Lopez,James,Lopez,james.lopez@company.com,(879) 250-2914,47,Male,San Diego,Legal,Compliance Officer,Part-time,2019-09-09,21,Bachelor,149427,14287,1,4,163714
+EMP0591,David Gonzalez,David,Gonzalez,david.gonzalez@company.com,(406) 517-6914,53,Female,Fort Worth,IT,Network Engineer,Full-time,2016-02-15,28,Associate,129594,15131,4,15,144725
+EMP0592,David Gonzalez,David,Gonzalez,david.gonzalez@company.com,(766) 340-2480,62,Female,San Jose,Finance,Controller,Full-time,2023-01-28,40,Master,139582,32005,4,19,171587
+EMP0593,Jessica Davis,Jessica,Davis,jessica.davis@company.com,(582) 354-7991,36,Female,Chicago,Legal,Legal Counsel,Full-time,2015-12-09,10,Master,40813,8599,5,7,49412
+EMP0594,Michael Garcia,Michael,Garcia,michael.garcia@company.com,(502) 740-1076,54,Male,San Francisco,HR,Training Coordinator,Full-time,2019-05-31,30,Master,146321,22608,4,7,168929
+EMP0595,Amanda Rodriguez,Amanda,Rodriguez,amanda.rodriguez@company.com,(956) 676-9448,45,Female,Fort Worth,Marketing,Brand Manager,Full-time,2018-02-05,19,High School,164443,34871,2,8,199314
+EMP0596,Sarah Johnson,Sarah,Johnson,sarah.johnson@company.com,(540) 762-5746,25,Male,New York,IT,IT Support,Full-time,2024-10-24,2,Bachelor,125298,25986,2,17,151284
+EMP0597,Jessica Miller,Jessica,Miller,jessica.miller@company.com,(845) 654-7127,63,Male,Jacksonville,Legal,Legal Assistant,Contract,2017-09-20,39,Bachelor,45564,3761,3,5,49325
+EMP0598,Jessica Rodriguez,Jessica,Rodriguez,jessica.rodriguez@company.com,(764) 795-3593,48,Female,San Diego,Engineering,DevOps Engineer,Full-time,2024-02-19,26,Bachelor,94945,10897,2,4,105842
+EMP0599,Amanda Smith,Amanda,Smith,amanda.smith@company.com,(562) 581-8444,45,Female,Philadelphia,Operations,Supply Chain,Full-time,2018-07-17,20,Master,58446,7459,2,15,65905
+EMP0600,Daniel Wilson,Daniel,Wilson,daniel.wilson@company.com,(242) 846-4956,63,Female,Charlotte,Sales,Business Development,Part-time,2025-05-26,41,Associate,117238,28498,4,11,145736
+EMP0601,Ashley Brown,Ashley,Brown,ashley.brown@company.com,(819) 652-4464,26,Male,Dallas,HR,HR Specialist,Full-time,2017-08-01,3,Bachelor,113065,7233,4,18,120298
+EMP0602,Sarah Lopez,Sarah,Lopez,sarah.lopez@company.com,(922) 611-1613,47,Male,Chicago,Engineering,Engineering Manager,Full-time,2024-02-13,25,Bachelor,140756,29489,3,3,170245
+EMP0603,Sarah Davis,Sarah,Davis,sarah.davis@company.com,(527) 691-1319,52,Female,Fort Worth,Marketing,Marketing Manager,Full-time,2021-06-04,30,Bachelor,147280,22006,4,10,169286
+EMP0604,Emily Anderson,Emily,Anderson,emily.anderson@company.com,(851) 609-7170,62,Male,San Jose,HR,HR Specialist,Full-time,2023-05-29,36,PhD,90609,20892,3,6,111501
+EMP0605,Christopher Anderson,Christopher,Anderson,christopher.anderson@company.com,(477) 676-7560,22,Female,Chicago,Marketing,Content Creator,Full-time,2018-07-21,0,Bachelor,94622,12877,3,10,107499
+EMP0606,Emily Gonzalez,Emily,Gonzalez,emily.gonzalez@company.com,(640) 297-6239,56,Female,Chicago,Marketing,Content Creator,Full-time,2018-12-19,33,Master,97796,13068,3,9,110864
+EMP0607,David Miller,David,Miller,david.miller@company.com,(977) 308-7849,22,Female,Jacksonville,Finance,Finance Manager,Part-time,2020-12-09,0,Bachelor,104473,14603,3,16,119076
+EMP0608,Michael Williams,Michael,Williams,michael.williams@company.com,(778) 334-6604,27,Male,San Diego,Operations,Process Analyst,Full-time,2021-05-15,4,Master,75985,5865,3,2,81850
+EMP0609,Robert Brown,Robert,Brown,robert.brown@company.com,(499) 881-3343,34,Female,Austin,Legal,Legal Counsel,Full-time,2019-12-21,10,Bachelor,144525,16170,4,1,160695
+EMP0610,John Lopez,John,Lopez,john.lopez@company.com,(680) 413-1107,23,Male,San Jose,Operations,Operations Manager,Full-time,2018-10-20,0,Master,104450,12530,4,6,116980
+EMP0611,David Gonzalez,David,Gonzalez,david.gonzalez@company.com,(744) 243-1508,48,Female,Austin,Legal,Legal Assistant,Part-time,2019-11-19,25,Bachelor,108844,21610,4,7,130454
+EMP0612,Amanda Jones,Amanda,Jones,amanda.jones@company.com,(212) 802-5295,46,Female,Los Angeles,IT,IT Manager,Full-time,2016-09-07,21,Master,80105,7429,4,11,87534
+EMP0613,Ashley Davis,Ashley,Davis,ashley.davis@company.com,(772) 314-9651,41,Male,San Antonio,Operations,Quality Assurance,Full-time,2019-12-06,15,Bachelor,84954,11362,3,2,96316
+EMP0614,William Brown,William,Brown,william.brown@company.com,(758) 421-2556,57,Male,Chicago,Engineering,Tech Lead,Full-time,2017-06-02,35,Associate,125053,11588,3,16,136641
+EMP0615,Stephanie Lopez,Stephanie,Lopez,stephanie.lopez@company.com,(903) 702-3868,52,Female,Austin,Operations,Project Manager,Part-time,2024-01-16,26,Bachelor,210207,46095,3,12,256302
+EMP0616,Ashley Jones,Ashley,Jones,ashley.jones@company.com,(618) 508-4810,30,Male,Columbus,HR,Recruiter,Part-time,2019-09-24,7,Associate,64714,9089,1,10,73803
+EMP0617,Ashley Jones,Ashley,Jones,ashley.jones@company.com,(431) 973-4435,37,Male,Philadelphia,Sales,Business Development,Full-time,2023-12-04,14,Bachelor,118456,9661,4,12,128117
+EMP0618,Robert Johnson,Robert,Johnson,robert.johnson@company.com,(744) 987-4060,29,Female,Columbus,Finance,Financial Analyst,Full-time,2017-08-09,3,Bachelor,101118,22159,3,1,123277
+EMP0619,Daniel Brown,Daniel,Brown,daniel.brown@company.com,(508) 634-5791,28,Female,Chicago,IT,Security Analyst,Full-time,2019-11-09,5,Bachelor,97751,11319,3,1,109070
+EMP0620,James Garcia,James,Garcia,james.garcia@company.com,(811) 601-1530,39,Female,San Antonio,Legal,Legal Assistant,Full-time,2020-04-25,13,High School,91947,10094,4,2,102041
+EMP0621,Ashley Johnson,Ashley,Johnson,ashley.johnson@company.com,(944) 805-6062,53,Male,Phoenix,Engineering,DevOps Engineer,Full-time,2016-07-08,28,Bachelor,128575,11938,2,14,140513
+EMP0622,James Martinez,James,Martinez,james.martinez@company.com,(886) 313-6606,47,Female,Columbus,Marketing,Digital Marketer,Full-time,2025-08-24,22,Bachelor,107534,19084,4,12,126618
+EMP0623,James Martinez,James,Martinez,james.martinez@company.com,(589) 819-5919,32,Male,San Jose,IT,Security Analyst,Part-time,2021-02-24,9,Master,45336,5165,4,6,50501
+EMP0624,Sarah Wilson,Sarah,Wilson,sarah.wilson@company.com,(570) 759-9269,55,Male,Jacksonville,IT,IT Manager,Full-time,2022-04-21,33,High School,154116,35834,4,18,189950
+EMP0625,Stephanie Gonzalez,Stephanie,Gonzalez,stephanie.gonzalez@company.com,(212) 346-8919,29,Male,Philadelphia,Sales,Account Manager,Full-time,2021-11-12,6,High School,65293,9977,4,17,75270
+EMP0626,William Anderson,William,Anderson,william.anderson@company.com,(425) 774-7437,58,Female,Philadelphia,Marketing,Marketing Specialist,Full-time,2023-11-12,36,Associate,79859,5722,3,7,85581
+EMP0627,Jane Wilson,Jane,Wilson,jane.wilson@company.com,(638) 378-7227,61,Male,San Diego,Legal,Legal Counsel,Full-time,2024-05-21,36,Bachelor,125594,14176,4,13,139770
+EMP0628,John Wilson,John,Wilson,john.wilson@company.com,(934) 578-8368,50,Male,Los Angeles,IT,Security Analyst,Part-time,2016-08-16,27,Bachelor,129655,22279,4,15,151934
+EMP0629,James Martinez,James,Martinez,james.martinez@company.com,(688) 691-7395,46,Female,Indianapolis,Finance,Financial Analyst,Full-time,2019-08-21,22,Bachelor,92923,15731,3,1,108654
+EMP0630,Emily Gonzalez,Emily,Gonzalez,emily.gonzalez@company.com,(807) 572-8074,28,Male,Fort Worth,Marketing,Marketing Specialist,Full-time,2021-03-31,4,Bachelor,99523,18839,3,12,118362
+EMP0631,John Gonzalez,John,Gonzalez,john.gonzalez@company.com,(320) 918-4653,25,Male,San Francisco,IT,IT Manager,Contract,2018-05-07,3,Bachelor,130657,30405,3,17,161062
+EMP0632,John Smith,John,Smith,john.smith@company.com,(549) 309-9841,41,Male,Phoenix,IT,IT Support,Full-time,2023-09-09,19,High School,72132,4906,4,6,77038
+EMP0633,Michael Williams,Michael,Williams,michael.williams@company.com,(516) 731-8273,49,Male,San Jose,Marketing,Marketing Specialist,Full-time,2020-10-08,23,High School,101483,19488,3,9,120971
+EMP0634,Christopher Johnson,Christopher,Johnson,christopher.johnson@company.com,(225) 233-2161,37,Female,Fort Worth,HR,Recruiter,Intern,2017-07-06,11,PhD,147321,19654,4,4,166975
+EMP0635,Robert Hernandez,Robert,Hernandez,robert.hernandez@company.com,(215) 559-4909,35,Female,Charlotte,Engineering,DevOps Engineer,Part-time,2023-04-10,11,Master,56556,12010,4,16,68566
+EMP0636,Jane Garcia,Jane,Garcia,jane.garcia@company.com,(467) 350-6374,34,Female,Dallas,IT,System Admin,Full-time,2018-12-01,8,Associate,136746,16956,4,16,153702
+EMP0637,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(476) 593-3711,34,Male,Fort Worth,Sales,Sales Director,Part-time,2023-05-24,8,Associate,254830,53639,1,18,308469
+EMP0638,Jessica Anderson,Jessica,Anderson,jessica.anderson@company.com,(525) 780-2656,42,Female,Houston,Sales,Business Development,Full-time,2022-05-24,19,Associate,36999,4005,2,1,41004
+EMP0639,Christopher Lopez,Christopher,Lopez,christopher.lopez@company.com,(878) 359-5300,50,Female,Charlotte,Marketing,Marketing Specialist,Full-time,2017-09-14,25,PhD,122687,19644,3,17,142331
+EMP0640,James Martinez,James,Martinez,james.martinez@company.com,(559) 259-3249,47,Female,Indianapolis,Engineering,Engineering Manager,Full-time,2017-07-13,22,Bachelor,63176,11510,3,18,74686
+EMP0641,Ashley Martinez,Ashley,Martinez,ashley.martinez@company.com,(267) 372-8849,26,Male,Philadelphia,Marketing,Marketing Specialist,Full-time,2023-07-19,3,Master,124001,18529,2,1,142530
+EMP0642,Daniel Jones,Daniel,Jones,daniel.jones@company.com,(578) 306-7208,46,Female,Phoenix,Sales,Sales Rep,Full-time,2015-12-24,22,Bachelor,62920,15226,4,17,78146
+EMP0643,Christopher Jones,Christopher,Jones,christopher.jones@company.com,(392) 784-1872,57,Male,Phoenix,Legal,Contract Manager,Part-time,2022-02-07,31,Bachelor,189278,44845,1,3,234123
+EMP0644,Emily Martinez,Emily,Martinez,emily.martinez@company.com,(483) 576-4723,38,Female,Dallas,Operations,Supply Chain,Full-time,2020-07-15,16,Master,123110,17722,4,10,140832
+EMP0645,Stephanie Brown,Stephanie,Brown,stephanie.brown@company.com,(524) 721-7632,24,Male,San Jose,IT,IT Manager,Full-time,2023-09-09,0,Bachelor,131489,24639,4,12,156128
+EMP0646,John Gonzalez,John,Gonzalez,john.gonzalez@company.com,(893) 858-8082,56,Female,Austin,Legal,Compliance Officer,Contract,2019-08-03,30,Bachelor,49690,6385,3,4,56075
+EMP0647,Amanda Hernandez,Amanda,Hernandez,amanda.hernandez@company.com,(987) 579-1666,27,Male,Dallas,Engineering,Senior Engineer,Full-time,2025-06-04,2,Associate,72570,14288,3,6,86858
+EMP0648,David Lopez,David,Lopez,david.lopez@company.com,(835) 478-3526,34,Female,Charlotte,Operations,Quality Assurance,Full-time,2018-03-31,9,Associate,94940,8532,3,8,103472
+EMP0649,Daniel Lopez,Daniel,Lopez,daniel.lopez@company.com,(327) 922-3570,50,Female,Philadelphia,Marketing,Marketing Manager,Part-time,2015-11-30,25,Bachelor,74241,8623,2,17,82864
+EMP0650,David Jones,David,Jones,david.jones@company.com,(749) 556-8485,35,Male,San Diego,Finance,Budget Analyst,Part-time,2019-09-08,10,Bachelor,53704,2939,2,4,56643
+EMP0651,William Martinez,William,Martinez,william.martinez@company.com,(701) 640-1325,62,Female,Columbus,HR,Training Coordinator,Full-time,2016-07-18,37,Master,90692,14489,3,16,105181
+EMP0652,Emily Williams,Emily,Williams,emily.williams@company.com,(462) 818-5675,33,Male,Houston,Engineering,DevOps Engineer,Part-time,2018-06-13,7,Associate,79415,7979,4,17,87394
+EMP0653,David Garcia,David,Garcia,david.garcia@company.com,(204) 793-7018,53,Female,San Jose,HR,Compensation Analyst,Full-time,2020-07-29,31,Master,82020,16000,3,16,98020
+EMP0654,James Garcia,James,Garcia,james.garcia@company.com,(269) 821-3474,38,Female,San Antonio,Sales,Sales Rep,Full-time,2016-06-18,16,Bachelor,125332,22125,5,2,147457
+EMP0655,Sarah Davis,Sarah,Davis,sarah.davis@company.com,(567) 658-7361,50,Female,Dallas,Legal,Compliance Officer,Full-time,2019-07-31,26,Master,85304,9804,3,19,95108
+EMP0656,Jessica Anderson,Jessica,Anderson,jessica.anderson@company.com,(633) 265-3957,22,Male,Dallas,HR,HR Manager,Full-time,2017-12-03,0,Bachelor,60852,9695,4,19,70547
+EMP0657,David Martinez,David,Martinez,david.martinez@company.com,(948) 248-5210,53,Male,San Antonio,Legal,Paralegal,Full-time,2020-07-15,28,High School,98769,16082,4,18,114851
+EMP0658,James Rodriguez,James,Rodriguez,james.rodriguez@company.com,(448) 837-9090,60,Male,San Antonio,HR,HR Manager,Full-time,2020-10-14,34,Master,226779,15613,4,7,242392
+EMP0659,Emily Smith,Emily,Smith,emily.smith@company.com,(508) 429-1309,25,Male,San Francisco,Marketing,Content Creator,Full-time,2023-07-18,0,High School,142422,11881,3,17,154303
+EMP0660,William Brown,William,Brown,william.brown@company.com,(468) 613-5120,63,Male,San Francisco,Finance,Budget Analyst,Full-time,2025-08-11,37,High School,95727,15298,4,17,111025
+EMP0661,David Lopez,David,Lopez,david.lopez@company.com,(503) 963-8541,42,Female,Los Angeles,Finance,Accountant,Contract,2016-01-28,20,Bachelor,100077,10958,3,5,111035
+EMP0662,Emily Wilson,Emily,Wilson,emily.wilson@company.com,(413) 349-8433,27,Male,Columbus,Legal,Contract Manager,Full-time,2021-04-30,5,Bachelor,126459,14383,3,8,140842
+EMP0663,William Anderson,William,Anderson,william.anderson@company.com,(500) 203-5604,42,Male,New York,IT,System Admin,Full-time,2021-09-28,17,Master,105979,14999,3,19,120978
+EMP0664,Christopher Miller,Christopher,Miller,christopher.miller@company.com,(500) 577-6294,37,Male,San Diego,Legal,Legal Counsel,Full-time,2022-03-22,13,Master,55175,7132,2,18,62307
+EMP0665,Michael Davis,Michael,Davis,michael.davis@company.com,(780) 500-4291,49,Female,Fort Worth,Legal,Compliance Officer,Full-time,2021-11-05,27,High School,97963,6852,3,15,104815
+EMP0666,James Wilson,James,Wilson,james.wilson@company.com,(718) 277-8601,26,Female,Philadelphia,Sales,Sales Director,Contract,2024-07-18,0,High School,84322,19883,3,6,104205
+EMP0667,John Garcia,John,Garcia,john.garcia@company.com,(980) 627-5654,24,Male,Austin,Finance,Accountant,Full-time,2019-06-23,0,Associate,92865,16572,3,10,109437
+EMP0668,Robert Hernandez,Robert,Hernandez,robert.hernandez@company.com,(274) 488-9562,47,Male,Jacksonville,HR,Training Coordinator,Full-time,2023-05-25,25,Master,101617,24050,3,3,125667
+EMP0669,James Rodriguez,James,Rodriguez,james.rodriguez@company.com,(730) 246-4136,35,Female,San Antonio,Legal,Compliance Officer,Full-time,2022-05-27,10,Bachelor,141683,10126,2,10,151809
+EMP0670,Michael Hernandez,Michael,Hernandez,michael.hernandez@company.com,(860) 802-1747,39,Male,Los Angeles,Finance,Budget Analyst,Full-time,2021-07-27,16,Bachelor,72177,15630,2,12,87807
+EMP0671,Ashley Smith,Ashley,Smith,ashley.smith@company.com,(408) 485-2033,47,Female,San Diego,Engineering,Tech Lead,Full-time,2023-03-14,23,Associate,186378,23489,3,18,209867
+EMP0672,Michael Martinez,Michael,Martinez,michael.martinez@company.com,(273) 777-1679,42,Male,Chicago,Engineering,Tech Lead,Full-time,2021-05-26,19,Master,210065,29619,4,13,239684
+EMP0673,Emily Johnson,Emily,Johnson,emily.johnson@company.com,(260) 588-5942,38,Female,Columbus,Operations,Process Analyst,Full-time,2023-03-05,14,Bachelor,68800,10595,4,2,79395
+EMP0674,Jane Brown,Jane,Brown,jane.brown@company.com,(579) 476-3653,60,Female,Indianapolis,Finance,Budget Analyst,Contract,2021-02-26,36,PhD,113672,21742,3,7,135414
+EMP0675,Daniel Williams,Daniel,Williams,daniel.williams@company.com,(778) 652-4330,34,Male,Chicago,Marketing,Marketing Specialist,Full-time,2025-03-07,10,Master,118265,8413,4,10,126678
+EMP0676,Emily Gonzalez,Emily,Gonzalez,emily.gonzalez@company.com,(228) 974-5316,63,Male,Seattle,Marketing,Marketing Specialist,Full-time,2023-01-08,38,Bachelor,52601,9702,4,17,62303
+EMP0677,David Jones,David,Jones,david.jones@company.com,(717) 220-2059,44,Male,Jacksonville,Operations,Process Analyst,Full-time,2024-11-20,21,Bachelor,132204,11781,4,2,143985
+EMP0678,James Williams,James,Williams,james.williams@company.com,(706) 993-8637,62,Female,Indianapolis,Operations,Process Analyst,Full-time,2016-12-29,40,Master,67210,9480,4,13,76690
+EMP0679,David Brown,David,Brown,david.brown@company.com,(423) 374-2408,23,Female,San Antonio,HR,Recruiter,Full-time,2021-10-06,1,High School,85061,18200,4,18,103261
+EMP0680,Ashley Davis,Ashley,Davis,ashley.davis@company.com,(694) 616-6510,56,Male,Fort Worth,IT,System Admin,Part-time,2021-09-23,32,Master,42619,8468,3,8,51087
+EMP0681,David Brown,David,Brown,david.brown@company.com,(897) 377-6125,32,Female,Columbus,Operations,Quality Assurance,Full-time,2020-01-08,6,Associate,73485,16308,3,8,89793
+EMP0682,David Williams,David,Williams,david.williams@company.com,(343) 259-2803,57,Male,Austin,HR,Compensation Analyst,Full-time,2019-11-29,31,Bachelor,94076,22882,4,6,116958
+EMP0683,James Williams,James,Williams,james.williams@company.com,(902) 497-5927,58,Female,Seattle,Legal,Compliance Officer,Full-time,2019-05-08,34,Bachelor,63231,8538,3,16,71769
+EMP0684,Emily Wilson,Emily,Wilson,emily.wilson@company.com,(728) 471-3056,34,Female,Jacksonville,Finance,Accountant,Full-time,2022-03-25,11,Master,77853,8088,3,1,85941
+EMP0685,William Jones,William,Jones,william.jones@company.com,(306) 489-7968,30,Male,Dallas,HR,HR Specialist,Full-time,2019-02-21,6,Master,56395,5832,3,17,62227
+EMP0686,David Hernandez,David,Hernandez,david.hernandez@company.com,(304) 619-6492,40,Female,Seattle,Legal,Contract Manager,Full-time,2020-05-30,15,Bachelor,185876,25340,2,18,211216
+EMP0687,James Davis,James,Davis,james.davis@company.com,(262) 682-6965,53,Male,Dallas,HR,Compensation Analyst,Full-time,2015-10-03,27,Bachelor,136971,22549,5,5,159520
+EMP0688,William Wilson,William,Wilson,william.wilson@company.com,(935) 738-1639,45,Male,Columbus,Engineering,Engineering Manager,Full-time,2017-04-28,22,Bachelor,198212,14394,4,8,212606
+EMP0689,Ashley Jones,Ashley,Jones,ashley.jones@company.com,(729) 641-8041,44,Female,Chicago,Sales,Business Development,Full-time,2022-08-20,18,Master,119861,17389,5,19,137250
+EMP0690,Jessica Anderson,Jessica,Anderson,jessica.anderson@company.com,(278) 897-1173,60,Female,Phoenix,Sales,Sales Coordinator,Full-time,2022-02-11,38,Master,110752,21700,4,19,132452
+EMP0691,Sarah Martinez,Sarah,Martinez,sarah.martinez@company.com,(329) 655-3924,33,Female,Indianapolis,Engineering,Tech Lead,Full-time,2023-08-26,11,PhD,144825,31528,5,14,176353
+EMP0692,Robert Garcia,Robert,Garcia,robert.garcia@company.com,(306) 729-4154,58,Female,New York,Legal,Legal Counsel,Full-time,2018-10-01,36,Bachelor,75484,6755,5,8,82239
+EMP0693,Emily Garcia,Emily,Garcia,emily.garcia@company.com,(340) 673-6150,23,Male,Austin,Engineering,Senior Engineer,Full-time,2019-10-06,0,Bachelor,49037,11633,2,16,60670
+EMP0694,Sarah Miller,Sarah,Miller,sarah.miller@company.com,(276) 708-6283,44,Male,Jacksonville,Operations,Process Analyst,Part-time,2024-05-18,19,Associate,110705,18228,3,9,128933
+EMP0695,William Anderson,William,Anderson,william.anderson@company.com,(277) 733-5090,35,Male,Philadelphia,Marketing,Content Creator,Contract,2021-10-31,10,Bachelor,107976,8154,4,2,116130
+EMP0696,Daniel Johnson,Daniel,Johnson,daniel.johnson@company.com,(619) 819-6280,53,Female,Indianapolis,Legal,Legal Counsel,Full-time,2016-09-25,29,High School,83795,15035,4,16,98830
+EMP0697,John Miller,John,Miller,john.miller@company.com,(534) 511-2076,39,Male,Charlotte,Sales,Sales Rep,Full-time,2022-09-29,13,Bachelor,51267,3115,1,13,54382
+EMP0698,Sarah Garcia,Sarah,Garcia,sarah.garcia@company.com,(496) 507-8890,55,Male,Los Angeles,Engineering,Senior Engineer,Full-time,2023-06-25,30,Master,76335,9152,4,5,85487
+EMP0699,Christopher Johnson,Christopher,Johnson,christopher.johnson@company.com,(214) 430-4688,48,Male,Los Angeles,Legal,Contract Manager,Full-time,2021-07-02,25,Associate,199017,23356,4,2,222373
+EMP0700,David Miller,David,Miller,david.miller@company.com,(758) 455-8103,41,Male,Los Angeles,Finance,Finance Manager,Full-time,2017-09-18,16,Bachelor,162411,26253,3,14,188664
+EMP0701,Stephanie Miller,Stephanie,Miller,stephanie.miller@company.com,(494) 382-1863,56,Male,San Jose,IT,Security Analyst,Contract,2017-11-24,34,Associate,75888,18163,3,8,94051
+EMP0702,Sarah Johnson,Sarah,Johnson,sarah.johnson@company.com,(998) 594-9759,58,Female,Columbus,Engineering,Software Engineer,Full-time,2021-04-06,36,Master,80520,18967,3,11,99487
+EMP0703,Emily Jones,Emily,Jones,emily.jones@company.com,(969) 820-9772,42,Female,San Jose,Sales,Sales Director,Full-time,2020-01-10,17,High School,172721,40148,4,17,212869
+EMP0704,John Brown,John,Brown,john.brown@company.com,(238) 931-1306,51,Female,Philadelphia,Finance,Financial Analyst,Full-time,2021-04-07,28,Bachelor,125666,21849,3,3,147515
+EMP0705,Sarah Rodriguez,Sarah,Rodriguez,sarah.rodriguez@company.com,(588) 857-4835,37,Female,Phoenix,IT,Security Analyst,Full-time,2016-10-17,14,Bachelor,97077,19904,3,17,116981
+EMP0706,Robert Jones,Robert,Jones,robert.jones@company.com,(213) 331-2877,29,Female,Fort Worth,Finance,Controller,Part-time,2018-06-19,5,Master,45386,11259,2,6,56645
+EMP0707,Michael Miller,Michael,Miller,michael.miller@company.com,(280) 473-9050,60,Male,San Antonio,Marketing,Marketing Specialist,Contract,2016-04-28,38,Bachelor,96710,19669,3,6,116379
+EMP0708,Stephanie Smith,Stephanie,Smith,stephanie.smith@company.com,(527) 606-2725,37,Male,Jacksonville,Engineering,Tech Lead,Part-time,2022-08-02,14,Bachelor,116814,9768,5,2,126582
+EMP0709,Emily Brown,Emily,Brown,emily.brown@company.com,(440) 217-9645,43,Male,Dallas,Marketing,Marketing Manager,Full-time,2024-02-16,21,Bachelor,101713,15096,2,7,116809
+EMP0710,James Jones,James,Jones,james.jones@company.com,(574) 240-2507,61,Male,Los Angeles,Engineering,Tech Lead,Full-time,2024-03-20,38,Master,70698,9682,3,9,80380
+EMP0711,Amanda Brown,Amanda,Brown,amanda.brown@company.com,(738) 319-2331,51,Female,Columbus,Legal,Paralegal,Full-time,2025-04-13,25,Bachelor,95252,6118,4,18,101370
+EMP0712,Sarah Jones,Sarah,Jones,sarah.jones@company.com,(665) 851-1559,39,Male,Philadelphia,Legal,Contract Manager,Full-time,2025-07-30,13,Bachelor,120010,9147,3,7,129157
+EMP0713,Emily Hernandez,Emily,Hernandez,emily.hernandez@company.com,(577) 786-2829,36,Male,San Diego,Operations,Operations Manager,Full-time,2017-12-24,14,Bachelor,177232,39358,3,7,216590
+EMP0714,Jessica Johnson,Jessica,Johnson,jessica.johnson@company.com,(953) 719-3035,60,Female,Indianapolis,IT,IT Manager,Full-time,2019-12-02,35,High School,75930,13369,3,4,89299
+EMP0715,David Hernandez,David,Hernandez,david.hernandez@company.com,(452) 635-2942,42,Female,Seattle,Marketing,Marketing Manager,Full-time,2021-10-31,18,Bachelor,263951,51359,4,15,315310
+EMP0716,John Garcia,John,Garcia,john.garcia@company.com,(975) 996-3049,29,Female,Fort Worth,Operations,Project Manager,Full-time,2018-01-07,4,Bachelor,159528,31111,5,13,190639
+EMP0717,William Smith,William,Smith,william.smith@company.com,(627) 817-7110,22,Male,Phoenix,Legal,Compliance Officer,Full-time,2019-06-05,0,Bachelor,115978,13848,3,7,129826
+EMP0718,Amanda Hernandez,Amanda,Hernandez,amanda.hernandez@company.com,(561) 553-3433,57,Female,Dallas,HR,Recruiter,Part-time,2017-03-17,35,High School,130729,14967,5,12,145696
+EMP0719,Robert Davis,Robert,Davis,robert.davis@company.com,(645) 805-4291,51,Male,Austin,IT,Network Engineer,Full-time,2021-05-31,29,Master,82458,19861,5,12,102319
+EMP0720,James Martinez,James,Martinez,james.martinez@company.com,(225) 608-2351,40,Female,Phoenix,Engineering,Tech Lead,Full-time,2018-09-30,15,High School,224172,37436,5,17,261608
+EMP0721,David Garcia,David,Garcia,david.garcia@company.com,(600) 227-1219,44,Female,Columbus,Operations,Supply Chain,Full-time,2016-07-06,18,Bachelor,102573,15058,5,4,117631
+EMP0722,Emily Garcia,Emily,Garcia,emily.garcia@company.com,(691) 793-2520,28,Female,Austin,Legal,Compliance Officer,Full-time,2023-05-16,2,Master,98825,5861,1,13,104686
+EMP0723,David Smith,David,Smith,david.smith@company.com,(801) 545-9384,61,Female,Los Angeles,Legal,Contract Manager,Full-time,2019-12-16,35,Bachelor,118366,15919,4,7,134285
+EMP0724,William Anderson,William,Anderson,william.anderson@company.com,(513) 805-1296,42,Male,Fort Worth,Legal,Paralegal,Full-time,2023-12-16,20,Bachelor,146749,30245,3,6,176994
+EMP0725,Stephanie Rodriguez,Stephanie,Rodriguez,stephanie.rodriguez@company.com,(608) 707-8704,57,Female,Los Angeles,Legal,Paralegal,Full-time,2024-11-13,34,Bachelor,109944,20652,2,8,130596
+EMP0726,Michael Jones,Michael,Jones,michael.jones@company.com,(811) 493-6755,59,Female,San Diego,Operations,Quality Assurance,Full-time,2023-02-13,35,PhD,136536,6885,3,14,143421
+EMP0727,David Lopez,David,Lopez,david.lopez@company.com,(413) 944-5778,54,Female,Charlotte,HR,HR Manager,Full-time,2025-05-20,31,Bachelor,235447,14109,4,10,249556
+EMP0728,David Anderson,David,Anderson,david.anderson@company.com,(960) 991-1151,56,Female,Jacksonville,Legal,Legal Assistant,Full-time,2020-06-05,33,Bachelor,46755,2816,4,9,49571
+EMP0729,Jessica Davis,Jessica,Davis,jessica.davis@company.com,(820) 392-3291,54,Female,Indianapolis,Sales,Sales Director,Full-time,2019-12-26,29,Bachelor,111724,24914,4,13,136638
+EMP0730,Sarah Davis,Sarah,Davis,sarah.davis@company.com,(965) 237-5595,57,Female,Los Angeles,HR,Recruiter,Full-time,2023-02-07,33,Bachelor,108062,15090,4,9,123152
+EMP0731,James Hernandez,James,Hernandez,james.hernandez@company.com,(737) 900-2935,60,Male,Phoenix,HR,Training Coordinator,Part-time,2024-09-25,38,Bachelor,124756,28890,3,7,153646
+EMP0732,Ashley Garcia,Ashley,Garcia,ashley.garcia@company.com,(622) 544-2757,53,Male,San Diego,Operations,Supply Chain,Full-time,2018-10-02,31,High School,100365,19649,5,13,120014
+EMP0733,Ashley Johnson,Ashley,Johnson,ashley.johnson@company.com,(638) 310-1743,34,Male,Philadelphia,Engineering,DevOps Engineer,Full-time,2020-03-09,8,Bachelor,42240,2253,3,3,44493
+EMP0734,John Miller,John,Miller,john.miller@company.com,(680) 634-2706,40,Female,Seattle,Operations,Operations Manager,Full-time,2017-10-21,16,Master,160688,23693,3,19,184381
+EMP0735,David Wilson,David,Wilson,david.wilson@company.com,(453) 674-3303,64,Male,San Diego,Sales,Business Development,Full-time,2018-03-23,41,Associate,47787,10003,4,3,57790
+EMP0736,Jane Gonzalez,Jane,Gonzalez,jane.gonzalez@company.com,(774) 628-8240,43,Male,Indianapolis,HR,HR Manager,Full-time,2021-07-06,18,Master,82193,12540,4,17,94733
+EMP0737,Daniel Miller,Daniel,Miller,daniel.miller@company.com,(389) 211-8770,54,Male,Dallas,HR,Training Coordinator,Full-time,2017-03-02,30,Master,122242,9206,4,3,131448
+EMP0738,David Wilson,David,Wilson,david.wilson@company.com,(515) 365-8370,42,Male,Philadelphia,Legal,Paralegal,Full-time,2016-12-08,17,Bachelor,37024,2519,4,5,39543
+EMP0739,Sarah Smith,Sarah,Smith,sarah.smith@company.com,(555) 659-8670,41,Male,Chicago,IT,Security Analyst,Part-time,2020-10-10,17,Associate,145078,23026,3,7,168104
+EMP0740,James Wilson,James,Wilson,james.wilson@company.com,(743) 649-4322,55,Male,Seattle,HR,HR Manager,Full-time,2018-11-29,29,PhD,114825,15709,5,16,130534
+EMP0741,Emily Johnson,Emily,Johnson,emily.johnson@company.com,(492) 664-5962,29,Male,Columbus,Marketing,Brand Manager,Contract,2022-09-20,4,Associate,88998,12856,4,13,101854
+EMP0742,Amanda Anderson,Amanda,Anderson,amanda.anderson@company.com,(457) 769-4619,60,Male,Houston,Marketing,Digital Marketer,Full-time,2020-03-29,38,Master,135794,15880,2,4,151674
+EMP0743,Jessica Gonzalez,Jessica,Gonzalez,jessica.gonzalez@company.com,(774) 218-2370,63,Male,New York,Finance,Accountant,Full-time,2025-07-15,37,PhD,36845,7356,4,15,44201
+EMP0744,William Jones,William,Jones,william.jones@company.com,(711) 925-6431,58,Male,Houston,HR,Recruiter,Full-time,2022-04-25,35,Bachelor,56711,3105,3,17,59816
+EMP0745,Stephanie Anderson,Stephanie,Anderson,stephanie.anderson@company.com,(911) 640-6973,36,Male,Phoenix,Sales,Business Development,Contract,2025-05-14,12,Master,38491,3968,4,1,42459
+EMP0746,Jane Garcia,Jane,Garcia,jane.garcia@company.com,(433) 223-4097,62,Male,Seattle,Marketing,Digital Marketer,Full-time,2022-05-24,38,Bachelor,53680,8794,3,15,62474
+EMP0747,Christopher Martinez,Christopher,Martinez,christopher.martinez@company.com,(439) 784-4667,47,Female,Indianapolis,Finance,Accountant,Full-time,2021-05-17,25,Bachelor,60801,6022,4,7,66823
+EMP0748,Robert Hernandez,Robert,Hernandez,robert.hernandez@company.com,(857) 927-3303,61,Female,Jacksonville,IT,IT Support,Full-time,2017-07-23,39,Bachelor,147981,18873,3,13,166854
+EMP0749,Amanda Garcia,Amanda,Garcia,amanda.garcia@company.com,(586) 968-2734,63,Male,Columbus,Legal,Legal Assistant,Part-time,2017-11-29,38,Master,123941,15386,2,18,139327
+EMP0750,Stephanie Wilson,Stephanie,Wilson,stephanie.wilson@company.com,(469) 405-3840,26,Female,Columbus,Sales,Sales Director,Full-time,2021-07-07,3,Bachelor,155128,11983,4,14,167111
+EMP0751,Sarah Brown,Sarah,Brown,sarah.brown@company.com,(392) 838-9131,36,Male,Columbus,Sales,Sales Rep,Full-time,2016-06-27,13,Bachelor,37263,4804,3,8,42067
+EMP0752,Robert Rodriguez,Robert,Rodriguez,robert.rodriguez@company.com,(975) 511-3780,37,Female,Austin,Sales,Sales Rep,Part-time,2017-11-28,13,Associate,89800,7995,2,1,97795
+EMP0753,Jessica Williams,Jessica,Williams,jessica.williams@company.com,(997) 993-1436,27,Female,San Antonio,Legal,Legal Counsel,Full-time,2023-07-21,4,Bachelor,144513,28168,3,17,172681
+EMP0754,Christopher Wilson,Christopher,Wilson,christopher.wilson@company.com,(770) 935-2784,40,Male,Indianapolis,Operations,Project Manager,Full-time,2022-07-26,14,Bachelor,206064,34518,3,2,240582
+EMP0755,Emily Jones,Emily,Jones,emily.jones@company.com,(705) 885-2096,58,Male,Chicago,Operations,Project Manager,Full-time,2016-06-03,35,Bachelor,172661,40298,4,10,212959
+EMP0756,Sarah Hernandez,Sarah,Hernandez,sarah.hernandez@company.com,(605) 269-8327,42,Female,Dallas,Finance,Budget Analyst,Full-time,2022-07-24,20,Bachelor,122221,14634,4,17,136855
+EMP0757,James Martinez,James,Martinez,james.martinez@company.com,(807) 682-2772,60,Female,Jacksonville,Marketing,Brand Manager,Full-time,2023-05-15,37,Master,165048,12146,4,11,177194
+EMP0758,David Davis,David,Davis,david.davis@company.com,(316) 986-3562,41,Female,Houston,Sales,Sales Director,Contract,2025-04-27,19,Bachelor,96649,11462,2,6,108111
+EMP0759,David Jones,David,Jones,david.jones@company.com,(974) 334-4889,37,Female,Charlotte,IT,Security Analyst,Part-time,2023-05-10,14,Bachelor,39959,8939,3,16,48898
+EMP0760,Jane Johnson,Jane,Johnson,jane.johnson@company.com,(511) 728-5299,35,Female,Dallas,Operations,Project Manager,Full-time,2016-07-12,9,Bachelor,212811,32380,4,2,245191
+EMP0761,William Davis,William,Davis,william.davis@company.com,(721) 780-7764,38,Male,Seattle,Marketing,Content Creator,Part-time,2017-01-11,15,High School,56711,14170,5,2,70881
+EMP0762,Amanda Williams,Amanda,Williams,amanda.williams@company.com,(265) 340-4577,27,Female,Fort Worth,Marketing,Content Creator,Full-time,2023-01-22,2,Bachelor,133475,26852,4,1,160327
+EMP0763,Christopher Gonzalez,Christopher,Gonzalez,christopher.gonzalez@company.com,(685) 971-4076,51,Female,San Francisco,HR,HR Specialist,Full-time,2019-02-22,28,Associate,63562,9717,4,4,73279
+EMP0764,William Lopez,William,Lopez,william.lopez@company.com,(398) 963-2073,44,Male,Phoenix,Finance,Finance Manager,Full-time,2015-10-22,19,Associate,108463,18871,3,10,127334
+EMP0765,Amanda Wilson,Amanda,Wilson,amanda.wilson@company.com,(719) 623-7175,36,Female,Seattle,IT,IT Manager,Full-time,2023-11-06,14,Associate,203570,33673,4,3,237243
+EMP0766,Christopher Miller,Christopher,Miller,christopher.miller@company.com,(706) 618-2145,23,Female,San Francisco,Sales,Business Development,Full-time,2016-05-25,1,Bachelor,50729,11787,5,11,62516
+EMP0767,Daniel Hernandez,Daniel,Hernandez,daniel.hernandez@company.com,(838) 786-3525,32,Male,Austin,Marketing,Brand Manager,Contract,2017-05-23,9,Bachelor,215520,27792,4,2,243312
+EMP0768,Ashley Johnson,Ashley,Johnson,ashley.johnson@company.com,(533) 619-8493,59,Female,San Jose,Operations,Operations Manager,Contract,2024-05-17,37,Bachelor,82349,18838,4,4,101187
+EMP0769,Stephanie Rodriguez,Stephanie,Rodriguez,stephanie.rodriguez@company.com,(960) 816-6855,42,Female,San Diego,Legal,Contract Manager,Full-time,2019-07-16,20,Bachelor,146172,25277,4,4,171449
+EMP0770,Jessica Anderson,Jessica,Anderson,jessica.anderson@company.com,(286) 778-1061,36,Male,San Antonio,Operations,Supply Chain,Full-time,2021-03-13,14,Bachelor,43382,2623,5,11,46005
+EMP0771,Michael Johnson,Michael,Johnson,michael.johnson@company.com,(414) 843-5467,46,Male,Seattle,Engineering,Senior Engineer,Part-time,2022-02-26,21,Associate,40631,5264,5,18,45895
+EMP0772,John Lopez,John,Lopez,john.lopez@company.com,(211) 532-7106,24,Male,Los Angeles,HR,HR Specialist,Full-time,2019-10-13,0,Bachelor,36600,1847,3,12,38447
+EMP0773,Emily Hernandez,Emily,Hernandez,emily.hernandez@company.com,(972) 409-5089,63,Female,Dallas,Sales,Sales Rep,Full-time,2018-03-12,41,Master,120151,10016,1,1,130167
+EMP0774,Ashley Wilson,Ashley,Wilson,ashley.wilson@company.com,(697) 352-9244,57,Male,San Diego,Finance,Accountant,Full-time,2019-02-01,35,Bachelor,145716,30982,1,18,176698
+EMP0775,David Miller,David,Miller,david.miller@company.com,(976) 910-6964,59,Male,Indianapolis,Legal,Legal Assistant,Contract,2019-10-27,36,High School,145349,30380,1,19,175729
+EMP0776,James Anderson,James,Anderson,james.anderson@company.com,(915) 452-1813,56,Male,Columbus,Legal,Legal Counsel,Full-time,2017-02-22,30,Master,62617,4448,4,17,67065
+EMP0777,Daniel Williams,Daniel,Williams,daniel.williams@company.com,(682) 406-1578,36,Male,Columbus,Legal,Legal Assistant,Full-time,2024-01-30,11,Bachelor,120971,7162,3,6,128133
+EMP0778,James Williams,James,Williams,james.williams@company.com,(308) 684-9046,49,Male,New York,Legal,Compliance Officer,Full-time,2023-01-07,23,Bachelor,106979,24104,5,16,131083
+EMP0779,Amanda Williams,Amanda,Williams,amanda.williams@company.com,(901) 205-1005,42,Female,Austin,Operations,Project Manager,Part-time,2021-08-15,17,Bachelor,225222,50275,4,10,275497
+EMP0780,Daniel Brown,Daniel,Brown,daniel.brown@company.com,(304) 371-3069,42,Male,San Jose,IT,System Admin,Full-time,2022-12-13,20,Associate,46341,2504,4,2,48845
+EMP0781,Daniel Miller,Daniel,Miller,daniel.miller@company.com,(375) 982-7827,62,Male,Austin,HR,Recruiter,Full-time,2019-06-25,36,Master,66644,3966,5,4,70610
+EMP0782,Michael Martinez,Michael,Martinez,michael.martinez@company.com,(433) 497-3291,61,Male,Columbus,IT,IT Support,Full-time,2016-12-08,38,Master,117263,10800,3,14,128063
+EMP0783,Christopher Anderson,Christopher,Anderson,christopher.anderson@company.com,(869) 769-1085,32,Female,Dallas,IT,Network Engineer,Full-time,2018-09-21,6,Bachelor,122897,22645,5,15,145542
+EMP0784,Robert Rodriguez,Robert,Rodriguez,robert.rodriguez@company.com,(285) 629-6700,25,Female,New York,HR,Training Coordinator,Full-time,2022-02-19,2,Bachelor,89033,8496,3,1,97529
+EMP0785,Daniel Garcia,Daniel,Garcia,daniel.garcia@company.com,(581) 422-6378,48,Male,San Francisco,Operations,Project Manager,Full-time,2021-12-04,25,Bachelor,252685,25204,3,18,277889
+EMP0786,John Gonzalez,John,Gonzalez,john.gonzalez@company.com,(740) 500-7850,47,Male,San Diego,IT,System Admin,Full-time,2024-07-20,21,Bachelor,141399,29579,4,7,170978
+EMP0787,Michael Anderson,Michael,Anderson,michael.anderson@company.com,(452) 237-9820,58,Female,Austin,Operations,Process Analyst,Full-time,2016-07-11,34,Bachelor,122688,10330,3,13,133018
+EMP0788,David Hernandez,David,Hernandez,david.hernandez@company.com,(719) 474-5587,27,Female,Austin,IT,IT Support,Part-time,2017-12-19,1,High School,54359,11732,3,19,66091
+EMP0789,James Miller,James,Miller,james.miller@company.com,(964) 574-5029,51,Female,Jacksonville,Marketing,Digital Marketer,Full-time,2016-01-17,25,High School,107134,7794,2,13,114928
+EMP0790,Jane Wilson,Jane,Wilson,jane.wilson@company.com,(862) 916-2790,41,Female,San Diego,Legal,Paralegal,Full-time,2023-04-30,18,Bachelor,140330,23510,3,8,163840
+EMP0791,William Rodriguez,William,Rodriguez,william.rodriguez@company.com,(760) 847-1987,28,Female,New York,Sales,Business Development,Full-time,2023-04-12,5,Master,146858,8021,2,10,154879
+EMP0792,Daniel Wilson,Daniel,Wilson,daniel.wilson@company.com,(815) 568-7385,42,Female,San Diego,IT,Security Analyst,Full-time,2022-07-24,18,Master,63305,12423,4,17,75728
+EMP0793,Daniel Gonzalez,Daniel,Gonzalez,daniel.gonzalez@company.com,(516) 344-8518,58,Male,Los Angeles,Sales,Sales Director,Full-time,2017-12-08,36,Master,174031,17818,4,4,191849
+EMP0794,James Hernandez,James,Hernandez,james.hernandez@company.com,(904) 625-6891,37,Male,San Diego,HR,Training Coordinator,Part-time,2020-12-16,15,Associate,50115,3958,2,5,54073
+EMP0795,Daniel Williams,Daniel,Williams,daniel.williams@company.com,(360) 661-2967,48,Female,Charlotte,Marketing,Content Creator,Part-time,2021-03-23,23,Master,66509,13334,5,6,79843
+EMP0796,John Jones,John,Jones,john.jones@company.com,(827) 281-8211,47,Male,San Francisco,Operations,Process Analyst,Part-time,2019-08-17,22,Master,123112,10852,4,12,133964
+EMP0797,Jane Johnson,Jane,Johnson,jane.johnson@company.com,(609) 330-5476,38,Male,New York,Legal,Legal Assistant,Full-time,2015-12-02,15,High School,135299,15198,5,15,150497
+EMP0798,Christopher Davis,Christopher,Davis,christopher.davis@company.com,(429) 735-1400,60,Male,Seattle,Engineering,Tech Lead,Part-time,2019-12-12,37,Associate,241073,52811,3,4,293884
+EMP0799,Christopher Davis,Christopher,Davis,christopher.davis@company.com,(900) 651-8418,48,Female,Austin,Marketing,Content Creator,Full-time,2019-05-04,22,Bachelor,79845,11118,4,8,90963
+EMP0800,Sarah Gonzalez,Sarah,Gonzalez,sarah.gonzalez@company.com,(775) 930-6153,58,Male,Dallas,IT,Security Analyst,Full-time,2025-01-22,36,Bachelor,124934,16896,3,5,141830
+EMP0801,Robert Williams,Robert,Williams,robert.williams@company.com,(443) 431-4651,38,Male,Chicago,Finance,Financial Analyst,Part-time,2022-08-20,12,Master,130049,22677,1,5,152726
+EMP0802,Sarah Lopez,Sarah,Lopez,sarah.lopez@company.com,(721) 279-3693,35,Male,Fort Worth,IT,IT Support,Full-time,2019-04-09,13,Bachelor,126291,23290,1,13,149581
+EMP0803,James Martinez,James,Martinez,james.martinez@company.com,(949) 316-7474,24,Male,Dallas,IT,IT Manager,Full-time,2024-08-20,0,PhD,165516,35714,4,15,201230
+EMP0804,Jessica Anderson,Jessica,Anderson,jessica.anderson@company.com,(741) 506-9352,25,Male,San Jose,Operations,Project Manager,Contract,2021-06-19,0,Bachelor,182238,37794,3,12,220032
+EMP0805,Jane Wilson,Jane,Wilson,jane.wilson@company.com,(962) 478-2718,43,Female,New York,Engineering,Tech Lead,Full-time,2023-11-11,18,Master,164147,37207,2,9,201354
+EMP0806,Jane Johnson,Jane,Johnson,jane.johnson@company.com,(904) 921-2401,59,Male,Columbus,HR,HR Manager,Full-time,2024-11-15,33,Master,81663,12367,4,18,94030
+EMP0807,Stephanie Davis,Stephanie,Davis,stephanie.davis@company.com,(971) 819-5849,64,Female,Charlotte,Legal,Legal Counsel,Full-time,2020-09-20,39,Associate,110692,8326,3,10,119018
+EMP0808,Robert Brown,Robert,Brown,robert.brown@company.com,(481) 568-4174,45,Female,Houston,IT,System Admin,Full-time,2017-03-18,23,Bachelor,67664,10274,5,6,77938
+EMP0809,Jessica Miller,Jessica,Miller,jessica.miller@company.com,(420) 573-9490,60,Female,Columbus,Legal,Legal Counsel,Full-time,2025-03-02,34,Bachelor,127511,28016,3,19,155527
+EMP0810,Christopher Martinez,Christopher,Martinez,christopher.martinez@company.com,(645) 251-9565,24,Female,Charlotte,IT,Security Analyst,Part-time,2022-12-10,2,High School,67806,3889,5,18,71695
+EMP0811,Stephanie Williams,Stephanie,Williams,stephanie.williams@company.com,(349) 470-6235,49,Male,San Antonio,IT,Security Analyst,Full-time,2015-11-21,24,Bachelor,109236,22599,4,13,131835
+EMP0812,Sarah Hernandez,Sarah,Hernandez,sarah.hernandez@company.com,(797) 998-6268,39,Male,Charlotte,Operations,Project Manager,Full-time,2017-08-29,17,Master,88714,20249,4,19,108963
+EMP0813,Michael Garcia,Michael,Garcia,michael.garcia@company.com,(757) 849-5383,49,Male,Phoenix,Operations,Operations Manager,Full-time,2019-10-24,26,Bachelor,211977,22217,2,7,234194
+EMP0814,John Brown,John,Brown,john.brown@company.com,(675) 756-6049,49,Male,Seattle,Legal,Paralegal,Full-time,2022-03-04,25,Bachelor,38773,4894,4,6,43667
+EMP0815,John Smith,John,Smith,john.smith@company.com,(372) 278-5559,53,Female,San Diego,Legal,Compliance Officer,Part-time,2019-11-05,30,Bachelor,133417,28412,3,14,161829
+EMP0816,Jane Gonzalez,Jane,Gonzalez,jane.gonzalez@company.com,(762) 619-6840,25,Male,Indianapolis,Sales,Sales Director,Full-time,2017-07-21,0,Master,193249,44980,3,6,238229
+EMP0817,Michael Williams,Michael,Williams,michael.williams@company.com,(239) 800-8804,35,Male,Dallas,Marketing,Marketing Specialist,Intern,2020-02-03,12,Bachelor,76205,8528,4,2,84733
+EMP0818,Jane Johnson,Jane,Johnson,jane.johnson@company.com,(228) 742-6267,47,Male,Philadelphia,Sales,Business Development,Full-time,2022-07-27,22,Master,37596,6171,4,9,43767
+EMP0819,Robert Hernandez,Robert,Hernandez,robert.hernandez@company.com,(489) 938-8323,48,Male,Jacksonville,Marketing,Marketing Specialist,Intern,2016-05-04,25,Bachelor,114491,28547,3,2,143038
+EMP0820,Stephanie Johnson,Stephanie,Johnson,stephanie.johnson@company.com,(380) 892-2310,32,Male,New York,Engineering,Senior Engineer,Full-time,2020-03-18,7,Associate,54644,11046,2,18,65690
+EMP0821,James Martinez,James,Martinez,james.martinez@company.com,(965) 922-6952,22,Male,Los Angeles,IT,IT Manager,Full-time,2023-09-02,0,Master,149790,26166,4,13,175956
+EMP0822,Emily Williams,Emily,Williams,emily.williams@company.com,(509) 326-9366,22,Male,Charlotte,Sales,Sales Rep,Full-time,2023-06-06,0,Master,38936,5056,3,18,43992
+EMP0823,Emily Johnson,Emily,Johnson,emily.johnson@company.com,(497) 693-9737,30,Male,Austin,Finance,Finance Manager,Full-time,2023-11-01,6,Bachelor,183821,10005,1,15,193826
+EMP0824,Michael Davis,Michael,Davis,michael.davis@company.com,(863) 307-4247,31,Male,San Francisco,Finance,Accountant,Full-time,2017-03-07,5,Bachelor,87499,16701,4,5,104200
+EMP0825,Stephanie Lopez,Stephanie,Lopez,stephanie.lopez@company.com,(931) 549-7614,30,Female,Indianapolis,HR,HR Manager,Full-time,2016-09-16,8,Master,69045,12747,5,17,81792
+EMP0826,Stephanie Davis,Stephanie,Davis,stephanie.davis@company.com,(299) 311-7618,50,Female,Houston,Marketing,Brand Manager,Contract,2022-02-01,25,Associate,274886,25948,3,16,300834
+EMP0827,Sarah Miller,Sarah,Miller,sarah.miller@company.com,(245) 729-2688,42,Female,Charlotte,Sales,Account Manager,Part-time,2022-11-09,19,PhD,135360,9476,4,1,144836
+EMP0828,Jessica Davis,Jessica,Davis,jessica.davis@company.com,(678) 839-1366,31,Female,Philadelphia,IT,IT Support,Intern,2019-03-28,7,Master,86042,20992,5,8,107034
+EMP0829,Christopher Martinez,Christopher,Martinez,christopher.martinez@company.com,(927) 478-2308,36,Female,San Diego,Operations,Quality Assurance,Part-time,2016-05-16,14,Master,126005,18383,4,4,144388
+EMP0830,Jane Jones,Jane,Jones,jane.jones@company.com,(385) 368-2707,51,Female,San Francisco,Marketing,Marketing Specialist,Full-time,2020-09-05,26,Associate,38936,5269,4,17,44205
+EMP0831,Sarah Gonzalez,Sarah,Gonzalez,sarah.gonzalez@company.com,(984) 348-8820,25,Male,Dallas,IT,IT Support,Full-time,2015-11-14,2,Bachelor,129036,15485,3,9,144521
+EMP0832,Michael Brown,Michael,Brown,michael.brown@company.com,(575) 357-7347,25,Female,San Antonio,Sales,Sales Director,Full-time,2018-01-07,0,High School,65861,13255,4,15,79116
+EMP0833,Christopher Jones,Christopher,Jones,christopher.jones@company.com,(286) 380-9125,32,Male,San Francisco,Operations,Process Analyst,Full-time,2022-05-04,8,High School,45046,4456,4,6,49502
+EMP0834,Sarah Wilson,Sarah,Wilson,sarah.wilson@company.com,(870) 401-4865,51,Female,Indianapolis,Operations,Process Analyst,Full-time,2023-09-06,25,Bachelor,149543,30556,3,13,180099
+EMP0835,Emily Lopez,Emily,Lopez,emily.lopez@company.com,(714) 267-4317,53,Male,San Antonio,Engineering,Tech Lead,Full-time,2020-04-11,27,Associate,141803,8488,4,2,150291
+EMP0836,David Martinez,David,Martinez,david.martinez@company.com,(764) 529-7704,50,Male,Los Angeles,HR,HR Manager,Full-time,2023-10-30,28,Associate,259051,41267,3,17,300318
+EMP0837,John Johnson,John,Johnson,john.johnson@company.com,(445) 540-7716,23,Female,Houston,Marketing,Marketing Manager,Full-time,2023-01-08,1,Master,104730,19135,2,8,123865
+EMP0838,Amanda Miller,Amanda,Miller,amanda.miller@company.com,(519) 430-8197,27,Female,Dallas,IT,IT Manager,Contract,2021-01-31,3,Associate,226346,29691,1,6,256037
+EMP0839,Emily Rodriguez,Emily,Rodriguez,emily.rodriguez@company.com,(788) 370-4477,49,Female,San Antonio,Marketing,Digital Marketer,Full-time,2021-11-26,25,Associate,77734,17946,3,19,95680
+EMP0840,Stephanie Anderson,Stephanie,Anderson,stephanie.anderson@company.com,(402) 333-3555,47,Female,Dallas,Engineering,Tech Lead,Full-time,2016-02-17,23,Master,68138,8860,4,12,76998
+EMP0841,Jane Anderson,Jane,Anderson,jane.anderson@company.com,(266) 741-5310,32,Female,Seattle,IT,IT Support,Full-time,2020-05-24,7,Bachelor,106834,6384,3,12,113218
+EMP0842,Jane Miller,Jane,Miller,jane.miller@company.com,(985) 901-7966,55,Female,San Antonio,Legal,Compliance Officer,Full-time,2023-01-28,31,Bachelor,147111,27326,3,15,174437
+EMP0843,Stephanie Hernandez,Stephanie,Hernandez,stephanie.hernandez@company.com,(714) 409-5983,54,Male,Philadelphia,Operations,Process Analyst,Full-time,2018-11-25,31,Associate,122154,28842,3,12,150996
+EMP0844,Emily Miller,Emily,Miller,emily.miller@company.com,(239) 381-2513,54,Female,Fort Worth,IT,Network Engineer,Full-time,2017-12-02,30,Master,102699,9024,3,9,111723
+EMP0845,John Miller,John,Miller,john.miller@company.com,(973) 433-6969,38,Male,Seattle,Legal,Paralegal,Part-time,2019-10-18,14,High School,37164,6408,3,9,43572
+EMP0846,David Williams,David,Williams,david.williams@company.com,(491) 773-6106,26,Male,San Jose,Engineering,Engineering Manager,Full-time,2023-04-16,0,Associate,234987,49217,3,2,284204
+EMP0847,David Martinez,David,Martinez,david.martinez@company.com,(220) 389-8392,22,Female,Charlotte,HR,HR Specialist,Full-time,2021-12-12,0,Bachelor,106469,21506,3,6,127975
+EMP0848,Michael Miller,Michael,Miller,michael.miller@company.com,(322) 355-7444,45,Male,Austin,Finance,Finance Manager,Full-time,2025-07-02,22,Bachelor,125822,9148,2,11,134970
+EMP0849,John Johnson,John,Johnson,john.johnson@company.com,(359) 781-2767,24,Male,San Jose,Sales,Business Development,Full-time,2023-11-05,0,Bachelor,140816,7836,1,17,148652
+EMP0850,David Miller,David,Miller,david.miller@company.com,(260) 363-7276,28,Male,San Diego,Engineering,Engineering Manager,Full-time,2017-05-26,5,Master,206069,36193,3,12,242262
+EMP0851,Sarah Rodriguez,Sarah,Rodriguez,sarah.rodriguez@company.com,(636) 492-4120,59,Male,Philadelphia,IT,IT Support,Full-time,2018-06-08,34,High School,62190,13179,4,19,75369
+EMP0852,Michael Williams,Michael,Williams,michael.williams@company.com,(364) 839-9748,22,Female,New York,IT,IT Manager,Full-time,2025-04-16,0,Associate,77854,18924,4,8,96778
+EMP0853,Ashley Hernandez,Ashley,Hernandez,ashley.hernandez@company.com,(714) 954-8735,29,Male,Fort Worth,Finance,Budget Analyst,Part-time,2022-08-18,3,Master,38646,4651,3,7,43297
+EMP0854,William Martinez,William,Martinez,william.martinez@company.com,(672) 314-7243,47,Male,Philadelphia,Operations,Operations Manager,Full-time,2022-05-07,23,Bachelor,132865,8831,4,9,141696
+EMP0855,David Garcia,David,Garcia,david.garcia@company.com,(328) 710-9614,46,Male,Houston,Operations,Project Manager,Full-time,2017-05-25,21,Associate,194020,35855,2,6,229875
+EMP0856,John Williams,John,Williams,john.williams@company.com,(928) 595-6620,61,Female,Chicago,Engineering,Software Engineer,Part-time,2020-02-06,39,Bachelor,41109,6754,5,12,47863
+EMP0857,Daniel Martinez,Daniel,Martinez,daniel.martinez@company.com,(589) 959-4597,56,Male,Jacksonville,Engineering,Software Engineer,Full-time,2016-05-31,33,Bachelor,40397,9485,2,11,49882
+EMP0858,John Miller,John,Miller,john.miller@company.com,(384) 357-1098,45,Female,San Francisco,Marketing,Content Creator,Intern,2021-05-08,20,Bachelor,95582,8868,4,6,104450
+EMP0859,John Hernandez,John,Hernandez,john.hernandez@company.com,(613) 726-5526,31,Male,San Jose,Sales,Sales Director,Intern,2018-08-09,9,Bachelor,120438,15245,5,16,135683
+EMP0860,James Garcia,James,Garcia,james.garcia@company.com,(734) 900-3121,55,Female,Dallas,Legal,Contract Manager,Full-time,2016-03-17,32,Master,200707,37500,3,3,238207
+EMP0861,David Miller,David,Miller,david.miller@company.com,(251) 374-9107,36,Female,San Diego,IT,Security Analyst,Full-time,2017-09-30,11,Bachelor,128526,29871,2,1,158397
+EMP0862,John Miller,John,Miller,john.miller@company.com,(368) 723-1968,49,Female,San Antonio,Sales,Sales Director,Full-time,2018-04-25,23,Master,238559,34209,4,5,272768
+EMP0863,Jane Miller,Jane,Miller,jane.miller@company.com,(911) 963-2038,32,Female,San Jose,Sales,Business Development,Full-time,2016-06-15,9,Associate,136255,28157,3,9,164412
+EMP0864,Jane Davis,Jane,Davis,jane.davis@company.com,(909) 988-2871,54,Male,Fort Worth,IT,Network Engineer,Full-time,2020-05-28,30,Bachelor,79400,6595,5,3,85995
+EMP0865,Daniel Miller,Daniel,Miller,daniel.miller@company.com,(417) 762-6546,55,Female,Charlotte,Operations,Process Analyst,Full-time,2024-02-13,30,Master,84691,19119,4,1,103810
+EMP0866,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(318) 776-7458,31,Female,San Antonio,Legal,Legal Assistant,Full-time,2020-06-18,9,High School,70597,6783,4,3,77380
+EMP0867,Jane Johnson,Jane,Johnson,jane.johnson@company.com,(498) 233-1751,57,Male,San Jose,Finance,Finance Manager,Contract,2018-06-16,32,Bachelor,117561,15104,3,17,132665
+EMP0868,John Smith,John,Smith,john.smith@company.com,(991) 287-2649,39,Male,Fort Worth,Finance,Financial Analyst,Full-time,2020-03-22,15,Bachelor,46273,6559,4,11,52832
+EMP0869,David Brown,David,Brown,david.brown@company.com,(566) 979-3487,31,Male,Houston,Legal,Contract Manager,Full-time,2024-12-28,5,Master,255291,24608,2,1,279899
+EMP0870,Jane Brown,Jane,Brown,jane.brown@company.com,(330) 804-4716,23,Female,Philadelphia,Operations,Quality Assurance,Part-time,2023-12-28,0,Associate,88629,5953,4,14,94582
+EMP0871,James Davis,James,Davis,james.davis@company.com,(752) 346-4194,52,Female,San Antonio,Operations,Process Analyst,Full-time,2023-09-04,27,Master,96526,18446,4,18,114972
+EMP0872,Daniel Garcia,Daniel,Garcia,daniel.garcia@company.com,(841) 442-1723,29,Male,Seattle,IT,System Admin,Full-time,2019-04-01,4,Master,83503,13700,3,5,97203
+EMP0873,Stephanie Johnson,Stephanie,Johnson,stephanie.johnson@company.com,(727) 549-8082,55,Male,Seattle,Engineering,Engineering Manager,Full-time,2021-10-05,30,Bachelor,249366,13293,2,2,262659
+EMP0874,Christopher Garcia,Christopher,Garcia,christopher.garcia@company.com,(516) 310-6970,63,Male,Phoenix,Engineering,Tech Lead,Full-time,2017-04-24,39,Bachelor,78855,17701,4,1,96556
+EMP0875,James Jones,James,Jones,james.jones@company.com,(939) 284-1684,57,Male,Seattle,HR,Compensation Analyst,Full-time,2017-02-03,35,Associate,87776,10235,4,13,98011
+EMP0876,David Davis,David,Davis,david.davis@company.com,(934) 219-2979,36,Male,Fort Worth,IT,Network Engineer,Full-time,2017-04-09,11,Associate,94673,6643,4,13,101316
+EMP0877,William Jones,William,Jones,william.jones@company.com,(586) 867-2421,41,Female,San Jose,Marketing,Digital Marketer,Full-time,2024-03-22,17,Bachelor,62425,7896,3,1,70321
+EMP0878,Sarah Wilson,Sarah,Wilson,sarah.wilson@company.com,(951) 336-5862,26,Female,Philadelphia,Operations,Operations Manager,Full-time,2021-06-05,2,Bachelor,121639,8482,4,19,130121
+EMP0879,Amanda Brown,Amanda,Brown,amanda.brown@company.com,(256) 718-9239,24,Male,Phoenix,Legal,Compliance Officer,Contract,2022-05-20,0,Master,63830,8140,3,18,71970
+EMP0880,Robert Davis,Robert,Davis,robert.davis@company.com,(330) 415-2629,54,Male,Chicago,Operations,Quality Assurance,Full-time,2019-12-07,32,Bachelor,64328,10920,5,11,75248
+EMP0881,Jessica Garcia,Jessica,Garcia,jessica.garcia@company.com,(747) 445-3046,46,Female,Indianapolis,Finance,Financial Analyst,Full-time,2022-12-02,24,Master,38061,8446,5,3,46507
+EMP0882,William Garcia,William,Garcia,william.garcia@company.com,(604) 368-9520,22,Female,Phoenix,Operations,Supply Chain,Full-time,2017-08-26,0,Bachelor,62946,12196,3,7,75142
+EMP0883,Ashley Martinez,Ashley,Martinez,ashley.martinez@company.com,(512) 830-3039,23,Male,Columbus,Engineering,DevOps Engineer,Full-time,2023-02-19,0,Associate,56951,12589,4,12,69540
+EMP0884,David Smith,David,Smith,david.smith@company.com,(349) 667-2989,52,Female,Jacksonville,Marketing,Marketing Specialist,Full-time,2023-07-11,27,Bachelor,131706,22476,4,11,154182
+EMP0885,Christopher Hernandez,Christopher,Hernandez,christopher.hernandez@company.com,(527) 604-2785,50,Male,Indianapolis,IT,Security Analyst,Full-time,2017-12-12,28,High School,90037,16383,4,14,106420
+EMP0886,Stephanie Gonzalez,Stephanie,Gonzalez,stephanie.gonzalez@company.com,(826) 931-8145,56,Female,San Antonio,IT,Security Analyst,Full-time,2015-12-21,31,Master,109874,9293,4,12,119167
+EMP0887,Emily Lopez,Emily,Lopez,emily.lopez@company.com,(273) 453-4089,30,Female,Dallas,IT,Security Analyst,Part-time,2024-02-04,5,Associate,124848,8956,4,1,133804
+EMP0888,Michael Wilson,Michael,Wilson,michael.wilson@company.com,(691) 545-9395,64,Male,San Diego,Marketing,Marketing Manager,Full-time,2024-01-29,41,Bachelor,131081,9508,2,17,140589
+EMP0889,William Gonzalez,William,Gonzalez,william.gonzalez@company.com,(735) 554-6023,62,Male,Jacksonville,Legal,Legal Counsel,Full-time,2020-05-22,36,Master,107369,10120,3,11,117489
+EMP0890,Robert Johnson,Robert,Johnson,robert.johnson@company.com,(856) 753-6469,62,Male,Los Angeles,IT,Security Analyst,Contract,2019-05-28,38,Bachelor,115901,18853,4,17,134754
+EMP0891,Jessica Davis,Jessica,Davis,jessica.davis@company.com,(833) 484-9583,28,Male,New York,IT,IT Support,Full-time,2023-10-05,4,High School,78908,16465,4,14,95373
+EMP0892,Jane Davis,Jane,Davis,jane.davis@company.com,(270) 472-2210,22,Male,Phoenix,Finance,Budget Analyst,Full-time,2025-04-25,0,Bachelor,60099,6115,3,2,66214
+EMP0893,Michael Gonzalez,Michael,Gonzalez,michael.gonzalez@company.com,(604) 987-2686,43,Male,Austin,Finance,Accountant,Full-time,2019-05-29,17,Bachelor,75950,11109,4,15,87059
+EMP0894,Sarah Jones,Sarah,Jones,sarah.jones@company.com,(840) 596-9066,42,Male,Indianapolis,Marketing,Marketing Manager,Full-time,2023-11-30,19,Bachelor,108901,18527,3,13,127428
+EMP0895,Ashley Rodriguez,Ashley,Rodriguez,ashley.rodriguez@company.com,(313) 742-3339,54,Male,Fort Worth,Operations,Project Manager,Part-time,2019-06-17,30,Associate,189222,27358,4,13,216580
+EMP0896,Robert Jones,Robert,Jones,robert.jones@company.com,(763) 781-1958,36,Male,Philadelphia,Marketing,Content Creator,Full-time,2022-10-15,14,Bachelor,137187,32465,2,18,169652
+EMP0897,Ashley Miller,Ashley,Miller,ashley.miller@company.com,(907) 378-6167,40,Male,Jacksonville,HR,HR Manager,Full-time,2025-02-02,17,PhD,188636,41650,4,9,230286
+EMP0898,Jessica Smith,Jessica,Smith,jessica.smith@company.com,(398) 626-2501,22,Male,Seattle,HR,HR Specialist,Part-time,2021-06-06,0,Associate,102690,11998,3,15,114688
+EMP0899,James Smith,James,Smith,james.smith@company.com,(872) 545-6419,39,Male,San Diego,Legal,Contract Manager,Full-time,2020-02-22,15,Bachelor,239036,46024,4,1,285060
+EMP0900,James Anderson,James,Anderson,james.anderson@company.com,(720) 486-6207,22,Female,Indianapolis,IT,System Admin,Full-time,2015-10-31,0,Master,125574,18548,2,10,144122
+EMP0901,Stephanie Williams,Stephanie,Williams,stephanie.williams@company.com,(220) 726-7861,38,Female,San Jose,Sales,Business Development,Contract,2018-01-16,14,Associate,140137,31443,3,10,171580
+EMP0902,Daniel Martinez,Daniel,Martinez,daniel.martinez@company.com,(545) 682-8386,30,Female,Phoenix,Engineering,Senior Engineer,Part-time,2021-12-22,5,Bachelor,147715,16024,3,9,163739
+EMP0903,Amanda Anderson,Amanda,Anderson,amanda.anderson@company.com,(927) 246-6776,40,Female,Philadelphia,IT,Security Analyst,Part-time,2018-09-03,14,Bachelor,73973,10039,3,19,84012
+EMP0904,William Wilson,William,Wilson,william.wilson@company.com,(947) 250-7452,52,Female,Phoenix,Operations,Quality Assurance,Full-time,2021-10-22,27,Master,115331,6189,4,15,121520
+EMP0905,Jane Lopez,Jane,Lopez,jane.lopez@company.com,(560) 823-6412,34,Male,Fort Worth,HR,Compensation Analyst,Full-time,2022-03-11,10,Associate,61190,14970,4,6,76160
+EMP0906,Jane Brown,Jane,Brown,jane.brown@company.com,(701) 776-3808,23,Male,Chicago,Operations,Project Manager,Part-time,2019-07-25,1,Associate,185112,21220,5,6,206332
+EMP0907,Sarah Williams,Sarah,Williams,sarah.williams@company.com,(298) 232-9448,51,Female,San Diego,Operations,Operations Manager,Full-time,2016-02-17,26,Master,210456,11560,5,14,222016
+EMP0908,Jane Williams,Jane,Williams,jane.williams@company.com,(672) 945-7831,45,Male,Houston,Finance,Accountant,Full-time,2024-09-02,22,Master,64075,7928,1,16,72003
+EMP0909,Jessica Rodriguez,Jessica,Rodriguez,jessica.rodriguez@company.com,(230) 529-4729,36,Male,Chicago,HR,Compensation Analyst,Full-time,2018-07-14,14,Master,39838,6294,3,5,46132
+EMP0910,James Miller,James,Miller,james.miller@company.com,(554) 823-4556,41,Female,Jacksonville,Sales,Account Manager,Full-time,2018-06-30,18,Bachelor,206412,14402,1,17,220814
+EMP0911,Sarah Johnson,Sarah,Johnson,sarah.johnson@company.com,(327) 373-7068,54,Female,Austin,HR,HR Specialist,Contract,2024-07-31,28,Master,52536,4487,4,10,57023
+EMP0912,Ashley Gonzalez,Ashley,Gonzalez,ashley.gonzalez@company.com,(673) 604-3705,61,Female,Jacksonville,HR,Training Coordinator,Full-time,2024-11-08,35,Bachelor,74727,6214,2,9,80941
+EMP0913,Daniel Anderson,Daniel,Anderson,daniel.anderson@company.com,(233) 201-1361,27,Female,San Diego,Finance,Budget Analyst,Full-time,2021-06-20,5,Associate,107123,7510,3,15,114633
+EMP0914,Michael Wilson,Michael,Wilson,michael.wilson@company.com,(533) 219-7348,29,Female,Jacksonville,Sales,Sales Director,Part-time,2022-02-26,3,High School,101386,20440,4,14,121826
+EMP0915,James Lopez,James,Lopez,james.lopez@company.com,(248) 743-4900,56,Female,Los Angeles,Engineering,DevOps Engineer,Full-time,2024-03-09,30,Bachelor,111355,15114,4,15,126469
+EMP0916,Ashley Smith,Ashley,Smith,ashley.smith@company.com,(939) 400-8309,59,Female,San Antonio,Finance,Budget Analyst,Full-time,2024-03-19,33,Bachelor,39333,5400,4,13,44733
+EMP0917,Sarah Martinez,Sarah,Martinez,sarah.martinez@company.com,(361) 329-2781,61,Female,San Antonio,Sales,Sales Director,Full-time,2016-05-05,39,Bachelor,71950,11725,4,8,83675
+EMP0918,Sarah Garcia,Sarah,Garcia,sarah.garcia@company.com,(952) 799-4022,44,Male,Austin,Finance,Budget Analyst,Full-time,2019-07-03,20,Associate,144437,21969,2,16,166406
+EMP0919,Michael Brown,Michael,Brown,michael.brown@company.com,(444) 647-4436,58,Male,Philadelphia,Sales,Account Manager,Full-time,2021-10-13,33,Bachelor,141806,23911,3,17,165717
+EMP0920,Daniel Martinez,Daniel,Martinez,daniel.martinez@company.com,(362) 474-9909,52,Male,San Jose,Finance,Accountant,Full-time,2023-09-12,26,Bachelor,107855,22439,3,5,130294
+EMP0921,Emily Wilson,Emily,Wilson,emily.wilson@company.com,(647) 694-7827,43,Female,San Diego,Sales,Sales Coordinator,Full-time,2022-03-31,21,Master,90333,22339,3,11,112672
+EMP0922,Christopher Garcia,Christopher,Garcia,christopher.garcia@company.com,(417) 474-6171,22,Female,Charlotte,Sales,Sales Rep,Full-time,2024-11-07,0,High School,118568,8289,3,7,126857
+EMP0923,Emily Wilson,Emily,Wilson,emily.wilson@company.com,(717) 982-6129,64,Male,Fort Worth,HR,Recruiter,Full-time,2017-07-27,42,Bachelor,52545,2965,3,9,55510
+EMP0924,Ashley Johnson,Ashley,Johnson,ashley.johnson@company.com,(367) 543-4568,31,Male,New York,HR,HR Manager,Full-time,2020-05-07,6,High School,80430,15707,3,2,96137
+EMP0925,John Gonzalez,John,Gonzalez,john.gonzalez@company.com,(983) 792-8413,57,Female,Indianapolis,Engineering,DevOps Engineer,Full-time,2019-12-03,35,Bachelor,40380,7464,3,16,47844
+EMP0926,James Miller,James,Miller,james.miller@company.com,(309) 506-6319,29,Male,Austin,IT,System Admin,Full-time,2022-08-23,4,High School,135273,7753,2,8,143026
+EMP0927,Jane Rodriguez,Jane,Rodriguez,jane.rodriguez@company.com,(990) 658-7729,25,Female,Chicago,Marketing,Marketing Manager,Full-time,2016-07-07,0,PhD,106718,12311,2,3,119029
+EMP0928,Jane Brown,Jane,Brown,jane.brown@company.com,(991) 278-1981,34,Female,Philadelphia,Marketing,Digital Marketer,Full-time,2024-09-15,9,Associate,134405,28282,4,13,162687
+EMP0929,Jane Johnson,Jane,Johnson,jane.johnson@company.com,(900) 311-6294,61,Female,Columbus,Sales,Sales Rep,Full-time,2017-08-20,38,High School,103408,18580,4,17,121988
+EMP0930,Emily Wilson,Emily,Wilson,emily.wilson@company.com,(336) 446-9632,25,Female,Los Angeles,Finance,Finance Manager,Full-time,2019-06-19,0,Bachelor,204191,36196,3,19,240387
+EMP0931,Christopher Johnson,Christopher,Johnson,christopher.johnson@company.com,(305) 600-8872,63,Male,Houston,Sales,Sales Director,Full-time,2022-03-01,41,Bachelor,212159,18360,3,8,230519
+EMP0932,Christopher Gonzalez,Christopher,Gonzalez,christopher.gonzalez@company.com,(553) 248-7993,34,Female,Dallas,Sales,Sales Coordinator,Full-time,2025-01-09,12,Master,95587,15589,3,19,111176
+EMP0933,Stephanie Wilson,Stephanie,Wilson,stephanie.wilson@company.com,(739) 201-4283,23,Male,Indianapolis,IT,IT Support,Full-time,2023-07-16,0,Master,82199,7888,3,13,90087
+EMP0934,Sarah Gonzalez,Sarah,Gonzalez,sarah.gonzalez@company.com,(478) 905-2372,45,Male,Philadelphia,Sales,Sales Coordinator,Full-time,2016-01-13,20,Master,137760,23948,3,15,161708
+EMP0935,James Jones,James,Jones,james.jones@company.com,(360) 339-4659,55,Male,San Jose,Sales,Sales Director,Full-time,2018-11-01,29,Bachelor,177233,32104,4,7,209337
+EMP0936,Michael Rodriguez,Michael,Rodriguez,michael.rodriguez@company.com,(536) 238-1891,31,Female,San Diego,IT,IT Support,Full-time,2021-12-07,6,Bachelor,51246,7269,4,2,58515
+EMP0937,David Martinez,David,Martinez,david.martinez@company.com,(915) 265-4898,57,Male,New York,Finance,Budget Analyst,Full-time,2019-05-18,33,PhD,142481,20712,3,13,163193
+EMP0938,Sarah Hernandez,Sarah,Hernandez,sarah.hernandez@company.com,(552) 290-5007,48,Male,San Jose,Finance,Controller,Part-time,2021-05-29,26,Bachelor,124831,29586,3,14,154417
+EMP0939,Jane Garcia,Jane,Garcia,jane.garcia@company.com,(533) 342-4481,51,Female,Fort Worth,Marketing,Content Creator,Full-time,2016-06-20,29,Master,97495,19667,4,18,117162
+EMP0940,David Lopez,David,Lopez,david.lopez@company.com,(438) 533-6527,53,Male,San Antonio,Marketing,Digital Marketer,Full-time,2022-07-27,29,Associate,145227,15743,4,3,160970
+EMP0941,John Johnson,John,Johnson,john.johnson@company.com,(316) 864-4747,55,Male,Houston,Engineering,Senior Engineer,Full-time,2019-07-28,31,Bachelor,145075,18533,3,1,163608
+EMP0942,Jane Garcia,Jane,Garcia,jane.garcia@company.com,(957) 391-5166,23,Female,San Diego,IT,Network Engineer,Full-time,2018-06-07,0,Master,129891,12086,3,19,141977
+EMP0943,Stephanie Jones,Stephanie,Jones,stephanie.jones@company.com,(523) 359-9897,62,Male,Dallas,HR,HR Specialist,Full-time,2021-01-30,39,Master,144454,27704,3,9,172158
+EMP0944,Stephanie Gonzalez,Stephanie,Gonzalez,stephanie.gonzalez@company.com,(655) 730-6147,23,Female,San Antonio,HR,Recruiter,Part-time,2025-05-28,0,Associate,69710,4131,3,2,73841
+EMP0945,Sarah Anderson,Sarah,Anderson,sarah.anderson@company.com,(736) 939-9233,37,Male,Philadelphia,Legal,Paralegal,Full-time,2024-06-30,12,Associate,70391,11230,2,13,81621
+EMP0946,David Miller,David,Miller,david.miller@company.com,(379) 247-2622,51,Male,Seattle,Marketing,Digital Marketer,Part-time,2020-08-11,28,Bachelor,77801,4726,5,11,82527
+EMP0947,John Williams,John,Williams,john.williams@company.com,(667) 661-1116,24,Male,Phoenix,Engineering,Engineering Manager,Part-time,2025-06-09,2,High School,116085,23425,2,10,139510
+EMP0948,Ashley Lopez,Ashley,Lopez,ashley.lopez@company.com,(450) 329-3811,32,Female,Indianapolis,Sales,Business Development,Contract,2017-10-14,8,Bachelor,52970,8228,3,12,61198
+EMP0949,Emily Brown,Emily,Brown,emily.brown@company.com,(371) 517-1854,45,Female,Columbus,Sales,Business Development,Part-time,2022-12-23,22,High School,127449,29455,2,6,156904
+EMP0950,John Rodriguez,John,Rodriguez,john.rodriguez@company.com,(342) 436-1286,41,Male,Austin,Marketing,Brand Manager,Full-time,2015-10-25,17,Bachelor,183888,26570,3,1,210458
+EMP0951,David Williams,David,Williams,david.williams@company.com,(220) 515-6557,23,Male,San Francisco,Legal,Legal Assistant,Full-time,2020-04-05,0,PhD,43444,8660,2,17,52104
+EMP0952,Robert Rodriguez,Robert,Rodriguez,robert.rodriguez@company.com,(395) 923-1527,63,Female,San Antonio,IT,System Admin,Full-time,2025-07-18,38,PhD,47552,3522,2,16,51074
+EMP0953,Ashley Hernandez,Ashley,Hernandez,ashley.hernandez@company.com,(218) 760-1471,47,Male,Austin,Finance,Budget Analyst,Full-time,2017-10-24,23,Bachelor,148723,25665,4,16,174388
+EMP0954,Amanda Jones,Amanda,Jones,amanda.jones@company.com,(523) 405-8354,31,Male,San Francisco,Engineering,Engineering Manager,Full-time,2020-03-26,5,Bachelor,94583,19347,3,13,113930
+EMP0955,Amanda Johnson,Amanda,Johnson,amanda.johnson@company.com,(720) 826-1842,47,Male,Phoenix,Legal,Legal Assistant,Full-time,2024-08-01,25,High School,111688,23414,4,13,135102
+EMP0956,John Johnson,John,Johnson,john.johnson@company.com,(517) 758-7381,40,Female,Fort Worth,Finance,Accountant,Full-time,2016-03-19,14,Bachelor,142079,29676,3,17,171755
+EMP0957,Stephanie Martinez,Stephanie,Martinez,stephanie.martinez@company.com,(966) 662-1942,55,Male,Philadelphia,Operations,Operations Manager,Full-time,2022-01-18,30,High School,269445,40384,3,2,309829
+EMP0958,Jessica Wilson,Jessica,Wilson,jessica.wilson@company.com,(444) 759-3348,37,Male,Charlotte,HR,Compensation Analyst,Full-time,2019-11-20,13,Master,96585,22195,2,17,118780
+EMP0959,Emily Brown,Emily,Brown,emily.brown@company.com,(402) 246-5503,57,Male,Phoenix,Legal,Legal Counsel,Full-time,2024-02-01,33,Bachelor,135944,26482,2,4,162426
+EMP0960,Jane Hernandez,Jane,Hernandez,jane.hernandez@company.com,(297) 681-4570,55,Female,Phoenix,Finance,Financial Analyst,Contract,2024-12-07,32,Bachelor,109155,20268,4,11,129423
+EMP0961,Emily Smith,Emily,Smith,emily.smith@company.com,(856) 544-6828,64,Male,Seattle,Operations,Quality Assurance,Part-time,2016-02-24,41,Bachelor,105780,21674,5,2,127454
+EMP0962,Jessica Davis,Jessica,Davis,jessica.davis@company.com,(743) 411-6392,51,Female,San Antonio,Finance,Budget Analyst,Full-time,2025-03-02,28,Bachelor,122834,12607,3,8,135441
+EMP0963,Jane Williams,Jane,Williams,jane.williams@company.com,(864) 667-3422,56,Male,Seattle,Sales,Sales Rep,Part-time,2016-12-31,30,Master,88076,16618,3,12,104694
+EMP0964,Daniel Lopez,Daniel,Lopez,daniel.lopez@company.com,(764) 567-4749,34,Female,Columbus,Sales,Account Manager,Full-time,2020-06-21,12,High School,131023,27467,2,14,158490
+EMP0965,Ashley Lopez,Ashley,Lopez,ashley.lopez@company.com,(208) 619-5124,29,Female,Los Angeles,Legal,Compliance Officer,Full-time,2024-07-23,6,Bachelor,148289,12835,5,4,161124
+EMP0966,Amanda Jones,Amanda,Jones,amanda.jones@company.com,(799) 320-8921,23,Male,Columbus,Marketing,Brand Manager,Full-time,2019-05-09,1,Bachelor,169050,23039,2,19,192089
+EMP0967,Robert Williams,Robert,Williams,robert.williams@company.com,(367) 745-7973,28,Male,San Diego,Finance,Finance Manager,Full-time,2023-05-11,2,Bachelor,221974,37772,2,1,259746
+EMP0968,Sarah Hernandez,Sarah,Hernandez,sarah.hernandez@company.com,(285) 303-1204,40,Male,San Jose,Legal,Compliance Officer,Full-time,2020-05-12,14,Master,52465,12107,1,13,64572
+EMP0969,John Garcia,John,Garcia,john.garcia@company.com,(867) 614-5086,59,Female,Fort Worth,Finance,Controller,Full-time,2020-08-03,35,Bachelor,93581,12407,2,6,105988
+EMP0970,Jessica Jones,Jessica,Jones,jessica.jones@company.com,(919) 616-9406,63,Female,Jacksonville,Engineering,Software Engineer,Full-time,2017-01-11,40,Bachelor,83061,9006,5,2,92067
+EMP0971,James Martinez,James,Martinez,james.martinez@company.com,(969) 264-3237,39,Male,Jacksonville,Finance,Finance Manager,Full-time,2019-06-16,13,Master,166174,38946,1,8,205120
+EMP0972,James Garcia,James,Garcia,james.garcia@company.com,(708) 849-5581,56,Female,Philadelphia,HR,HR Specialist,Full-time,2019-06-19,30,Bachelor,121677,7247,3,18,128924
+EMP0973,David Anderson,David,Anderson,david.anderson@company.com,(343) 281-7732,58,Male,Philadelphia,Operations,Process Analyst,Full-time,2022-10-13,35,PhD,120094,26973,3,4,147067
+EMP0974,James Jones,James,Jones,james.jones@company.com,(636) 326-1637,48,Female,New York,Finance,Budget Analyst,Full-time,2018-04-05,25,Bachelor,84008,18493,4,1,102501
+EMP0975,William Williams,William,Williams,william.williams@company.com,(973) 290-1580,42,Male,San Jose,Legal,Compliance Officer,Full-time,2018-03-24,19,High School,57027,7938,3,15,64965
+EMP0976,Jane Lopez,Jane,Lopez,jane.lopez@company.com,(415) 924-1711,56,Female,Los Angeles,IT,IT Manager,Part-time,2021-11-01,33,Bachelor,160911,8341,3,10,169252
+EMP0977,Daniel Johnson,Daniel,Johnson,daniel.johnson@company.com,(391) 779-8769,44,Male,San Antonio,IT,IT Support,Full-time,2022-02-21,18,Bachelor,106602,11034,2,3,117636
+EMP0978,William Martinez,William,Martinez,william.martinez@company.com,(682) 345-7121,29,Female,Chicago,Marketing,Content Creator,Full-time,2020-05-31,7,Master,35757,8592,4,12,44349
+EMP0979,John Gonzalez,John,Gonzalez,john.gonzalez@company.com,(772) 478-8597,59,Male,Charlotte,Engineering,Tech Lead,Full-time,2020-11-09,36,Associate,137024,11695,4,6,148719
+EMP0980,John Wilson,John,Wilson,john.wilson@company.com,(305) 300-2688,24,Female,San Jose,Marketing,Digital Marketer,Part-time,2025-03-10,1,Bachelor,56248,11456,3,14,67704
+EMP0981,Ashley Gonzalez,Ashley,Gonzalez,ashley.gonzalez@company.com,(959) 500-6728,46,Female,Dallas,Operations,Supply Chain,Full-time,2017-12-30,21,Bachelor,88668,4775,4,5,93443
+EMP0982,John Miller,John,Miller,john.miller@company.com,(386) 697-1599,43,Female,Charlotte,Finance,Financial Analyst,Full-time,2018-07-05,20,PhD,94004,13151,3,13,107155
+EMP0983,James Rodriguez,James,Rodriguez,james.rodriguez@company.com,(857) 795-1576,22,Male,San Diego,Finance,Controller,Part-time,2025-03-31,0,Master,87147,14692,2,19,101839
+EMP0984,Jessica Davis,Jessica,Davis,jessica.davis@company.com,(249) 302-4563,40,Male,San Jose,HR,Training Coordinator,Full-time,2018-06-17,14,High School,129048,7518,4,17,136566
+EMP0985,Stephanie Williams,Stephanie,Williams,stephanie.williams@company.com,(953) 586-9585,32,Female,San Diego,Engineering,Software Engineer,Part-time,2017-07-23,9,Bachelor,86119,10227,4,5,96346
+EMP0986,James Williams,James,Williams,james.williams@company.com,(232) 498-7558,35,Male,Austin,HR,Compensation Analyst,Full-time,2022-05-09,13,High School,109796,13209,2,6,123005
+EMP0987,Michael Jones,Michael,Jones,michael.jones@company.com,(527) 809-8001,57,Female,San Diego,IT,System Admin,Full-time,2024-11-29,31,Bachelor,54861,3059,3,14,57920
+EMP0988,Christopher Wilson,Christopher,Wilson,christopher.wilson@company.com,(794) 626-7798,43,Male,San Francisco,Operations,Quality Assurance,Part-time,2023-09-19,20,Bachelor,63634,9675,3,16,73309
+EMP0989,Ashley Davis,Ashley,Davis,ashley.davis@company.com,(954) 344-3369,62,Female,Dallas,IT,IT Manager,Full-time,2022-08-26,38,Master,141289,7500,2,2,148789
+EMP0990,Michael Smith,Michael,Smith,michael.smith@company.com,(855) 276-7104,64,Male,Phoenix,Legal,Legal Assistant,Full-time,2016-09-07,39,Master,111325,23743,5,15,135068
+EMP0991,Stephanie Jones,Stephanie,Jones,stephanie.jones@company.com,(888) 289-3329,28,Male,Houston,Marketing,Marketing Specialist,Full-time,2015-12-08,3,Bachelor,129627,14159,4,7,143786
+EMP0992,Sarah Hernandez,Sarah,Hernandez,sarah.hernandez@company.com,(339) 313-2389,56,Male,Jacksonville,Engineering,Engineering Manager,Part-time,2023-08-08,30,Bachelor,204083,33597,5,14,237680
+EMP0993,Michael Gonzalez,Michael,Gonzalez,michael.gonzalez@company.com,(708) 895-8632,34,Male,Seattle,Marketing,Brand Manager,Full-time,2023-01-30,10,Bachelor,171575,27971,4,11,199546
+EMP0994,Christopher Lopez,Christopher,Lopez,christopher.lopez@company.com,(848) 538-9703,56,Female,San Antonio,Engineering,Tech Lead,Full-time,2019-09-27,34,Master,239698,40467,3,15,280165
+EMP0995,Sarah Martinez,Sarah,Martinez,sarah.martinez@company.com,(480) 961-6177,61,Female,San Antonio,IT,IT Manager,Part-time,2025-03-04,36,Associate,122423,7106,4,7,129529
+EMP0996,William Gonzalez,William,Gonzalez,william.gonzalez@company.com,(321) 619-1303,33,Female,San Diego,HR,Training Coordinator,Part-time,2017-07-26,10,Master,101968,13900,4,11,115868
+EMP0997,Michael Miller,Michael,Miller,michael.miller@company.com,(450) 775-8466,64,Female,Fort Worth,Marketing,Marketing Specialist,Full-time,2022-07-09,39,Bachelor,123444,26448,4,14,149892
+EMP0998,Jessica Martinez,Jessica,Martinez,jessica.martinez@company.com,(810) 862-3997,62,Male,San Antonio,Engineering,Software Engineer,Full-time,2024-05-02,39,Bachelor,59061,7147,5,9,66208
+EMP0999,Daniel Miller,Daniel,Miller,daniel.miller@company.com,(983) 841-5590,44,Male,Columbus,Legal,Compliance Officer,Full-time,2019-11-14,18,Bachelor,50409,9626,2,18,60035
+EMP1000,Christopher Gonzalez,Christopher,Gonzalez,christopher.gonzalez@company.com,(645) 539-6650,37,Male,San Diego,Operations,Process Analyst,Part-time,2018-04-09,11,Bachelor,81097,11159,4,11,92256

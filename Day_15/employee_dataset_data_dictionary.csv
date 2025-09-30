@@ -1,0 +1,21 @@
+Column,Data_Type,Description,Sample_Values
+employee_id,object,Unique employee identifier,EMP0001
+full_name,object,Full name of employee,Robert Brown
+first_name,object,First name,Robert
+last_name,object,Last name,Brown
+email,object,Company email address,robert.brown@company.com
+phone,object,Phone number,(543) 691-7949
+age,int64,Age in years,50
+gender,object,Gender (Male/Female),Male
+city,object,City of residence,San Diego
+department,object,Department name,Finance
+position,object,Job position/title,Budget Analyst
+employment_type,object,Employment type (Full-time/Part-time/Contract/Intern),Full-time
+hire_date,object,Date of hire (YYYY-MM-DD),2024-05-17
+years_experience,int64,Years of professional experience,26
+education_level,object,Highest education level,Bachelor
+salary,int64,Annual salary in USD,79131
+bonus,int64,Annual bonus in USD,6217
+performance_rating,int64,Performance rating (1-5 scale),4
+projects_completed,int64,Number of projects completed,2
+total_compensation,int64,Total compensation (salary + bonus),85348

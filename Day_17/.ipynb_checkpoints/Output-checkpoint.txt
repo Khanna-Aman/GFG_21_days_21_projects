@@ -1,0 +1,93 @@
+Starting BFS crawl on Wikipedia using crawl4ai...
+Target: https://www.wikipedia.org
+Max depth: 2
+Max pages: 500
+Strategy: BFSDeepCrawlStrategy
+============================================================
+[INIT].... → Crawl4AI 0.7.4 
+[FETCH]... ↓ https://www.wikipedia.org                                                                            | ✓ | 
+⏱: 0.90s 
+[SCRAPE].. ◆ https://www.wikipedia.org                                                                            | ✓ | 
+⏱: 0.04s 
+[COMPLETE] ● https://www.wikipedia.org                                                                            | ✓ | 
+⏱: 0.97s 
+[FETCH]... ↓ https://ab.wikipedia.org                                                                             | ✓ | 
+⏱: 1.09s 
+[SCRAPE].. ◆ https://ab.wikipedia.org                                                                             | ✓ | 
+⏱: 0.25s 
+[COMPLETE] ● https://ab.wikipedia.org                                                                             | ✓ | 
+⏱: 1.35s 
+[FETCH]... ↓ https://ace.wikipedia.org                                                                            | ✓ | 
+⏱: 1.50s 
+[SCRAPE].. ◆ https://ace.wikipedia.org                                                                            | ✓ | 
+⏱: 0.32s 
+[COMPLETE] ● https://ace.wikipedia.org                                                                            | ✓ | 
+⏱: 1.83s 
+[FETCH]... ↓ https://ady.wikipedia.org                                                                            | ✓ | 
+⏱: 1.84s 
+[SCRAPE].. ◆ https://ady.wikipedia.org                                                                            | ✓ | 
+⏱: 0.34s 
+[COMPLETE] ● https://ady.wikipedia.org                                                                            | ✓ | 
+⏱: 2.19s 
+[FETCH]... ↓ https://af.wikipedia.org                                                                             | ✓ | 
+⏱: 2.37s 
+[SCRAPE].. ◆ https://af.wikipedia.org                                                                             | ✓ | 
+⏱: 0.31s 
+[COMPLETE] ● https://af.wikipedia.org                                                                             | ✓ | 
+⏱: 2.69s 
+[FETCH]... ↓ https://als.wikipedia.org                                                                            | ✓ | 
+⏱: 2.74s 
+[SCRAPE].. ◆ https://als.wikipedia.org                                                                            | ✓ | 
+⏱: 0.19s 
+[COMPLETE] ● https://als.wikipedia.org                                                                            | ✓ | 
+⏱: 2.94s 
+[FETCH]... ↓ https://alt.wikipedia.org                                                                            | ✓ | 
+⏱: 3.10s 
+[SCRAPE].. ◆ https://alt.wikipedia.org                                                                            | ✓ | 
+⏱: 0.22s 
+[COMPLETE] ● https://alt.wikipedia.org                                                                            | ✓ | 
+⏱: 3.33s 
+[FETCH]... ↓ https://ami.wikipedia.org                                                                            | ✓ | 
+⏱: 3.35s 
+[SCRAPE].. ◆ https://ami.wikipedia.org                                                                            | ✓ | 
+⏱: 0.28s 
+[COMPLETE] ● https://ami.wikipedia.org                                                                            | ✓ | 
+⏱: 3.63s 
+[FETCH]... ↓ https://ang.wikipedia.org                                                                            | ✓ | 
+⏱: 3.69s 
+[SCRAPE].. ◆ https://ang.wikipedia.org                                                                            | ✓ | 
+⏱: 0.31s 
+[COMPLETE] ● https://ang.wikipedia.org                                                                            | ✓ | 
+⏱: 4.01s 
+[FETCH]... ↓ https://am.wikipedia.org                                                                             | ✓ | 
+⏱: 4.18s 
+[SCRAPE].. ◆ https://am.wikipedia.org                                                                             | ✓ | 
+⏱: 0.41s 
+[COMPLETE] ● https://am.wikipedia.org                                                                             | ✓ | 
+⏱: 4.60s 
+[FETCH]... ↓ https://ast.wikipedia.org                                                                            | ✓ | 
+⏱: 4.62s 
+[SCRAPE].. ◆ https://ast.wikipedia.org                                                                            | ✓ | 
+⏱: 0.24s 
+[COMPLETE] ● https://ast.wikipedia.org                                                                            | ✓ | 
+⏱: 4.87s 
+[FETCH]... ↓ https://an.wikipedia.org                                                                             | ✓ | 
+⏱: 4.92s 
+[SCRAPE].. ◆ https://an.wikipedia.org                                                                             | ✓ | 
+⏱: 0.40s 
+[COMPLETE] ● https://an.wikipedia.org                                                                             | ✓ | 
+⏱: 5.32s 
+[FETCH]... ↓ https://ann.wikipedia.org                                                                            | ✓ | 
+⏱: 5.35s 
+[SCRAPE].. ◆ https://ann.wikipedia.org                                                                            | ✓ | 
+⏱: 0.40s 
+[COMPLETE] ● https://ann.wikipedia.org                                                                            | ✓ | 
+⏱: 5.89s 
+[FETCH]... ↓ https://arc.wikipedia.org                                                                            | ✓ | 
+⏱: 6.09s 
+[SCRAPE].. ◆ https://arc.wikipedia.org                                                                            | ✓ | 
+⏱: 0.33s 
+[COMPLETE] ● https://arc.wikipedia.org                                                                            | ✓ | 
+⏱: 6.42s 
+[FETCH]... ↓ https://av.wikipedia.org                                                                             | ✓ | 
+⏱: 6.44s 
